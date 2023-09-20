@@ -1748,7 +1748,7 @@ if (false) {}
               max: maxObj.kk_flow
             };
           }),
-          center: ["50%", "50%"],
+          center: ["46%", "50%"],
           radius: 50,
           startAngle: 90,
           splitNumber: 4,
