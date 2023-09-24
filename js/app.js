@@ -237,7 +237,7 @@ var ___CSS_LOADER_URL_REPLACEMENT_23___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS
 var ___CSS_LOADER_URL_REPLACEMENT_24___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_24___);
 var ___CSS_LOADER_URL_REPLACEMENT_25___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_25___);
 // Module
-exports.push([module.i, "#app {\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  background-color: #000;\n  position: relative;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") bottom / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ") center / cover no-repeat;\n}\n#app .dialog {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n#app .dialog .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n#app .dialog .picture {\n  width: 867rem;\n  height: 580rem;\n}\n#app .dialog .picture img {\n  width: 100%;\n}\n#app .dialog .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n#app .dialog .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ") left center / 35rem 45rem no-repeat;\n}\n#app .dialog .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_4___ + ") center / 80rem 45rem;\n}\n#app .dialog .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_5___ + ") right center / 35rem 45rem no-repeat;\n}\n#app .dialog2 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n#app .dialog2 .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n#app .dialog2 .dialog_content {\n  width: 867rem;\n  height: 580rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n#app .dialog2 .dialog_content .stop_car {\n  zoom: 1.5;\n  font-size: 20rem;\n  font-family: newFont;\n}\n#app .dialog2 .dialog_content .stop_car .label_title {\n  margin-top: 10rem;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card {\n  display: inline-block;\n  font-size: 16rem;\n  width: 165rem;\n  height: 55rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_6___ + ") center / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_7___ + ") left / 69rem 64rem no-repeat;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card .label_one {\n  text-align: right;\n  padding: 5rem 10rem 0 0;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card .label_two {\n  font-size: 18rem;\n  text-align: right;\n  padding: 0 10rem 0 0;\n}\n#app .dialog2 .dialog_content .table_move {\n  zoom: 1.5;\n  width: 350rem;\n  padding-right: 26rem;\n}\n#app .dialog2 .dialog_content .table_move .table_one {\n  margin: 10rem 0;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns {\n  display: flex;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns .btn1,\n#app .dialog2 .dialog_content .table_move .table_one .btns .btn2 {\n  margin-right: 10rem;\n  width: 56rem;\n  height: 25rem;\n  line-height: 25rem;\n  text-align: center;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_8___ + ") center / contain no-repeat;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns .isAcitve {\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_9___ + ") center / contain no-repeat;\n}\n#app .dialog2 .dialog_content .table_move .table_one .migration {\n  padding: 5rem 15rem;\n  background-color: rgba(18, 137, 221, 0.3);\n}\n#app .dialog2 .dialog_content .table_move .table_one .migration span {\n  font-family: newFont;\n  padding-left: 5rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two {\n  overflow: hidden;\n  height: 180rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th > div {\n  text-align: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th .th_one {\n  width: 50rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th .th_two {\n  width: 50rem;\n  text-align: left;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box {\n  position: relative;\n  overflow: hidden;\n  height: 150rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td > div {\n  text-align: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_one {\n  display: flex;\n  align-items: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_one .table_icon {\n  display: inline-block;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_10___ + ") center / 30rem no-repeat;\n  width: 30rem;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_two {\n  width: 100rem;\n  margin-left: 37rem;\n  text-align: left;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td:nth-of-type(even) {\n  background: rgba(25, 214, 255, 0.1);\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box #box1 {\n  position: absolute;\n  width: 100%;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .animation-stop {\n  animation-play-state: paused !important;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .animation-start {\n  animation-play-state: running !important;\n}\n#app .dialog2 .dialog_content .bar-chart {\n  width: 525rem;\n  height: 270rem;\n}\n#app .dialog2 .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n#app .dialog2 .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ") left center / 35rem 45rem no-repeat;\n}\n#app .dialog2 .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_4___ + ") center / 80rem 45rem;\n}\n#app .dialog2 .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_5___ + ") right center / 35rem 45rem no-repeat;\n}\n#app .weather {\n  position: absolute;\n  top: 18rem;\n  right: 433rem;\n  width: 196px;\n  height: 100rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_11___ + ") center / cover no-repeat;\n  z-index: 20;\n  padding: 10rem 20rem;\n}\n#app .weather .weather_item1 {\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .weather .weather_item2 {\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .weather .weather_item3 {\n  font-size: 12rem;\n}\n#app .map {\n  position: absolute;\n  bottom: 0;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1201rem;\n  height: 1008rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_12___ + ") bottom center / 1201rem 1008rem no-repeat;\n  opacity: 0.8;\n}\n#app .map .liuliang_card {\n  position: absolute;\n  right: 286rem;\n  bottom: 255rem;\n  width: 230rem;\n  height: 119rem;\n  padding: 24rem 38rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_13___ + ") center / cover no-repeat;\n}\n#app .map .liuliang_card .liuliang_title {\n  font-size: 16rem;\n  font-family: PingFangSC-Semibold, PingFang SC;\n  font-weight: 600;\n  color: #ff9e83;\n  margin-bottom: 10rem;\n}\n#app .map .liuliang_card .liuliang_content {\n  display: flex;\n  align-items: center;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_item .liuliang_name {\n  font-size: 14rem;\n  font-family: PingFangSC-Medium, PingFang SC;\n  font-weight: 500;\n  color: #ffffff;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_item .liuliang_num {\n  font-size: 14rem;\n  font-family: PingFangSC-Semibold, PingFang SC;\n  font-weight: 600;\n  color: #ffffff;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_line {\n  width: 3rem;\n  height: 30rem;\n  background: #ffffff;\n  border-radius: 2rem;\n  opacity: 0.65;\n  margin-right: 10rem;\n}\n#app .top-bar {\n  position: absolute;\n  z-index: 3;\n  font-family: \"newFont\";\n  width: 100%;\n  height: 112rem;\n  text-align: center;\n  line-height: 100rem;\n  font-size: 40rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_14___ + ") center top / 1630rem no-repeat;\n}\n#app .bottom-bar {\n  width: 100%;\n  position: absolute;\n  bottom: 0;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_15___ + ") center bottom / 1778rem no-repeat;\n  height: 63rem;\n  text-align: center;\n}\n#app .bottom-bar img {\n  width: 92rem;\n  margin-top: 31rem;\n  cursor: pointer;\n}\n#app .bottom-bar .bottom_btn {\n  position: absolute;\n  bottom: 1rem;\n  z-index: 3;\n  font-size: 15rem;\n  width: 163rem;\n  height: 44rem;\n  padding: 10rem 0 0 7rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_16___ + ") center / 163rem 44rem no-repeat;\n}\n#app .bottom-bar .pass-analyse .analyse_item {\n  position: absolute;\n  z-index: 2;\n  top: -117rem;\n  right: 355rem;\n  width: 268rem;\n  height: 150rem;\n  padding: 12rem 0 0 34rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 268rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 268rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 268rem 140rem no-repeat;\n}\n#app .bottom-bar .pass-analyse .analyse_item .icon-row {\n  display: flex;\n  align-items: center;\n}\n#app .bottom-bar .pass-analyse .analyse_item .icon-row span {\n  font-size: 22rem;\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .bottom-bar .pass-analyse .analyse_item .row-label {\n  font-size: 12rem;\n  text-align: left;\n  margin-block: 1rem;\n}\n#app .contain {\n  width: 100%;\n  display: flex;\n  margin-top: 112rem;\n  justify-content: space-between;\n}\n#app .left-box {\n  margin-left: 35rem;\n  transform: translateY(-70rem);\n}\n#app .right-box {\n  transform: translateY(-70rem);\n  display: flex;\n  flex-direction: column;\n}\n#app .right-box .radar-chart {\n  width: 350rem;\n  height: 190rem;\n}\n#app .right-box .bar-chart {\n  width: 350rem;\n  height: 180rem;\n}\n#app .right-box .stop_car {\n  font-size: 20rem;\n  font-family: newFont;\n}\n#app .right-box .stop_car .label_title {\n  margin-top: 10rem;\n}\n#app .right-box .stop_car .stop_card {\n  display: inline-block;\n  font-size: 16rem;\n  width: 165rem;\n  height: 55rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_6___ + ") center / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_7___ + ") left / 69rem 64rem no-repeat;\n}\n#app .right-box .stop_car .stop_card .label_one {\n  text-align: right;\n  padding: 5rem 10rem 0 0;\n}\n#app .right-box .stop_car .stop_card .label_two {\n  font-size: 18rem;\n  text-align: right;\n  padding: 0 10rem 0 0;\n}\n#app .right-box .cards {\n  transform: translateY(-10rem);\n}\n#app .right-box .title_label {\n  transform: translateY(-5rem);\n}\n#app .cards {\n  display: flex;\n  flex-wrap: wrap;\n  width: 350rem;\n}\n#app .cards .card_small {\n  opacity: 0.8;\n  transform: translateY(7rem);\n  width: 163rem;\n  height: 55rem;\n  padding: 5rem 0 0 20rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_16___ + ") center / 163rem 55rem no-repeat;\n}\n#app .cards .card_small .row-one {\n  font-size: 12rem;\n}\n#app .cards .card_small .row-two {\n  font-family: newFont;\n  font-size: 22rem;\n}\n#app .cards .card_big {\n  opacity: 0.8;\n  padding: 5rem 0 0 20rem;\n  width: 163rem;\n  height: 95rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_18___ + ") center / 163rem 105rem no-repeat;\n}\n#app .cards .card_big .row-one {\n  font-size: 12rem;\n}\n#app .cards .card_big .row-two {\n  font-family: newFont;\n  font-size: 22rem;\n}\n#app .cards .card_big .row-three {\n  font-size: 12rem;\n}\n#app .cards .card_big .row-three .row-three-one,\n#app .cards .card_big .row-three .row-three-two {\n  display: flex;\n  align-items: center;\n}\n#app .cards .card_big .row-three .icon1_img {\n  display: inline-block;\n  width: 14rem;\n  height: 14rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_19___ + ") center / 25rem no-repeat;\n}\n#app .cards .card_big .row-three .red-num {\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .cards .card_big .row-three .blue-num {\n  color: #00a3e5;\n  font-weight: 600;\n}\n#app .title_oneself {\n  font-family: newFont;\n  font-size: 22rem;\n  padding-left: 8rem;\n}\n#app .line-charts1,\n#app .line-charts2,\n#app .line-charts3,\n#app .line-charts4 {\n  width: 320rem;\n  height: 210rem;\n  margin-bottom: 10rem;\n}\n#app .table_move {\n  width: 350rem;\n  padding-right: 26rem;\n}\n#app .table_move .table_one {\n  margin: 10rem 0;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n#app .table_move .table_one .btns {\n  display: flex;\n}\n#app .table_move .table_one .btns .btn1,\n#app .table_move .table_one .btns .btn2 {\n  margin-right: 10rem;\n  width: 56rem;\n  height: 25rem;\n  line-height: 25rem;\n  text-align: center;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_8___ + ") center / contain no-repeat;\n}\n#app .table_move .table_one .btns .isAcitve {\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_9___ + ") center / contain no-repeat;\n}\n#app .table_move .table_one .migration {\n  padding: 5rem 15rem;\n  background-color: rgba(18, 137, 221, 0.3);\n}\n#app .table_move .table_one .migration span {\n  font-family: newFont;\n  padding-left: 5rem;\n}\n#app .table_move .table_two {\n  overflow: hidden;\n  height: 180rem;\n}\n#app .table_move .table_two .table_th {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .table_move .table_two .table_th > div {\n  text-align: center;\n}\n#app .table_move .table_two .table_th .th_one {\n  width: 50rem;\n}\n#app .table_move .table_two .table_th .th_two {\n  width: 50rem;\n  text-align: left;\n}\n#app .table_move .table_two .roll-box {\n  position: relative;\n  overflow: hidden;\n  height: 150rem;\n}\n#app .table_move .table_two .roll-box .table_td {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .table_move .table_two .roll-box .table_td > div {\n  text-align: center;\n}\n#app .table_move .table_two .roll-box .table_td .td_one {\n  display: flex;\n  align-items: center;\n}\n#app .table_move .table_two .roll-box .table_td .td_one .table_icon {\n  display: inline-block;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_10___ + ") center / 30rem no-repeat;\n  width: 30rem;\n  height: 30rem;\n}\n#app .table_move .table_two .roll-box .table_td .td_two {\n  width: 100rem;\n  margin-left: 37rem;\n  text-align: left;\n}\n#app .table_move .table_two .roll-box .table_td:nth-of-type(even) {\n  background: rgba(25, 214, 255, 0.1);\n}\n#app .table_move .table_two .roll-box #box1 {\n  position: absolute;\n  width: 100%;\n}\n#app .table_move .table_two .roll-box .animation-stop {\n  animation-play-state: paused !important;\n}\n#app .table_move .table_two .roll-box .animation-start {\n  animation-play-state: running !important;\n}\n#app .alarm-warning {\n  padding-left: 72rem;\n  padding-bottom: 6rem;\n  position: absolute;\n  z-index: 2;\n  top: 254rem;\n  left: 50%;\n  width: 850rem;\n  height: 97rem;\n  transform: translateX(-50%);\n  font-size: 25rem;\n  line-height: 25rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_20___ + ") center / 850rem 97rem no-repeat;\n  display: flex;\n  align-items: center;\n}\n#app .alarm-warning .carousel-container {\n  overflow: hidden;\n  height: 45rem;\n}\n#app .alarm-warning #carousel-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n  position: relative;\n}\n#app .alarm-warning #carousel-list li {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 45rem;\n}\n#app .alarm-warning .alarm-content {\n  display: flex;\n  align-items: center;\n}\n#app .alarm-warning .alarm-content span {\n  width: 573rem;\n  display: inline-block;\n}\n#app .alarm-warning img {\n  transform: translateY(2rem);\n}\n#app .alarm-warning .alarm_btn {\n  margin-left: 10rem;\n  font-family: newFont;\n  font-size: 18rem;\n  width: 81rem;\n  height: 34rem;\n  line-height: 35rem;\n  display: inline-block;\n  text-align: center;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_21___ + ") center / 81rem 56rem no-repeat;\n  cursor: pointer;\n}\n#app .time-warning {\n  padding-left: 88rem;\n  padding-bottom: 9rem;\n  position: absolute;\n  z-index: 2;\n  top: 135rem;\n  left: 50%;\n  width: 850rem;\n  height: 120rem;\n  transform: translateX(-50%);\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_20___ + ") center / 850rem 120rem no-repeat;\n  display: flex;\n  align-items: center;\n}\n#app .time-warning .time_title {\n  font-size: 24rem;\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .time-warning .row-label {\n  display: inline-block;\n  width: 356rem;\n  font-size: 18rem;\n  text-align: left;\n}\n#app .tooltip_item {\n  position: absolute;\n  z-index: 2;\n  left: 1269rem;\n  top: 579rem;\n  width: 260rem;\n  height: 150rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 252rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 252rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 252rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_22___ + ") bottom left / 30rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_23___ + ") bottom left / 30rem no-repeat;\n  padding: 15rem 0 0 40rem;\n}\n#app .tooltip_item .icon-row {\n  display: flex;\n  align-items: center;\n}\n#app .tooltip_item .icon-row .icon_alarm {\n  width: 30rem;\n  height: 30rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_24___ + ") center / 40rem no-repeat;\n}\n#app .tooltip_item .icon-row span {\n  font-size: 18rem;\n}\n#app .tooltip_item .row-two {\n  font-size: 22rem;\n  font-weight: 600;\n  color: #ff9c73;\n}\n#app .tooltip_item .row-three,\n#app .tooltip_item .row-four {\n  font-size: 12rem;\n}\n@font-face {\n  font-family: \"newFont\";\n  src: url(" + ___CSS_LOADER_URL_REPLACEMENT_25___ + ");\n}\n@keyframes movetop1 {\nfrom {\n    top: 0;\n}\nto {\n    top: 0;\n}\n}\n@keyframes movetop2 {\nfrom {\n    top: 0;\n}\nto {\n    top: 0;\n}\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/zhujiajian/src/C:/Users/Administrator/Desktop/zhujiajian/src/App.vue","C:/Users/Administrator/Desktop/zhujiajian/src/App.vue"],"names":[],"mappings":"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","file":"App.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#app {\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  background-color: #000;\n  position: relative;\n  background: url(~@/assets/daliuliang/bottom2.png) bottom/contain no-repeat, url(~@/assets/daliuliang/bg.png) center/cover no-repeat;\n  .dialog {\n    position: absolute;\n    top: 184rem;\n    z-index: 5;\n    left: 50%;\n    transform: translateX(-50%);\n    width: 1093rem;\n    height: 751rem;\n    background: url(~@/assets/daliuliang/dialog.png) center/cover no-repeat;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    .dialog_title {\n      font-size: 42rem;\n      font-family: newFont;\n      padding: 6rem 20rem 26rem 0;\n    }\n    .picture {\n      width: 867rem;\n      height: 580rem;\n      img {\n        width: 100%;\n      }\n    }\n    .close_btn {\n      margin-top: 20rem;\n      height: 45rem;\n      line-height: 45rem;\n      font-family: newFont;\n      display: inline-block;\n      text-align: center;\n      cursor: pointer;\n      display: flex;\n      .btn_left {\n        width: 35rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_left.png) left center/35rem 45rem no-repeat;\n      }\n      .btn_center {\n        font-size: 21rem;\n        width: 80rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_center.png) center/80rem 45rem;\n      }\n      .btn_right {\n        width: 35rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_right.png) right center/35rem 45rem no-repeat;\n      }\n    }\n  }\n  .dialog2 {\n    position: absolute;\n    top: 184rem;\n    z-index: 5;\n    left: 50%;\n    transform: translateX(-50%);\n    width: 1093rem;\n    height: 751rem;\n    background: url(~@/assets/daliuliang/dialog.png) center/cover no-repeat;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    .dialog_title {\n      font-size: 42rem;\n      font-family: newFont;\n      padding: 6rem 20rem 26rem 0;\n    }\n    .dialog_content {\n      width: 867rem;\n      height: 580rem;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      .stop_car {\n        zoom: 1.5;\n        font-size: 20rem;\n        font-family: newFont;\n        .label_title {\n          margin-top: 10rem;\n        }\n        .stop_card {\n          display: inline-block;\n          font-size: 16rem;\n          width: 165rem;\n          height: 55rem;\n          background: url(~@/assets/daliuliang/stop_card1.svg) center/contain no-repeat, url(~@/assets/daliuliang/stop_card2.svg) left/69rem 64rem no-repeat;\n          .label_one {\n            text-align: right;\n            padding: 5rem 10rem 0 0;\n          }\n          .label_two {\n            font-size: 18rem;\n            text-align: right;\n            padding: 0 10rem 0 0;\n          }\n        }\n      }\n      .table_move {\n        zoom: 1.5;\n        width: 350rem;\n        padding-right: 26rem;\n        .table_one {\n          margin: 10rem 0;\n          display: flex;\n          align-items: center;\n          justify-content: space-between;\n          .btns {\n            display: flex;\n            .btn1,\n            .btn2 {\n              margin-right: 10rem;\n              width: 56rem;\n              height: 25rem;\n              line-height: 25rem;\n              text-align: center;\n              cursor: pointer;\n              background: url(~@/assets/daliuliang/btn1.png) center/contain no-repeat;\n            }\n            .isAcitve {\n              background: url(~@/assets/daliuliang/btn2.png) center/contain no-repeat;\n            }\n          }\n          .migration {\n            padding: 5rem 15rem;\n            background-color: rgba(18, 137, 221, 0.3);\n            span {\n              font-family: newFont;\n              padding-left: 5rem;\n            }\n          }\n        }\n        .table_two {\n          overflow: hidden;\n          height: 180rem;\n          .table_th {\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n            height: 30rem;\n            & > div {\n              text-align: center;\n            }\n            .th_one {\n              width: 50rem;\n            }\n            .th_two {\n              width: 50rem;\n              text-align: left;\n            }\n          }\n          .roll-box {\n            position: relative;\n            overflow: hidden;\n            height: 150rem;\n            .table_td {\n              display: flex;\n              align-items: center;\n              justify-content: space-between;\n              height: 30rem;\n\n              & > div {\n                text-align: center;\n              }\n              .td_one {\n                display: flex;\n                align-items: center;\n                .table_icon {\n                  display: inline-block;\n                  background: url(~@/assets/daliuliang/table-icon.png) center/30rem no-repeat;\n                  width: 30rem;\n                  height: 30rem;\n                }\n              }\n              .td_two {\n                width: 100rem;\n                margin-left: 37rem;\n                text-align: left;\n              }\n            }\n            .table_td:nth-of-type(even) {\n              background: rgba(25, 214, 255, 0.1);\n            }\n            #box1 {\n              position: absolute;\n              width: 100%;\n            }\n            .animation-stop {\n              animation-play-state: paused !important;\n            }\n            .animation-start {\n              animation-play-state: running !important;\n            }\n          }\n        }\n      }\n      .bar-chart {\n        width: (350 * 1.5rem);\n        height: (180 * 1.5rem);\n      }\n    }\n    .close_btn {\n      margin-top: 20rem;\n      height: 45rem;\n      line-height: 45rem;\n      font-family: newFont;\n      display: inline-block;\n      text-align: center;\n      cursor: pointer;\n      display: flex;\n      .btn_left {\n        width: 35rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_left.png) left center/35rem 45rem no-repeat;\n      }\n      .btn_center {\n        font-size: 21rem;\n        width: 80rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_center.png) center/80rem 45rem;\n      }\n      .btn_right {\n        width: 35rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_right.png) right center/35rem 45rem no-repeat;\n      }\n    }\n  }\n  .weather {\n    position: absolute;\n    top: 18rem;\n    right: 433rem;\n    width: 196px;\n    height: 100rem;\n    background: url(~@/assets/tianqi.png) center/cover no-repeat;\n    z-index: 20;\n    padding: 10rem 20rem;\n    .weather_item1 {\n      font-size: 18rem;\n      font-weight: 600;\n    }\n    .weather_item2 {\n      font-size: 18rem;\n      font-weight: 600;\n    }\n    .weather_item3 {\n      font-size: 12rem;\n    }\n  }\n  .map {\n    position: absolute;\n    bottom: 0;\n    left: 50%;\n    transform: translateX(-50%);\n    width: 1201rem;\n    height: 1008rem;\n    background: url(~@/assets/daliuliang/img.png) bottom center/1201rem 1008rem no-repeat;\n    opacity: 0.8;\n\n    .liuliang_card {\n      position: absolute;\n      right: 286rem;\n      bottom: 255rem;\n      width: 230rem;\n      height: 119rem;\n      padding: 24rem 38rem;\n      background: url(~@/assets/liuliang.png) center/cover no-repeat;\n      .liuliang_title {\n        font-size: 16rem;\n        font-family: PingFangSC-Semibold, PingFang SC;\n        font-weight: 600;\n        color: #ff9e83;\n        margin-bottom: 10rem;\n      }\n      .liuliang_content {\n        display: flex;\n        align-items: center;\n        .liuliang_item {\n          .liuliang_name {\n            font-size: 14rem;\n            font-family: PingFangSC-Medium, PingFang SC;\n            font-weight: 500;\n            color: #ffffff;\n          }\n          .liuliang_num {\n            font-size: 14rem;\n            font-family: PingFangSC-Semibold, PingFang SC;\n            font-weight: 600;\n            color: #ffffff;\n          }\n        }\n        .liuliang_line {\n          width: 3rem;\n          height: 30rem;\n          background: #ffffff;\n          border-radius: 2rem;\n          opacity: 0.65;\n          margin-right: 10rem;\n        }\n      }\n    }\n  }\n  .top-bar {\n    position: absolute;\n    z-index: 3;\n    font-family: \"newFont\";\n    width: 100%;\n    height: 112rem;\n    text-align: center;\n    line-height: 100rem;\n    font-size: 40rem;\n    background: url(~@/assets/daliuliang/top_bg.png) center top/1630rem no-repeat;\n  }\n  .bottom-bar {\n    width: 100%;\n    position: absolute;\n    bottom: 0;\n    background: url(~@/assets/daliuliang/bottom.png) center bottom/1778rem no-repeat;\n    height: 63rem;\n    text-align: center;\n    img {\n      width: 92rem;\n      margin-top: 31rem;\n      cursor: pointer;\n    }\n    .bottom_btn {\n      position: absolute;\n      bottom: 1rem;\n      z-index: 3;\n      font-size: 15rem;\n      width: 163rem;\n      height: 44rem;\n      padding: 10rem 0 0 7rem;\n      cursor: pointer;\n      background: url(~@/assets/daliuliang/card_small.png) center/163rem 44rem no-repeat;\n    }\n    .pass-analyse {\n      .analyse_item {\n        position: absolute;\n        z-index: 2;\n        top: -117rem;\n        right: 355rem;\n        width: 268rem;\n        height: 150rem;\n        padding: 12rem 0 0 34rem;\n        background: url(~@/assets/daliuliang/alarm_tooltip.png) top right/268rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right/268rem 140rem no-repeat,\n          url(~@/assets/daliuliang/alarm_tooltip.png) top right/268rem 140rem no-repeat;\n        .icon-row {\n          display: flex;\n          align-items: center;\n          span {\n            font-size: 22rem;\n            color: #ff9c73;\n            font-weight: 600;\n          }\n        }\n        .row-label {\n          font-size: 12rem;\n          text-align: left;\n          margin-block: 1rem;\n        }\n      }\n    }\n  }\n  .contain {\n    width: 100%;\n    display: flex;\n    margin-top: 112rem;\n    // align-items: center;\n    justify-content: space-between;\n  }\n  .left-box {\n    margin-left: 35rem;\n    transform: translateY(-70rem);\n  }\n  .right-box {\n    transform: translateY(-70rem);\n    display: flex;\n    flex-direction: column;\n    .radar-chart {\n      width: 350rem;\n      height: 190rem;\n    }\n    .bar-chart {\n      width: 350rem;\n      height: 180rem;\n    }\n    .stop_car {\n      font-size: 20rem;\n      font-family: newFont;\n      .label_title {\n        margin-top: 10rem;\n      }\n      .stop_card {\n        display: inline-block;\n        font-size: 16rem;\n        width: 165rem;\n        height: 55rem;\n        background: url(~@/assets/daliuliang/stop_card1.svg) center/contain no-repeat, url(~@/assets/daliuliang/stop_card2.svg) left/69rem 64rem no-repeat;\n        .label_one {\n          text-align: right;\n          padding: 5rem 10rem 0 0;\n        }\n        .label_two {\n          font-size: 18rem;\n          text-align: right;\n          padding: 0 10rem 0 0;\n        }\n      }\n    }\n    .cards {\n      transform: translateY(-10rem);\n    }\n    .title_label {\n      transform: translateY(-5rem);\n    }\n  }\n  .cards {\n    display: flex;\n    flex-wrap: wrap;\n    width: 350rem;\n    // height: 100rem;\n    .card_small {\n      opacity: 0.8;\n      transform: translateY(7rem);\n      width: 163rem;\n      height: 55rem;\n      padding: 5rem 0 0 20rem;\n      background: url(~@/assets/daliuliang/card_small.png) center/163rem 55rem no-repeat;\n      .row-one {\n        font-size: 12rem;\n      }\n      .row-two {\n        font-family: newFont;\n        font-size: 22rem;\n      }\n    }\n    .card_big {\n      opacity: 0.8;\n      padding: 5rem 0 0 20rem;\n      width: 163rem;\n      height: 95rem;\n      background: url(~@/assets/daliuliang/card_big.png) center/163rem 105rem no-repeat;\n      .row-one {\n        font-size: 12rem;\n      }\n      .row-two {\n        font-family: newFont;\n        font-size: 22rem;\n      }\n      .row-three {\n        font-size: 12rem;\n        .row-three-one,\n        .row-three-two {\n          display: flex;\n          align-items: center;\n        }\n        .icon1_img {\n          display: inline-block;\n          width: 14rem;\n          height: 14rem;\n          background: url(~@/assets/daliuliang/icon1.png) center/25rem no-repeat;\n        }\n        .red-num {\n          color: #ff9c73;\n          font-weight: 600;\n        }\n        .blue-num {\n          color: #00a3e5;\n          font-weight: 600;\n        }\n      }\n    }\n  }\n  .title_oneself {\n    font-family: newFont;\n    font-size: 22rem;\n    padding-left: 8rem;\n  }\n  .line-charts1,\n  .line-charts2,\n  .line-charts3,\n  .line-charts4 {\n    width: 320rem;\n    height: 210rem;\n    margin-bottom: 10rem;\n  }\n  .table_move {\n    width: 350rem;\n    padding-right: 26rem;\n    .table_one {\n      margin: 10rem 0;\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      .btns {\n        display: flex;\n        .btn1,\n        .btn2 {\n          margin-right: 10rem;\n          width: 56rem;\n          height: 25rem;\n          line-height: 25rem;\n          text-align: center;\n          cursor: pointer;\n          background: url(~@/assets/daliuliang/btn1.png) center/contain no-repeat;\n        }\n        .isAcitve {\n          background: url(~@/assets/daliuliang/btn2.png) center/contain no-repeat;\n        }\n      }\n      .migration {\n        padding: 5rem 15rem;\n        background-color: rgba(18, 137, 221, 0.3);\n        span {\n          font-family: newFont;\n          padding-left: 5rem;\n        }\n      }\n    }\n    .table_two {\n      overflow: hidden;\n      height: 180rem;\n      .table_th {\n        display: flex;\n        align-items: center;\n        justify-content: space-between;\n        height: 30rem;\n        & > div {\n          text-align: center;\n        }\n        .th_one {\n          width: 50rem;\n        }\n        .th_two {\n          width: 50rem;\n          text-align: left;\n        }\n      }\n      .roll-box {\n        position: relative;\n        overflow: hidden;\n        height: 150rem;\n        .table_td {\n          display: flex;\n          align-items: center;\n          justify-content: space-between;\n          height: 30rem;\n\n          & > div {\n            text-align: center;\n          }\n          .td_one {\n            display: flex;\n            align-items: center;\n            .table_icon {\n              display: inline-block;\n              background: url(~@/assets/daliuliang/table-icon.png) center/30rem no-repeat;\n              width: 30rem;\n              height: 30rem;\n            }\n          }\n          .td_two {\n            width: 100rem;\n            margin-left: 37rem;\n            text-align: left;\n          }\n        }\n        .table_td:nth-of-type(even) {\n          background: rgba(25, 214, 255, 0.1);\n        }\n        #box1 {\n          position: absolute;\n          width: 100%;\n        }\n        .animation-stop {\n          animation-play-state: paused !important;\n        }\n        .animation-start {\n          animation-play-state: running !important;\n        }\n      }\n    }\n  }\n  .alarm-warning {\n    padding-left: 72rem;\n    padding-bottom: 6rem;\n    position: absolute;\n    z-index: 2;\n    top: 254rem;\n    left: 50%;\n    width: 850rem;\n    height: 97rem;\n    transform: translateX(-50%);\n    font-size: 25rem;\n    line-height: 25rem;\n    background: url(~@/assets/daliuliang/alarm.png) center/850rem 97rem no-repeat;\n    display: flex;\n    align-items: center;\n    .carousel-container {\n      overflow: hidden;\n      height: 45rem;\n    }\n\n    #carousel-list {\n      list-style: none;\n      margin: 0;\n      padding: 0;\n      position: relative;\n    }\n\n    #carousel-list li {\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 45rem;\n    }\n    .alarm-content {\n      display: flex;\n      align-items: center;\n      span {\n        width: 573rem;\n        display: inline-block;\n      }\n    }\n    img {\n      transform: translateY(2rem);\n    }\n    .alarm_btn {\n      margin-left: 10rem;\n      font-family: newFont;\n      font-size: 18rem;\n      width: 81rem;\n      height: 34rem;\n      line-height: 35rem;\n      display: inline-block;\n      text-align: center;\n      background: url(~@/assets/daliuliang/alarm-btn.png) center/81rem 56rem no-repeat;\n      cursor: pointer;\n    }\n  }\n  .time-warning {\n    padding-left: 88rem;\n    padding-bottom: 9rem;\n    position: absolute;\n    z-index: 2;\n    top: 135rem;\n    left: 50%;\n    width: 850rem;\n    height: 120rem;\n    transform: translateX(-50%);\n    // font-size: 25rem;\n    // line-height: 25rem;\n    background: url(~@/assets/daliuliang/alarm.png) center/850rem 120rem no-repeat;\n    display: flex;\n    align-items: center;\n    .time_title {\n      font-size: 24rem;\n      color: #ff9c73;\n      font-weight: 600;\n    }\n    .row-label {\n      display: inline-block;\n      width: 356rem;\n      font-size: 18rem;\n      text-align: left;\n    }\n  }\n  .tooltip_item {\n    position: absolute;\n    z-index: 2;\n    left: 1269rem;\n    top: 579rem;\n    width: 260rem;\n    height: 150rem;\n    background: url(~@/assets/daliuliang/alarm_tooltip.png) top right/252rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right/252rem 140rem no-repeat,\n      url(~@/assets/daliuliang/alarm_tooltip.png) top right/252rem 140rem no-repeat, url(~@/assets/daliuliang/map_icon1.png) bottom left/30rem no-repeat,\n      url(~@/assets/daliuliang/map_icon2.png) bottom left/30rem no-repeat;\n    padding: 15rem 0 0 40rem;\n    .icon-row {\n      display: flex;\n      align-items: center;\n\n      .icon_alarm {\n        width: 30rem;\n        height: 30rem;\n        background: url(~@/assets/daliuliang/warning_icon2.svg) center/40rem no-repeat;\n      }\n      span {\n        font-size: 18rem;\n      }\n    }\n    .row-two {\n      font-size: 22rem;\n      font-weight: 600;\n      color: #ff9c73;\n    }\n    .row-three,\n    .row-four {\n      font-size: 12rem;\n    }\n  }\n}\n@font-face {\n  font-family: \"newFont\";\n  src: url(\"./assets/daliuliang/newFont.ttf\");\n}\n@keyframes movetop1 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n@keyframes movetop2 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n","#app {\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  background-color: #000;\n  position: relative;\n  background: url(~@/assets/daliuliang/bottom2.png) bottom / contain no-repeat, url(~@/assets/daliuliang/bg.png) center / cover no-repeat;\n}\n#app .dialog {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(~@/assets/daliuliang/dialog.png) center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n#app .dialog .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n#app .dialog .picture {\n  width: 867rem;\n  height: 580rem;\n}\n#app .dialog .picture img {\n  width: 100%;\n}\n#app .dialog .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n#app .dialog .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_left.png) left center / 35rem 45rem no-repeat;\n}\n#app .dialog .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_center.png) center / 80rem 45rem;\n}\n#app .dialog .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_right.png) right center / 35rem 45rem no-repeat;\n}\n#app .dialog2 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(~@/assets/daliuliang/dialog.png) center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n#app .dialog2 .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n#app .dialog2 .dialog_content {\n  width: 867rem;\n  height: 580rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n#app .dialog2 .dialog_content .stop_car {\n  zoom: 1.5;\n  font-size: 20rem;\n  font-family: newFont;\n}\n#app .dialog2 .dialog_content .stop_car .label_title {\n  margin-top: 10rem;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card {\n  display: inline-block;\n  font-size: 16rem;\n  width: 165rem;\n  height: 55rem;\n  background: url(~@/assets/daliuliang/stop_card1.svg) center / contain no-repeat, url(~@/assets/daliuliang/stop_card2.svg) left / 69rem 64rem no-repeat;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card .label_one {\n  text-align: right;\n  padding: 5rem 10rem 0 0;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card .label_two {\n  font-size: 18rem;\n  text-align: right;\n  padding: 0 10rem 0 0;\n}\n#app .dialog2 .dialog_content .table_move {\n  zoom: 1.5;\n  width: 350rem;\n  padding-right: 26rem;\n}\n#app .dialog2 .dialog_content .table_move .table_one {\n  margin: 10rem 0;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns {\n  display: flex;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns .btn1,\n#app .dialog2 .dialog_content .table_move .table_one .btns .btn2 {\n  margin-right: 10rem;\n  width: 56rem;\n  height: 25rem;\n  line-height: 25rem;\n  text-align: center;\n  cursor: pointer;\n  background: url(~@/assets/daliuliang/btn1.png) center / contain no-repeat;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns .isAcitve {\n  background: url(~@/assets/daliuliang/btn2.png) center / contain no-repeat;\n}\n#app .dialog2 .dialog_content .table_move .table_one .migration {\n  padding: 5rem 15rem;\n  background-color: rgba(18, 137, 221, 0.3);\n}\n#app .dialog2 .dialog_content .table_move .table_one .migration span {\n  font-family: newFont;\n  padding-left: 5rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two {\n  overflow: hidden;\n  height: 180rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th > div {\n  text-align: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th .th_one {\n  width: 50rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th .th_two {\n  width: 50rem;\n  text-align: left;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box {\n  position: relative;\n  overflow: hidden;\n  height: 150rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td > div {\n  text-align: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_one {\n  display: flex;\n  align-items: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_one .table_icon {\n  display: inline-block;\n  background: url(~@/assets/daliuliang/table-icon.png) center / 30rem no-repeat;\n  width: 30rem;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_two {\n  width: 100rem;\n  margin-left: 37rem;\n  text-align: left;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td:nth-of-type(even) {\n  background: rgba(25, 214, 255, 0.1);\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box #box1 {\n  position: absolute;\n  width: 100%;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .animation-stop {\n  animation-play-state: paused !important;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .animation-start {\n  animation-play-state: running !important;\n}\n#app .dialog2 .dialog_content .bar-chart {\n  width: 525rem;\n  height: 270rem;\n}\n#app .dialog2 .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n#app .dialog2 .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_left.png) left center / 35rem 45rem no-repeat;\n}\n#app .dialog2 .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_center.png) center / 80rem 45rem;\n}\n#app .dialog2 .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_right.png) right center / 35rem 45rem no-repeat;\n}\n#app .weather {\n  position: absolute;\n  top: 18rem;\n  right: 433rem;\n  width: 196px;\n  height: 100rem;\n  background: url(~@/assets/tianqi.png) center / cover no-repeat;\n  z-index: 20;\n  padding: 10rem 20rem;\n}\n#app .weather .weather_item1 {\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .weather .weather_item2 {\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .weather .weather_item3 {\n  font-size: 12rem;\n}\n#app .map {\n  position: absolute;\n  bottom: 0;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1201rem;\n  height: 1008rem;\n  background: url(~@/assets/daliuliang/img.png) bottom center / 1201rem 1008rem no-repeat;\n  opacity: 0.8;\n}\n#app .map .liuliang_card {\n  position: absolute;\n  right: 286rem;\n  bottom: 255rem;\n  width: 230rem;\n  height: 119rem;\n  padding: 24rem 38rem;\n  background: url(~@/assets/liuliang.png) center / cover no-repeat;\n}\n#app .map .liuliang_card .liuliang_title {\n  font-size: 16rem;\n  font-family: PingFangSC-Semibold, PingFang SC;\n  font-weight: 600;\n  color: #ff9e83;\n  margin-bottom: 10rem;\n}\n#app .map .liuliang_card .liuliang_content {\n  display: flex;\n  align-items: center;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_item .liuliang_name {\n  font-size: 14rem;\n  font-family: PingFangSC-Medium, PingFang SC;\n  font-weight: 500;\n  color: #ffffff;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_item .liuliang_num {\n  font-size: 14rem;\n  font-family: PingFangSC-Semibold, PingFang SC;\n  font-weight: 600;\n  color: #ffffff;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_line {\n  width: 3rem;\n  height: 30rem;\n  background: #ffffff;\n  border-radius: 2rem;\n  opacity: 0.65;\n  margin-right: 10rem;\n}\n#app .top-bar {\n  position: absolute;\n  z-index: 3;\n  font-family: \"newFont\";\n  width: 100%;\n  height: 112rem;\n  text-align: center;\n  line-height: 100rem;\n  font-size: 40rem;\n  background: url(~@/assets/daliuliang/top_bg.png) center top / 1630rem no-repeat;\n}\n#app .bottom-bar {\n  width: 100%;\n  position: absolute;\n  bottom: 0;\n  background: url(~@/assets/daliuliang/bottom.png) center bottom / 1778rem no-repeat;\n  height: 63rem;\n  text-align: center;\n}\n#app .bottom-bar img {\n  width: 92rem;\n  margin-top: 31rem;\n  cursor: pointer;\n}\n#app .bottom-bar .bottom_btn {\n  position: absolute;\n  bottom: 1rem;\n  z-index: 3;\n  font-size: 15rem;\n  width: 163rem;\n  height: 44rem;\n  padding: 10rem 0 0 7rem;\n  cursor: pointer;\n  background: url(~@/assets/daliuliang/card_small.png) center / 163rem 44rem no-repeat;\n}\n#app .bottom-bar .pass-analyse .analyse_item {\n  position: absolute;\n  z-index: 2;\n  top: -117rem;\n  right: 355rem;\n  width: 268rem;\n  height: 150rem;\n  padding: 12rem 0 0 34rem;\n  background: url(~@/assets/daliuliang/alarm_tooltip.png) top right / 268rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right / 268rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right / 268rem 140rem no-repeat;\n}\n#app .bottom-bar .pass-analyse .analyse_item .icon-row {\n  display: flex;\n  align-items: center;\n}\n#app .bottom-bar .pass-analyse .analyse_item .icon-row span {\n  font-size: 22rem;\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .bottom-bar .pass-analyse .analyse_item .row-label {\n  font-size: 12rem;\n  text-align: left;\n  margin-block: 1rem;\n}\n#app .contain {\n  width: 100%;\n  display: flex;\n  margin-top: 112rem;\n  justify-content: space-between;\n}\n#app .left-box {\n  margin-left: 35rem;\n  transform: translateY(-70rem);\n}\n#app .right-box {\n  transform: translateY(-70rem);\n  display: flex;\n  flex-direction: column;\n}\n#app .right-box .radar-chart {\n  width: 350rem;\n  height: 190rem;\n}\n#app .right-box .bar-chart {\n  width: 350rem;\n  height: 180rem;\n}\n#app .right-box .stop_car {\n  font-size: 20rem;\n  font-family: newFont;\n}\n#app .right-box .stop_car .label_title {\n  margin-top: 10rem;\n}\n#app .right-box .stop_car .stop_card {\n  display: inline-block;\n  font-size: 16rem;\n  width: 165rem;\n  height: 55rem;\n  background: url(~@/assets/daliuliang/stop_card1.svg) center / contain no-repeat, url(~@/assets/daliuliang/stop_card2.svg) left / 69rem 64rem no-repeat;\n}\n#app .right-box .stop_car .stop_card .label_one {\n  text-align: right;\n  padding: 5rem 10rem 0 0;\n}\n#app .right-box .stop_car .stop_card .label_two {\n  font-size: 18rem;\n  text-align: right;\n  padding: 0 10rem 0 0;\n}\n#app .right-box .cards {\n  transform: translateY(-10rem);\n}\n#app .right-box .title_label {\n  transform: translateY(-5rem);\n}\n#app .cards {\n  display: flex;\n  flex-wrap: wrap;\n  width: 350rem;\n}\n#app .cards .card_small {\n  opacity: 0.8;\n  transform: translateY(7rem);\n  width: 163rem;\n  height: 55rem;\n  padding: 5rem 0 0 20rem;\n  background: url(~@/assets/daliuliang/card_small.png) center / 163rem 55rem no-repeat;\n}\n#app .cards .card_small .row-one {\n  font-size: 12rem;\n}\n#app .cards .card_small .row-two {\n  font-family: newFont;\n  font-size: 22rem;\n}\n#app .cards .card_big {\n  opacity: 0.8;\n  padding: 5rem 0 0 20rem;\n  width: 163rem;\n  height: 95rem;\n  background: url(~@/assets/daliuliang/card_big.png) center / 163rem 105rem no-repeat;\n}\n#app .cards .card_big .row-one {\n  font-size: 12rem;\n}\n#app .cards .card_big .row-two {\n  font-family: newFont;\n  font-size: 22rem;\n}\n#app .cards .card_big .row-three {\n  font-size: 12rem;\n}\n#app .cards .card_big .row-three .row-three-one,\n#app .cards .card_big .row-three .row-three-two {\n  display: flex;\n  align-items: center;\n}\n#app .cards .card_big .row-three .icon1_img {\n  display: inline-block;\n  width: 14rem;\n  height: 14rem;\n  background: url(~@/assets/daliuliang/icon1.png) center / 25rem no-repeat;\n}\n#app .cards .card_big .row-three .red-num {\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .cards .card_big .row-three .blue-num {\n  color: #00a3e5;\n  font-weight: 600;\n}\n#app .title_oneself {\n  font-family: newFont;\n  font-size: 22rem;\n  padding-left: 8rem;\n}\n#app .line-charts1,\n#app .line-charts2,\n#app .line-charts3,\n#app .line-charts4 {\n  width: 320rem;\n  height: 210rem;\n  margin-bottom: 10rem;\n}\n#app .table_move {\n  width: 350rem;\n  padding-right: 26rem;\n}\n#app .table_move .table_one {\n  margin: 10rem 0;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n#app .table_move .table_one .btns {\n  display: flex;\n}\n#app .table_move .table_one .btns .btn1,\n#app .table_move .table_one .btns .btn2 {\n  margin-right: 10rem;\n  width: 56rem;\n  height: 25rem;\n  line-height: 25rem;\n  text-align: center;\n  cursor: pointer;\n  background: url(~@/assets/daliuliang/btn1.png) center / contain no-repeat;\n}\n#app .table_move .table_one .btns .isAcitve {\n  background: url(~@/assets/daliuliang/btn2.png) center / contain no-repeat;\n}\n#app .table_move .table_one .migration {\n  padding: 5rem 15rem;\n  background-color: rgba(18, 137, 221, 0.3);\n}\n#app .table_move .table_one .migration span {\n  font-family: newFont;\n  padding-left: 5rem;\n}\n#app .table_move .table_two {\n  overflow: hidden;\n  height: 180rem;\n}\n#app .table_move .table_two .table_th {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .table_move .table_two .table_th > div {\n  text-align: center;\n}\n#app .table_move .table_two .table_th .th_one {\n  width: 50rem;\n}\n#app .table_move .table_two .table_th .th_two {\n  width: 50rem;\n  text-align: left;\n}\n#app .table_move .table_two .roll-box {\n  position: relative;\n  overflow: hidden;\n  height: 150rem;\n}\n#app .table_move .table_two .roll-box .table_td {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .table_move .table_two .roll-box .table_td > div {\n  text-align: center;\n}\n#app .table_move .table_two .roll-box .table_td .td_one {\n  display: flex;\n  align-items: center;\n}\n#app .table_move .table_two .roll-box .table_td .td_one .table_icon {\n  display: inline-block;\n  background: url(~@/assets/daliuliang/table-icon.png) center / 30rem no-repeat;\n  width: 30rem;\n  height: 30rem;\n}\n#app .table_move .table_two .roll-box .table_td .td_two {\n  width: 100rem;\n  margin-left: 37rem;\n  text-align: left;\n}\n#app .table_move .table_two .roll-box .table_td:nth-of-type(even) {\n  background: rgba(25, 214, 255, 0.1);\n}\n#app .table_move .table_two .roll-box #box1 {\n  position: absolute;\n  width: 100%;\n}\n#app .table_move .table_two .roll-box .animation-stop {\n  animation-play-state: paused !important;\n}\n#app .table_move .table_two .roll-box .animation-start {\n  animation-play-state: running !important;\n}\n#app .alarm-warning {\n  padding-left: 72rem;\n  padding-bottom: 6rem;\n  position: absolute;\n  z-index: 2;\n  top: 254rem;\n  left: 50%;\n  width: 850rem;\n  height: 97rem;\n  transform: translateX(-50%);\n  font-size: 25rem;\n  line-height: 25rem;\n  background: url(~@/assets/daliuliang/alarm.png) center / 850rem 97rem no-repeat;\n  display: flex;\n  align-items: center;\n}\n#app .alarm-warning .carousel-container {\n  overflow: hidden;\n  height: 45rem;\n}\n#app .alarm-warning #carousel-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n  position: relative;\n}\n#app .alarm-warning #carousel-list li {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 45rem;\n}\n#app .alarm-warning .alarm-content {\n  display: flex;\n  align-items: center;\n}\n#app .alarm-warning .alarm-content span {\n  width: 573rem;\n  display: inline-block;\n}\n#app .alarm-warning img {\n  transform: translateY(2rem);\n}\n#app .alarm-warning .alarm_btn {\n  margin-left: 10rem;\n  font-family: newFont;\n  font-size: 18rem;\n  width: 81rem;\n  height: 34rem;\n  line-height: 35rem;\n  display: inline-block;\n  text-align: center;\n  background: url(~@/assets/daliuliang/alarm-btn.png) center / 81rem 56rem no-repeat;\n  cursor: pointer;\n}\n#app .time-warning {\n  padding-left: 88rem;\n  padding-bottom: 9rem;\n  position: absolute;\n  z-index: 2;\n  top: 135rem;\n  left: 50%;\n  width: 850rem;\n  height: 120rem;\n  transform: translateX(-50%);\n  background: url(~@/assets/daliuliang/alarm.png) center / 850rem 120rem no-repeat;\n  display: flex;\n  align-items: center;\n}\n#app .time-warning .time_title {\n  font-size: 24rem;\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .time-warning .row-label {\n  display: inline-block;\n  width: 356rem;\n  font-size: 18rem;\n  text-align: left;\n}\n#app .tooltip_item {\n  position: absolute;\n  z-index: 2;\n  left: 1269rem;\n  top: 579rem;\n  width: 260rem;\n  height: 150rem;\n  background: url(~@/assets/daliuliang/alarm_tooltip.png) top right / 252rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right / 252rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right / 252rem 140rem no-repeat, url(~@/assets/daliuliang/map_icon1.png) bottom left / 30rem no-repeat, url(~@/assets/daliuliang/map_icon2.png) bottom left / 30rem no-repeat;\n  padding: 15rem 0 0 40rem;\n}\n#app .tooltip_item .icon-row {\n  display: flex;\n  align-items: center;\n}\n#app .tooltip_item .icon-row .icon_alarm {\n  width: 30rem;\n  height: 30rem;\n  background: url(~@/assets/daliuliang/warning_icon2.svg) center / 40rem no-repeat;\n}\n#app .tooltip_item .icon-row span {\n  font-size: 18rem;\n}\n#app .tooltip_item .row-two {\n  font-size: 22rem;\n  font-weight: 600;\n  color: #ff9c73;\n}\n#app .tooltip_item .row-three,\n#app .tooltip_item .row-four {\n  font-size: 12rem;\n}\n@font-face {\n  font-family: \"newFont\";\n  src: url(\"./assets/daliuliang/newFont.ttf\");\n}\n@keyframes movetop1 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n@keyframes movetop2 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n"]}]);
+exports.push([module.i, "#app {\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  background-color: #000;\n  position: relative;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") bottom / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ") center / cover no-repeat;\n}\n#app .dialog {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n#app .dialog .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n#app .dialog .picture {\n  width: 867rem;\n  height: 580rem;\n}\n#app .dialog .picture img {\n  width: 100%;\n}\n#app .dialog .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n#app .dialog .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ") left center / 35rem 45rem no-repeat;\n}\n#app .dialog .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_4___ + ") center / 80rem 45rem;\n}\n#app .dialog .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_5___ + ") right center / 35rem 45rem no-repeat;\n}\n#app .dialog2 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n#app .dialog2 .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n#app .dialog2 .dialog_content {\n  width: 867rem;\n  height: 580rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n#app .dialog2 .dialog_content .stop_car {\n  zoom: 1.5;\n  font-size: 20rem;\n  font-family: newFont;\n}\n#app .dialog2 .dialog_content .stop_car .label_title {\n  margin-top: 10rem;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card {\n  display: inline-block;\n  font-size: 16rem;\n  width: 165rem;\n  height: 55rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_6___ + ") center / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_7___ + ") left / 69rem 64rem no-repeat;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card .label_one {\n  text-align: right;\n  padding: 5rem 10rem 0 0;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card .label_two {\n  font-size: 18rem;\n  text-align: right;\n  padding: 0 10rem 0 0;\n}\n#app .dialog2 .dialog_content .table_move {\n  zoom: 1.5;\n  width: 350rem;\n  padding-right: 26rem;\n}\n#app .dialog2 .dialog_content .table_move .table_one {\n  margin: 10rem 0;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns {\n  display: flex;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns .btn1,\n#app .dialog2 .dialog_content .table_move .table_one .btns .btn2 {\n  margin-right: 10rem;\n  width: 56rem;\n  height: 25rem;\n  line-height: 25rem;\n  text-align: center;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_8___ + ") center / contain no-repeat;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns .isAcitve {\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_9___ + ") center / contain no-repeat;\n}\n#app .dialog2 .dialog_content .table_move .table_one .migration {\n  padding: 5rem 15rem;\n  background-color: rgba(18, 137, 221, 0.3);\n}\n#app .dialog2 .dialog_content .table_move .table_one .migration span {\n  font-family: newFont;\n  padding-left: 5rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two {\n  overflow: hidden;\n  height: 180rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th > div {\n  text-align: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th .th_one {\n  width: 50rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th .th_two {\n  width: 50rem;\n  text-align: left;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box {\n  position: relative;\n  overflow: hidden;\n  height: 150rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td > div {\n  text-align: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_one {\n  display: flex;\n  align-items: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_one .table_icon {\n  display: inline-block;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_10___ + ") center / 30rem no-repeat;\n  width: 30rem;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_two {\n  width: 100rem;\n  margin-left: 37rem;\n  text-align: left;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td:nth-of-type(even) {\n  background: rgba(25, 214, 255, 0.1);\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box #box1 {\n  position: absolute;\n  width: 100%;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .animation-stop {\n  animation-play-state: paused !important;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .animation-start {\n  animation-play-state: running !important;\n}\n#app .dialog2 .dialog_content .bar-chart {\n  width: 525rem;\n  height: 270rem;\n}\n#app .dialog2 .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n#app .dialog2 .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ") left center / 35rem 45rem no-repeat;\n}\n#app .dialog2 .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_4___ + ") center / 80rem 45rem;\n}\n#app .dialog2 .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_5___ + ") right center / 35rem 45rem no-repeat;\n}\n#app .weather {\n  position: absolute;\n  top: 18rem;\n  right: 373rem;\n  width: 177rem;\n  height: 100rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_11___ + ") center / cover no-repeat;\n  z-index: 20;\n  padding: 12rem 20rem;\n}\n#app .weather .weather_item1 {\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .weather .weather_item2 {\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .weather .weather_item3 {\n  font-size: 12rem;\n}\n#app .map {\n  position: absolute;\n  bottom: 0;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1201rem;\n  height: 1008rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_12___ + ") bottom center / 1201rem 1008rem no-repeat;\n  opacity: 0.8;\n}\n#app .map .liuliang_card {\n  position: absolute;\n  right: 286rem;\n  bottom: 255rem;\n  width: 230rem;\n  height: 119rem;\n  padding: 24rem 38rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_13___ + ") center / cover no-repeat;\n}\n#app .map .liuliang_card .liuliang_title {\n  font-size: 16rem;\n  font-family: PingFangSC-Semibold, PingFang SC;\n  font-weight: 600;\n  color: #ff9e83;\n  margin-bottom: 10rem;\n}\n#app .map .liuliang_card .liuliang_content {\n  display: flex;\n  align-items: center;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_item .liuliang_name {\n  font-size: 14rem;\n  font-family: PingFangSC-Medium, PingFang SC;\n  font-weight: 500;\n  color: #ffffff;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_item .liuliang_num {\n  font-size: 18rem;\n  font-family: PingFangSC-Semibold, PingFang SC;\n  font-weight: 600;\n  color: #ffffff;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_line {\n  width: 3rem;\n  height: 30rem;\n  background: #ffffff;\n  border-radius: 2rem;\n  opacity: 0.65;\n  margin-right: 10rem;\n}\n#app .top-bar {\n  position: absolute;\n  z-index: 3;\n  font-family: \"newFont\";\n  width: 100%;\n  height: 112rem;\n  text-align: center;\n  line-height: 100rem;\n  font-size: 40rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_14___ + ") center top / 1630rem no-repeat;\n}\n#app .bottom-bar {\n  width: 100%;\n  position: absolute;\n  bottom: 0;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_15___ + ") center bottom / 1778rem no-repeat;\n  height: 63rem;\n  text-align: center;\n}\n#app .bottom-bar img {\n  width: 92rem;\n  margin-top: 31rem;\n  cursor: pointer;\n}\n#app .bottom-bar .bottom_btn {\n  position: absolute;\n  bottom: 1rem;\n  z-index: 3;\n  font-size: 15rem;\n  width: 163rem;\n  height: 44rem;\n  padding: 10rem 0 0 7rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_16___ + ") center / 163rem 44rem no-repeat;\n}\n#app .bottom-bar .pass-analyse .analyse_item {\n  position: absolute;\n  z-index: 2;\n  top: -117rem;\n  right: 355rem;\n  width: 268rem;\n  height: 150rem;\n  padding: 12rem 0 0 34rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 268rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 268rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 268rem 140rem no-repeat;\n}\n#app .bottom-bar .pass-analyse .analyse_item .icon-row {\n  display: flex;\n  align-items: center;\n}\n#app .bottom-bar .pass-analyse .analyse_item .icon-row span {\n  font-size: 22rem;\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .bottom-bar .pass-analyse .analyse_item .row-label {\n  font-size: 12rem;\n  text-align: left;\n  margin-block: 1rem;\n}\n#app .contain {\n  width: 100%;\n  display: flex;\n  margin-top: 112rem;\n  justify-content: space-between;\n}\n#app .left-box {\n  margin-left: 35rem;\n  transform: translateY(-70rem);\n}\n#app .right-box {\n  transform: translateY(-70rem);\n  display: flex;\n  flex-direction: column;\n}\n#app .right-box .radar-chart {\n  width: 350rem;\n  height: 190rem;\n}\n#app .right-box .bar-chart {\n  width: 350rem;\n  height: 180rem;\n}\n#app .right-box .stop_car {\n  font-size: 20rem;\n  font-family: newFont;\n}\n#app .right-box .stop_car .label_title {\n  margin-top: 10rem;\n}\n#app .right-box .stop_car .stop_card {\n  display: inline-block;\n  font-size: 16rem;\n  width: 165rem;\n  height: 55rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_6___ + ") center / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_7___ + ") left / 69rem 64rem no-repeat;\n}\n#app .right-box .stop_car .stop_card .label_one {\n  text-align: right;\n  padding: 5rem 10rem 0 0;\n}\n#app .right-box .stop_car .stop_card .label_two {\n  font-size: 18rem;\n  text-align: right;\n  padding: 0 10rem 0 0;\n}\n#app .right-box .cards {\n  transform: translateY(-10rem);\n}\n#app .right-box .title_label {\n  transform: translateY(-5rem);\n}\n#app .cards {\n  display: flex;\n  flex-wrap: wrap;\n  width: 350rem;\n}\n#app .cards .card_small {\n  opacity: 0.8;\n  transform: translateY(7rem);\n  width: 163rem;\n  height: 55rem;\n  padding: 5rem 0 0 20rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_16___ + ") center / 163rem 55rem no-repeat;\n}\n#app .cards .card_small .row-one {\n  font-size: 12rem;\n}\n#app .cards .card_small .row-two {\n  font-family: newFont;\n  font-size: 22rem;\n}\n#app .cards .card_big {\n  opacity: 0.8;\n  padding: 5rem 0 0 20rem;\n  width: 163rem;\n  height: 95rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_18___ + ") center / 163rem 105rem no-repeat;\n}\n#app .cards .card_big .row-one {\n  font-size: 12rem;\n}\n#app .cards .card_big .row-two {\n  font-family: newFont;\n  font-size: 22rem;\n}\n#app .cards .card_big .row-three {\n  font-size: 12rem;\n}\n#app .cards .card_big .row-three .row-three-one,\n#app .cards .card_big .row-three .row-three-two {\n  display: flex;\n  align-items: center;\n}\n#app .cards .card_big .row-three .icon1_img {\n  display: inline-block;\n  width: 14rem;\n  height: 14rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_19___ + ") center / 25rem no-repeat;\n}\n#app .cards .card_big .row-three .red-num {\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .cards .card_big .row-three .blue-num {\n  color: #00a3e5;\n  font-weight: 600;\n}\n#app .title_oneself {\n  font-family: newFont;\n  font-size: 22rem;\n  padding-left: 8rem;\n}\n#app .line-charts1,\n#app .line-charts2,\n#app .line-charts3,\n#app .line-charts4 {\n  width: 320rem;\n  height: 210rem;\n  margin-bottom: 10rem;\n}\n#app .table_move {\n  width: 350rem;\n  padding-right: 26rem;\n}\n#app .table_move .table_one {\n  margin: 10rem 0;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n#app .table_move .table_one .btns {\n  display: flex;\n}\n#app .table_move .table_one .btns .btn1,\n#app .table_move .table_one .btns .btn2 {\n  margin-right: 10rem;\n  width: 56rem;\n  height: 25rem;\n  line-height: 25rem;\n  text-align: center;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_8___ + ") center / contain no-repeat;\n}\n#app .table_move .table_one .btns .isAcitve {\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_9___ + ") center / contain no-repeat;\n}\n#app .table_move .table_one .migration {\n  padding: 5rem 15rem;\n  background-color: rgba(18, 137, 221, 0.3);\n}\n#app .table_move .table_one .migration span {\n  font-family: newFont;\n  padding-left: 5rem;\n}\n#app .table_move .table_two {\n  overflow: hidden;\n  height: 180rem;\n}\n#app .table_move .table_two .table_th {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .table_move .table_two .table_th > div {\n  text-align: center;\n}\n#app .table_move .table_two .table_th .th_one {\n  width: 50rem;\n}\n#app .table_move .table_two .table_th .th_two {\n  width: 50rem;\n  text-align: left;\n}\n#app .table_move .table_two .roll-box {\n  position: relative;\n  overflow: hidden;\n  height: 150rem;\n}\n#app .table_move .table_two .roll-box .table_td {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .table_move .table_two .roll-box .table_td > div {\n  text-align: center;\n}\n#app .table_move .table_two .roll-box .table_td .td_one {\n  display: flex;\n  align-items: center;\n}\n#app .table_move .table_two .roll-box .table_td .td_one .table_icon {\n  display: inline-block;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_10___ + ") center / 30rem no-repeat;\n  width: 30rem;\n  height: 30rem;\n}\n#app .table_move .table_two .roll-box .table_td .td_two {\n  width: 100rem;\n  margin-left: 37rem;\n  text-align: left;\n}\n#app .table_move .table_two .roll-box .table_td:nth-of-type(even) {\n  background: rgba(25, 214, 255, 0.1);\n}\n#app .table_move .table_two .roll-box #box1 {\n  position: absolute;\n  width: 100%;\n}\n#app .table_move .table_two .roll-box .animation-stop {\n  animation-play-state: paused !important;\n}\n#app .table_move .table_two .roll-box .animation-start {\n  animation-play-state: running !important;\n}\n#app .alarm-warning {\n  padding-left: 72rem;\n  padding-bottom: 6rem;\n  position: absolute;\n  z-index: 2;\n  top: 254rem;\n  left: 50%;\n  width: 850rem;\n  height: 97rem;\n  transform: translateX(-50%);\n  font-size: 25rem;\n  line-height: 25rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_20___ + ") center / 850rem 97rem no-repeat;\n  display: flex;\n  align-items: center;\n}\n#app .alarm-warning .carousel-container {\n  overflow: hidden;\n  height: 45rem;\n}\n#app .alarm-warning #carousel-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n  position: relative;\n}\n#app .alarm-warning #carousel-list li {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 45rem;\n}\n#app .alarm-warning .alarm-content {\n  display: flex;\n  align-items: center;\n}\n#app .alarm-warning .alarm-content span {\n  width: 573rem;\n  display: inline-block;\n}\n#app .alarm-warning img {\n  transform: translateY(2rem);\n}\n#app .alarm-warning .alarm_btn {\n  margin-left: 10rem;\n  font-family: newFont;\n  font-size: 18rem;\n  width: 81rem;\n  height: 34rem;\n  line-height: 35rem;\n  display: inline-block;\n  text-align: center;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_21___ + ") center / 81rem 56rem no-repeat;\n  cursor: pointer;\n}\n#app .time-warning {\n  padding-left: 88rem;\n  padding-bottom: 9rem;\n  position: absolute;\n  z-index: 2;\n  top: 135rem;\n  left: 50%;\n  width: 850rem;\n  height: 120rem;\n  transform: translateX(-50%);\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_20___ + ") center / 850rem 120rem no-repeat;\n  display: flex;\n  align-items: center;\n}\n#app .time-warning .time_title {\n  font-size: 24rem;\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .time-warning .row-label {\n  display: inline-block;\n  width: 356rem;\n  font-size: 18rem;\n  text-align: left;\n}\n#app .tooltip_item {\n  position: absolute;\n  z-index: 2;\n  left: 1269rem;\n  top: 579rem;\n  width: 260rem;\n  height: 150rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 252rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 252rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_17___ + ") top right / 252rem 140rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_22___ + ") bottom left / 30rem no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_23___ + ") bottom left / 30rem no-repeat;\n  padding: 15rem 0 0 40rem;\n}\n#app .tooltip_item .icon-row {\n  display: flex;\n  align-items: center;\n}\n#app .tooltip_item .icon-row .icon_alarm {\n  width: 30rem;\n  height: 30rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_24___ + ") center / 40rem no-repeat;\n}\n#app .tooltip_item .icon-row span {\n  font-size: 18rem;\n}\n#app .tooltip_item .row-two {\n  font-size: 22rem;\n  font-weight: 600;\n  color: #ff9c73;\n}\n#app .tooltip_item .row-three,\n#app .tooltip_item .row-four {\n  font-size: 12rem;\n}\n@font-face {\n  font-family: \"newFont\";\n  src: url(" + ___CSS_LOADER_URL_REPLACEMENT_25___ + ");\n}\n@keyframes movetop1 {\nfrom {\n    top: 0;\n}\nto {\n    top: 0;\n}\n}\n@keyframes movetop2 {\nfrom {\n    top: 0;\n}\nto {\n    top: 0;\n}\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/zhujiajian/src/C:/Users/Administrator/Desktop/zhujiajian/src/App.vue","C:/Users/Administrator/Desktop/zhujiajian/src/App.vue"],"names":[],"mappings":"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","file":"App.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#app {\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  background-color: #000;\n  position: relative;\n  background: url(~@/assets/daliuliang/bottom2.png) bottom/contain no-repeat, url(~@/assets/daliuliang/bg.png) center/cover no-repeat;\n  .dialog {\n    position: absolute;\n    top: 184rem;\n    z-index: 5;\n    left: 50%;\n    transform: translateX(-50%);\n    width: 1093rem;\n    height: 751rem;\n    background: url(~@/assets/daliuliang/dialog.png) center/cover no-repeat;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    .dialog_title {\n      font-size: 42rem;\n      font-family: newFont;\n      padding: 6rem 20rem 26rem 0;\n    }\n    .picture {\n      width: 867rem;\n      height: 580rem;\n      img {\n        width: 100%;\n      }\n    }\n    .close_btn {\n      margin-top: 20rem;\n      height: 45rem;\n      line-height: 45rem;\n      font-family: newFont;\n      display: inline-block;\n      text-align: center;\n      cursor: pointer;\n      display: flex;\n      .btn_left {\n        width: 35rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_left.png) left center/35rem 45rem no-repeat;\n      }\n      .btn_center {\n        font-size: 21rem;\n        width: 80rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_center.png) center/80rem 45rem;\n      }\n      .btn_right {\n        width: 35rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_right.png) right center/35rem 45rem no-repeat;\n      }\n    }\n  }\n  .dialog2 {\n    position: absolute;\n    top: 184rem;\n    z-index: 5;\n    left: 50%;\n    transform: translateX(-50%);\n    width: 1093rem;\n    height: 751rem;\n    background: url(~@/assets/daliuliang/dialog.png) center/cover no-repeat;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    .dialog_title {\n      font-size: 42rem;\n      font-family: newFont;\n      padding: 6rem 20rem 26rem 0;\n    }\n    .dialog_content {\n      width: 867rem;\n      height: 580rem;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      .stop_car {\n        zoom: 1.5;\n        font-size: 20rem;\n        font-family: newFont;\n        .label_title {\n          margin-top: 10rem;\n        }\n        .stop_card {\n          display: inline-block;\n          font-size: 16rem;\n          width: 165rem;\n          height: 55rem;\n          background: url(~@/assets/daliuliang/stop_card1.svg) center/contain no-repeat, url(~@/assets/daliuliang/stop_card2.svg) left/69rem 64rem no-repeat;\n          .label_one {\n            text-align: right;\n            padding: 5rem 10rem 0 0;\n          }\n          .label_two {\n            font-size: 18rem;\n            text-align: right;\n            padding: 0 10rem 0 0;\n          }\n        }\n      }\n      .table_move {\n        zoom: 1.5;\n        width: 350rem;\n        padding-right: 26rem;\n        .table_one {\n          margin: 10rem 0;\n          display: flex;\n          align-items: center;\n          justify-content: space-between;\n          .btns {\n            display: flex;\n            .btn1,\n            .btn2 {\n              margin-right: 10rem;\n              width: 56rem;\n              height: 25rem;\n              line-height: 25rem;\n              text-align: center;\n              cursor: pointer;\n              background: url(~@/assets/daliuliang/btn1.png) center/contain no-repeat;\n            }\n            .isAcitve {\n              background: url(~@/assets/daliuliang/btn2.png) center/contain no-repeat;\n            }\n          }\n          .migration {\n            padding: 5rem 15rem;\n            background-color: rgba(18, 137, 221, 0.3);\n            span {\n              font-family: newFont;\n              padding-left: 5rem;\n            }\n          }\n        }\n        .table_two {\n          overflow: hidden;\n          height: 180rem;\n          .table_th {\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n            height: 30rem;\n            & > div {\n              text-align: center;\n            }\n            .th_one {\n              width: 50rem;\n            }\n            .th_two {\n              width: 50rem;\n              text-align: left;\n            }\n          }\n          .roll-box {\n            position: relative;\n            overflow: hidden;\n            height: 150rem;\n            .table_td {\n              display: flex;\n              align-items: center;\n              justify-content: space-between;\n              height: 30rem;\n\n              & > div {\n                text-align: center;\n              }\n              .td_one {\n                display: flex;\n                align-items: center;\n                .table_icon {\n                  display: inline-block;\n                  background: url(~@/assets/daliuliang/table-icon.png) center/30rem no-repeat;\n                  width: 30rem;\n                  height: 30rem;\n                }\n              }\n              .td_two {\n                width: 100rem;\n                margin-left: 37rem;\n                text-align: left;\n              }\n            }\n            .table_td:nth-of-type(even) {\n              background: rgba(25, 214, 255, 0.1);\n            }\n            #box1 {\n              position: absolute;\n              width: 100%;\n            }\n            .animation-stop {\n              animation-play-state: paused !important;\n            }\n            .animation-start {\n              animation-play-state: running !important;\n            }\n          }\n        }\n      }\n      .bar-chart {\n        width: (350 * 1.5rem);\n        height: (180 * 1.5rem);\n      }\n    }\n    .close_btn {\n      margin-top: 20rem;\n      height: 45rem;\n      line-height: 45rem;\n      font-family: newFont;\n      display: inline-block;\n      text-align: center;\n      cursor: pointer;\n      display: flex;\n      .btn_left {\n        width: 35rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_left.png) left center/35rem 45rem no-repeat;\n      }\n      .btn_center {\n        font-size: 21rem;\n        width: 80rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_center.png) center/80rem 45rem;\n      }\n      .btn_right {\n        width: 35rem;\n        height: 45rem;\n        background: url(~@/assets/daliuliang/dialog_right.png) right center/35rem 45rem no-repeat;\n      }\n    }\n  }\n  .weather {\n    position: absolute;\n    top: 18rem;\n    right: 373rem;\n    width: 177rem;\n    height: 100rem;\n    background: url(~@/assets/tianqi.png) center/cover no-repeat;\n    z-index: 20;\n    padding: 12rem 20rem;\n    .weather_item1 {\n      font-size: 18rem;\n      font-weight: 600;\n    }\n    .weather_item2 {\n      font-size: 18rem;\n      font-weight: 600;\n    }\n    .weather_item3 {\n      font-size: 12rem;\n    }\n  }\n  .map {\n    position: absolute;\n    bottom: 0;\n    left: 50%;\n    transform: translateX(-50%);\n    width: 1201rem;\n    height: 1008rem;\n    background: url(~@/assets/daliuliang/img.png) bottom center/1201rem 1008rem no-repeat;\n    opacity: 0.8;\n\n    .liuliang_card {\n      position: absolute;\n      right: 286rem;\n      bottom: 255rem;\n      width: 230rem;\n      height: 119rem;\n      padding: 24rem 38rem;\n      background: url(~@/assets/liuliang.png) center/cover no-repeat;\n      .liuliang_title {\n        font-size: 16rem;\n        font-family: PingFangSC-Semibold, PingFang SC;\n        font-weight: 600;\n        color: #ff9e83;\n        margin-bottom: 10rem;\n      }\n      .liuliang_content {\n        display: flex;\n        align-items: center;\n        .liuliang_item {\n          .liuliang_name {\n            font-size: 14rem;\n            font-family: PingFangSC-Medium, PingFang SC;\n            font-weight: 500;\n            color: #ffffff;\n          }\n          .liuliang_num {\n            font-size: 18rem;\n            font-family: PingFangSC-Semibold, PingFang SC;\n            font-weight: 600;\n            color: #ffffff;\n          }\n        }\n        .liuliang_line {\n          width: 3rem;\n          height: 30rem;\n          background: #ffffff;\n          border-radius: 2rem;\n          opacity: 0.65;\n          margin-right: 10rem;\n        }\n      }\n    }\n  }\n  .top-bar {\n    position: absolute;\n    z-index: 3;\n    font-family: \"newFont\";\n    width: 100%;\n    height: 112rem;\n    text-align: center;\n    line-height: 100rem;\n    font-size: 40rem;\n    background: url(~@/assets/daliuliang/top_bg.png) center top/1630rem no-repeat;\n  }\n  .bottom-bar {\n    width: 100%;\n    position: absolute;\n    bottom: 0;\n    background: url(~@/assets/daliuliang/bottom.png) center bottom/1778rem no-repeat;\n    height: 63rem;\n    text-align: center;\n    img {\n      width: 92rem;\n      margin-top: 31rem;\n      cursor: pointer;\n    }\n    .bottom_btn {\n      position: absolute;\n      bottom: 1rem;\n      z-index: 3;\n      font-size: 15rem;\n      width: 163rem;\n      height: 44rem;\n      padding: 10rem 0 0 7rem;\n      cursor: pointer;\n      background: url(~@/assets/daliuliang/card_small.png) center/163rem 44rem no-repeat;\n    }\n    .pass-analyse {\n      .analyse_item {\n        position: absolute;\n        z-index: 2;\n        top: -117rem;\n        right: 355rem;\n        width: 268rem;\n        height: 150rem;\n        padding: 12rem 0 0 34rem;\n        background: url(~@/assets/daliuliang/alarm_tooltip.png) top right/268rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right/268rem 140rem no-repeat,\n          url(~@/assets/daliuliang/alarm_tooltip.png) top right/268rem 140rem no-repeat;\n        .icon-row {\n          display: flex;\n          align-items: center;\n          span {\n            font-size: 22rem;\n            color: #ff9c73;\n            font-weight: 600;\n          }\n        }\n        .row-label {\n          font-size: 12rem;\n          text-align: left;\n          margin-block: 1rem;\n        }\n      }\n    }\n  }\n  .contain {\n    width: 100%;\n    display: flex;\n    margin-top: 112rem;\n    // align-items: center;\n    justify-content: space-between;\n  }\n  .left-box {\n    margin-left: 35rem;\n    transform: translateY(-70rem);\n  }\n  .right-box {\n    transform: translateY(-70rem);\n    display: flex;\n    flex-direction: column;\n    .radar-chart {\n      width: 350rem;\n      height: 190rem;\n    }\n    .bar-chart {\n      width: 350rem;\n      height: 180rem;\n    }\n    .stop_car {\n      font-size: 20rem;\n      font-family: newFont;\n      .label_title {\n        margin-top: 10rem;\n      }\n      .stop_card {\n        display: inline-block;\n        font-size: 16rem;\n        width: 165rem;\n        height: 55rem;\n        background: url(~@/assets/daliuliang/stop_card1.svg) center/contain no-repeat, url(~@/assets/daliuliang/stop_card2.svg) left/69rem 64rem no-repeat;\n        .label_one {\n          text-align: right;\n          padding: 5rem 10rem 0 0;\n        }\n        .label_two {\n          font-size: 18rem;\n          text-align: right;\n          padding: 0 10rem 0 0;\n        }\n      }\n    }\n    .cards {\n      transform: translateY(-10rem);\n    }\n    .title_label {\n      transform: translateY(-5rem);\n    }\n  }\n  .cards {\n    display: flex;\n    flex-wrap: wrap;\n    width: 350rem;\n    // height: 100rem;\n    .card_small {\n      opacity: 0.8;\n      transform: translateY(7rem);\n      width: 163rem;\n      height: 55rem;\n      padding: 5rem 0 0 20rem;\n      background: url(~@/assets/daliuliang/card_small.png) center/163rem 55rem no-repeat;\n      .row-one {\n        font-size: 12rem;\n      }\n      .row-two {\n        font-family: newFont;\n        font-size: 22rem;\n      }\n    }\n    .card_big {\n      opacity: 0.8;\n      padding: 5rem 0 0 20rem;\n      width: 163rem;\n      height: 95rem;\n      background: url(~@/assets/daliuliang/card_big.png) center/163rem 105rem no-repeat;\n      .row-one {\n        font-size: 12rem;\n      }\n      .row-two {\n        font-family: newFont;\n        font-size: 22rem;\n      }\n      .row-three {\n        font-size: 12rem;\n        .row-three-one,\n        .row-three-two {\n          display: flex;\n          align-items: center;\n        }\n        .icon1_img {\n          display: inline-block;\n          width: 14rem;\n          height: 14rem;\n          background: url(~@/assets/daliuliang/icon1.png) center/25rem no-repeat;\n        }\n        .red-num {\n          color: #ff9c73;\n          font-weight: 600;\n        }\n        .blue-num {\n          color: #00a3e5;\n          font-weight: 600;\n        }\n      }\n    }\n  }\n  .title_oneself {\n    font-family: newFont;\n    font-size: 22rem;\n    padding-left: 8rem;\n  }\n  .line-charts1,\n  .line-charts2,\n  .line-charts3,\n  .line-charts4 {\n    width: 320rem;\n    height: 210rem;\n    margin-bottom: 10rem;\n  }\n  .table_move {\n    width: 350rem;\n    padding-right: 26rem;\n    .table_one {\n      margin: 10rem 0;\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      .btns {\n        display: flex;\n        .btn1,\n        .btn2 {\n          margin-right: 10rem;\n          width: 56rem;\n          height: 25rem;\n          line-height: 25rem;\n          text-align: center;\n          cursor: pointer;\n          background: url(~@/assets/daliuliang/btn1.png) center/contain no-repeat;\n        }\n        .isAcitve {\n          background: url(~@/assets/daliuliang/btn2.png) center/contain no-repeat;\n        }\n      }\n      .migration {\n        padding: 5rem 15rem;\n        background-color: rgba(18, 137, 221, 0.3);\n        span {\n          font-family: newFont;\n          padding-left: 5rem;\n        }\n      }\n    }\n    .table_two {\n      overflow: hidden;\n      height: 180rem;\n      .table_th {\n        display: flex;\n        align-items: center;\n        justify-content: space-between;\n        height: 30rem;\n        & > div {\n          text-align: center;\n        }\n        .th_one {\n          width: 50rem;\n        }\n        .th_two {\n          width: 50rem;\n          text-align: left;\n        }\n      }\n      .roll-box {\n        position: relative;\n        overflow: hidden;\n        height: 150rem;\n        .table_td {\n          display: flex;\n          align-items: center;\n          justify-content: space-between;\n          height: 30rem;\n\n          & > div {\n            text-align: center;\n          }\n          .td_one {\n            display: flex;\n            align-items: center;\n            .table_icon {\n              display: inline-block;\n              background: url(~@/assets/daliuliang/table-icon.png) center/30rem no-repeat;\n              width: 30rem;\n              height: 30rem;\n            }\n          }\n          .td_two {\n            width: 100rem;\n            margin-left: 37rem;\n            text-align: left;\n          }\n        }\n        .table_td:nth-of-type(even) {\n          background: rgba(25, 214, 255, 0.1);\n        }\n        #box1 {\n          position: absolute;\n          width: 100%;\n        }\n        .animation-stop {\n          animation-play-state: paused !important;\n        }\n        .animation-start {\n          animation-play-state: running !important;\n        }\n      }\n    }\n  }\n  .alarm-warning {\n    padding-left: 72rem;\n    padding-bottom: 6rem;\n    position: absolute;\n    z-index: 2;\n    top: 254rem;\n    left: 50%;\n    width: 850rem;\n    height: 97rem;\n    transform: translateX(-50%);\n    font-size: 25rem;\n    line-height: 25rem;\n    background: url(~@/assets/daliuliang/alarm.png) center/850rem 97rem no-repeat;\n    display: flex;\n    align-items: center;\n    .carousel-container {\n      overflow: hidden;\n      height: 45rem;\n    }\n\n    #carousel-list {\n      list-style: none;\n      margin: 0;\n      padding: 0;\n      position: relative;\n    }\n\n    #carousel-list li {\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 45rem;\n    }\n    .alarm-content {\n      display: flex;\n      align-items: center;\n      span {\n        width: 573rem;\n        display: inline-block;\n      }\n    }\n    img {\n      transform: translateY(2rem);\n    }\n    .alarm_btn {\n      margin-left: 10rem;\n      font-family: newFont;\n      font-size: 18rem;\n      width: 81rem;\n      height: 34rem;\n      line-height: 35rem;\n      display: inline-block;\n      text-align: center;\n      background: url(~@/assets/daliuliang/alarm-btn.png) center/81rem 56rem no-repeat;\n      cursor: pointer;\n    }\n  }\n  .time-warning {\n    padding-left: 88rem;\n    padding-bottom: 9rem;\n    position: absolute;\n    z-index: 2;\n    top: 135rem;\n    left: 50%;\n    width: 850rem;\n    height: 120rem;\n    transform: translateX(-50%);\n    // font-size: 25rem;\n    // line-height: 25rem;\n    background: url(~@/assets/daliuliang/alarm.png) center/850rem 120rem no-repeat;\n    display: flex;\n    align-items: center;\n    .time_title {\n      font-size: 24rem;\n      color: #ff9c73;\n      font-weight: 600;\n    }\n    .row-label {\n      display: inline-block;\n      width: 356rem;\n      font-size: 18rem;\n      text-align: left;\n    }\n  }\n  .tooltip_item {\n    position: absolute;\n    z-index: 2;\n    left: 1269rem;\n    top: 579rem;\n    width: 260rem;\n    height: 150rem;\n    background: url(~@/assets/daliuliang/alarm_tooltip.png) top right/252rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right/252rem 140rem no-repeat,\n      url(~@/assets/daliuliang/alarm_tooltip.png) top right/252rem 140rem no-repeat, url(~@/assets/daliuliang/map_icon1.png) bottom left/30rem no-repeat,\n      url(~@/assets/daliuliang/map_icon2.png) bottom left/30rem no-repeat;\n    padding: 15rem 0 0 40rem;\n    .icon-row {\n      display: flex;\n      align-items: center;\n\n      .icon_alarm {\n        width: 30rem;\n        height: 30rem;\n        background: url(~@/assets/daliuliang/warning_icon2.svg) center/40rem no-repeat;\n      }\n      span {\n        font-size: 18rem;\n      }\n    }\n    .row-two {\n      font-size: 22rem;\n      font-weight: 600;\n      color: #ff9c73;\n    }\n    .row-three,\n    .row-four {\n      font-size: 12rem;\n    }\n  }\n}\n@font-face {\n  font-family: \"newFont\";\n  src: url(\"./assets/daliuliang/newFont.ttf\");\n}\n@keyframes movetop1 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n@keyframes movetop2 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n","#app {\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  background-color: #000;\n  position: relative;\n  background: url(~@/assets/daliuliang/bottom2.png) bottom / contain no-repeat, url(~@/assets/daliuliang/bg.png) center / cover no-repeat;\n}\n#app .dialog {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(~@/assets/daliuliang/dialog.png) center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n#app .dialog .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n#app .dialog .picture {\n  width: 867rem;\n  height: 580rem;\n}\n#app .dialog .picture img {\n  width: 100%;\n}\n#app .dialog .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n#app .dialog .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_left.png) left center / 35rem 45rem no-repeat;\n}\n#app .dialog .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_center.png) center / 80rem 45rem;\n}\n#app .dialog .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_right.png) right center / 35rem 45rem no-repeat;\n}\n#app .dialog2 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(~@/assets/daliuliang/dialog.png) center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n#app .dialog2 .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n#app .dialog2 .dialog_content {\n  width: 867rem;\n  height: 580rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n#app .dialog2 .dialog_content .stop_car {\n  zoom: 1.5;\n  font-size: 20rem;\n  font-family: newFont;\n}\n#app .dialog2 .dialog_content .stop_car .label_title {\n  margin-top: 10rem;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card {\n  display: inline-block;\n  font-size: 16rem;\n  width: 165rem;\n  height: 55rem;\n  background: url(~@/assets/daliuliang/stop_card1.svg) center / contain no-repeat, url(~@/assets/daliuliang/stop_card2.svg) left / 69rem 64rem no-repeat;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card .label_one {\n  text-align: right;\n  padding: 5rem 10rem 0 0;\n}\n#app .dialog2 .dialog_content .stop_car .stop_card .label_two {\n  font-size: 18rem;\n  text-align: right;\n  padding: 0 10rem 0 0;\n}\n#app .dialog2 .dialog_content .table_move {\n  zoom: 1.5;\n  width: 350rem;\n  padding-right: 26rem;\n}\n#app .dialog2 .dialog_content .table_move .table_one {\n  margin: 10rem 0;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns {\n  display: flex;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns .btn1,\n#app .dialog2 .dialog_content .table_move .table_one .btns .btn2 {\n  margin-right: 10rem;\n  width: 56rem;\n  height: 25rem;\n  line-height: 25rem;\n  text-align: center;\n  cursor: pointer;\n  background: url(~@/assets/daliuliang/btn1.png) center / contain no-repeat;\n}\n#app .dialog2 .dialog_content .table_move .table_one .btns .isAcitve {\n  background: url(~@/assets/daliuliang/btn2.png) center / contain no-repeat;\n}\n#app .dialog2 .dialog_content .table_move .table_one .migration {\n  padding: 5rem 15rem;\n  background-color: rgba(18, 137, 221, 0.3);\n}\n#app .dialog2 .dialog_content .table_move .table_one .migration span {\n  font-family: newFont;\n  padding-left: 5rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two {\n  overflow: hidden;\n  height: 180rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th > div {\n  text-align: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th .th_one {\n  width: 50rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .table_th .th_two {\n  width: 50rem;\n  text-align: left;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box {\n  position: relative;\n  overflow: hidden;\n  height: 150rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td > div {\n  text-align: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_one {\n  display: flex;\n  align-items: center;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_one .table_icon {\n  display: inline-block;\n  background: url(~@/assets/daliuliang/table-icon.png) center / 30rem no-repeat;\n  width: 30rem;\n  height: 30rem;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td .td_two {\n  width: 100rem;\n  margin-left: 37rem;\n  text-align: left;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .table_td:nth-of-type(even) {\n  background: rgba(25, 214, 255, 0.1);\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box #box1 {\n  position: absolute;\n  width: 100%;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .animation-stop {\n  animation-play-state: paused !important;\n}\n#app .dialog2 .dialog_content .table_move .table_two .roll-box .animation-start {\n  animation-play-state: running !important;\n}\n#app .dialog2 .dialog_content .bar-chart {\n  width: 525rem;\n  height: 270rem;\n}\n#app .dialog2 .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n#app .dialog2 .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_left.png) left center / 35rem 45rem no-repeat;\n}\n#app .dialog2 .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_center.png) center / 80rem 45rem;\n}\n#app .dialog2 .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_right.png) right center / 35rem 45rem no-repeat;\n}\n#app .weather {\n  position: absolute;\n  top: 18rem;\n  right: 373rem;\n  width: 177rem;\n  height: 100rem;\n  background: url(~@/assets/tianqi.png) center / cover no-repeat;\n  z-index: 20;\n  padding: 12rem 20rem;\n}\n#app .weather .weather_item1 {\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .weather .weather_item2 {\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .weather .weather_item3 {\n  font-size: 12rem;\n}\n#app .map {\n  position: absolute;\n  bottom: 0;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1201rem;\n  height: 1008rem;\n  background: url(~@/assets/daliuliang/img.png) bottom center / 1201rem 1008rem no-repeat;\n  opacity: 0.8;\n}\n#app .map .liuliang_card {\n  position: absolute;\n  right: 286rem;\n  bottom: 255rem;\n  width: 230rem;\n  height: 119rem;\n  padding: 24rem 38rem;\n  background: url(~@/assets/liuliang.png) center / cover no-repeat;\n}\n#app .map .liuliang_card .liuliang_title {\n  font-size: 16rem;\n  font-family: PingFangSC-Semibold, PingFang SC;\n  font-weight: 600;\n  color: #ff9e83;\n  margin-bottom: 10rem;\n}\n#app .map .liuliang_card .liuliang_content {\n  display: flex;\n  align-items: center;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_item .liuliang_name {\n  font-size: 14rem;\n  font-family: PingFangSC-Medium, PingFang SC;\n  font-weight: 500;\n  color: #ffffff;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_item .liuliang_num {\n  font-size: 18rem;\n  font-family: PingFangSC-Semibold, PingFang SC;\n  font-weight: 600;\n  color: #ffffff;\n}\n#app .map .liuliang_card .liuliang_content .liuliang_line {\n  width: 3rem;\n  height: 30rem;\n  background: #ffffff;\n  border-radius: 2rem;\n  opacity: 0.65;\n  margin-right: 10rem;\n}\n#app .top-bar {\n  position: absolute;\n  z-index: 3;\n  font-family: \"newFont\";\n  width: 100%;\n  height: 112rem;\n  text-align: center;\n  line-height: 100rem;\n  font-size: 40rem;\n  background: url(~@/assets/daliuliang/top_bg.png) center top / 1630rem no-repeat;\n}\n#app .bottom-bar {\n  width: 100%;\n  position: absolute;\n  bottom: 0;\n  background: url(~@/assets/daliuliang/bottom.png) center bottom / 1778rem no-repeat;\n  height: 63rem;\n  text-align: center;\n}\n#app .bottom-bar img {\n  width: 92rem;\n  margin-top: 31rem;\n  cursor: pointer;\n}\n#app .bottom-bar .bottom_btn {\n  position: absolute;\n  bottom: 1rem;\n  z-index: 3;\n  font-size: 15rem;\n  width: 163rem;\n  height: 44rem;\n  padding: 10rem 0 0 7rem;\n  cursor: pointer;\n  background: url(~@/assets/daliuliang/card_small.png) center / 163rem 44rem no-repeat;\n}\n#app .bottom-bar .pass-analyse .analyse_item {\n  position: absolute;\n  z-index: 2;\n  top: -117rem;\n  right: 355rem;\n  width: 268rem;\n  height: 150rem;\n  padding: 12rem 0 0 34rem;\n  background: url(~@/assets/daliuliang/alarm_tooltip.png) top right / 268rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right / 268rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right / 268rem 140rem no-repeat;\n}\n#app .bottom-bar .pass-analyse .analyse_item .icon-row {\n  display: flex;\n  align-items: center;\n}\n#app .bottom-bar .pass-analyse .analyse_item .icon-row span {\n  font-size: 22rem;\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .bottom-bar .pass-analyse .analyse_item .row-label {\n  font-size: 12rem;\n  text-align: left;\n  margin-block: 1rem;\n}\n#app .contain {\n  width: 100%;\n  display: flex;\n  margin-top: 112rem;\n  justify-content: space-between;\n}\n#app .left-box {\n  margin-left: 35rem;\n  transform: translateY(-70rem);\n}\n#app .right-box {\n  transform: translateY(-70rem);\n  display: flex;\n  flex-direction: column;\n}\n#app .right-box .radar-chart {\n  width: 350rem;\n  height: 190rem;\n}\n#app .right-box .bar-chart {\n  width: 350rem;\n  height: 180rem;\n}\n#app .right-box .stop_car {\n  font-size: 20rem;\n  font-family: newFont;\n}\n#app .right-box .stop_car .label_title {\n  margin-top: 10rem;\n}\n#app .right-box .stop_car .stop_card {\n  display: inline-block;\n  font-size: 16rem;\n  width: 165rem;\n  height: 55rem;\n  background: url(~@/assets/daliuliang/stop_card1.svg) center / contain no-repeat, url(~@/assets/daliuliang/stop_card2.svg) left / 69rem 64rem no-repeat;\n}\n#app .right-box .stop_car .stop_card .label_one {\n  text-align: right;\n  padding: 5rem 10rem 0 0;\n}\n#app .right-box .stop_car .stop_card .label_two {\n  font-size: 18rem;\n  text-align: right;\n  padding: 0 10rem 0 0;\n}\n#app .right-box .cards {\n  transform: translateY(-10rem);\n}\n#app .right-box .title_label {\n  transform: translateY(-5rem);\n}\n#app .cards {\n  display: flex;\n  flex-wrap: wrap;\n  width: 350rem;\n}\n#app .cards .card_small {\n  opacity: 0.8;\n  transform: translateY(7rem);\n  width: 163rem;\n  height: 55rem;\n  padding: 5rem 0 0 20rem;\n  background: url(~@/assets/daliuliang/card_small.png) center / 163rem 55rem no-repeat;\n}\n#app .cards .card_small .row-one {\n  font-size: 12rem;\n}\n#app .cards .card_small .row-two {\n  font-family: newFont;\n  font-size: 22rem;\n}\n#app .cards .card_big {\n  opacity: 0.8;\n  padding: 5rem 0 0 20rem;\n  width: 163rem;\n  height: 95rem;\n  background: url(~@/assets/daliuliang/card_big.png) center / 163rem 105rem no-repeat;\n}\n#app .cards .card_big .row-one {\n  font-size: 12rem;\n}\n#app .cards .card_big .row-two {\n  font-family: newFont;\n  font-size: 22rem;\n}\n#app .cards .card_big .row-three {\n  font-size: 12rem;\n}\n#app .cards .card_big .row-three .row-three-one,\n#app .cards .card_big .row-three .row-three-two {\n  display: flex;\n  align-items: center;\n}\n#app .cards .card_big .row-three .icon1_img {\n  display: inline-block;\n  width: 14rem;\n  height: 14rem;\n  background: url(~@/assets/daliuliang/icon1.png) center / 25rem no-repeat;\n}\n#app .cards .card_big .row-three .red-num {\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .cards .card_big .row-three .blue-num {\n  color: #00a3e5;\n  font-weight: 600;\n}\n#app .title_oneself {\n  font-family: newFont;\n  font-size: 22rem;\n  padding-left: 8rem;\n}\n#app .line-charts1,\n#app .line-charts2,\n#app .line-charts3,\n#app .line-charts4 {\n  width: 320rem;\n  height: 210rem;\n  margin-bottom: 10rem;\n}\n#app .table_move {\n  width: 350rem;\n  padding-right: 26rem;\n}\n#app .table_move .table_one {\n  margin: 10rem 0;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n#app .table_move .table_one .btns {\n  display: flex;\n}\n#app .table_move .table_one .btns .btn1,\n#app .table_move .table_one .btns .btn2 {\n  margin-right: 10rem;\n  width: 56rem;\n  height: 25rem;\n  line-height: 25rem;\n  text-align: center;\n  cursor: pointer;\n  background: url(~@/assets/daliuliang/btn1.png) center / contain no-repeat;\n}\n#app .table_move .table_one .btns .isAcitve {\n  background: url(~@/assets/daliuliang/btn2.png) center / contain no-repeat;\n}\n#app .table_move .table_one .migration {\n  padding: 5rem 15rem;\n  background-color: rgba(18, 137, 221, 0.3);\n}\n#app .table_move .table_one .migration span {\n  font-family: newFont;\n  padding-left: 5rem;\n}\n#app .table_move .table_two {\n  overflow: hidden;\n  height: 180rem;\n}\n#app .table_move .table_two .table_th {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .table_move .table_two .table_th > div {\n  text-align: center;\n}\n#app .table_move .table_two .table_th .th_one {\n  width: 50rem;\n}\n#app .table_move .table_two .table_th .th_two {\n  width: 50rem;\n  text-align: left;\n}\n#app .table_move .table_two .roll-box {\n  position: relative;\n  overflow: hidden;\n  height: 150rem;\n}\n#app .table_move .table_two .roll-box .table_td {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 30rem;\n}\n#app .table_move .table_two .roll-box .table_td > div {\n  text-align: center;\n}\n#app .table_move .table_two .roll-box .table_td .td_one {\n  display: flex;\n  align-items: center;\n}\n#app .table_move .table_two .roll-box .table_td .td_one .table_icon {\n  display: inline-block;\n  background: url(~@/assets/daliuliang/table-icon.png) center / 30rem no-repeat;\n  width: 30rem;\n  height: 30rem;\n}\n#app .table_move .table_two .roll-box .table_td .td_two {\n  width: 100rem;\n  margin-left: 37rem;\n  text-align: left;\n}\n#app .table_move .table_two .roll-box .table_td:nth-of-type(even) {\n  background: rgba(25, 214, 255, 0.1);\n}\n#app .table_move .table_two .roll-box #box1 {\n  position: absolute;\n  width: 100%;\n}\n#app .table_move .table_two .roll-box .animation-stop {\n  animation-play-state: paused !important;\n}\n#app .table_move .table_two .roll-box .animation-start {\n  animation-play-state: running !important;\n}\n#app .alarm-warning {\n  padding-left: 72rem;\n  padding-bottom: 6rem;\n  position: absolute;\n  z-index: 2;\n  top: 254rem;\n  left: 50%;\n  width: 850rem;\n  height: 97rem;\n  transform: translateX(-50%);\n  font-size: 25rem;\n  line-height: 25rem;\n  background: url(~@/assets/daliuliang/alarm.png) center / 850rem 97rem no-repeat;\n  display: flex;\n  align-items: center;\n}\n#app .alarm-warning .carousel-container {\n  overflow: hidden;\n  height: 45rem;\n}\n#app .alarm-warning #carousel-list {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n  position: relative;\n}\n#app .alarm-warning #carousel-list li {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 45rem;\n}\n#app .alarm-warning .alarm-content {\n  display: flex;\n  align-items: center;\n}\n#app .alarm-warning .alarm-content span {\n  width: 573rem;\n  display: inline-block;\n}\n#app .alarm-warning img {\n  transform: translateY(2rem);\n}\n#app .alarm-warning .alarm_btn {\n  margin-left: 10rem;\n  font-family: newFont;\n  font-size: 18rem;\n  width: 81rem;\n  height: 34rem;\n  line-height: 35rem;\n  display: inline-block;\n  text-align: center;\n  background: url(~@/assets/daliuliang/alarm-btn.png) center / 81rem 56rem no-repeat;\n  cursor: pointer;\n}\n#app .time-warning {\n  padding-left: 88rem;\n  padding-bottom: 9rem;\n  position: absolute;\n  z-index: 2;\n  top: 135rem;\n  left: 50%;\n  width: 850rem;\n  height: 120rem;\n  transform: translateX(-50%);\n  background: url(~@/assets/daliuliang/alarm.png) center / 850rem 120rem no-repeat;\n  display: flex;\n  align-items: center;\n}\n#app .time-warning .time_title {\n  font-size: 24rem;\n  color: #ff9c73;\n  font-weight: 600;\n}\n#app .time-warning .row-label {\n  display: inline-block;\n  width: 356rem;\n  font-size: 18rem;\n  text-align: left;\n}\n#app .tooltip_item {\n  position: absolute;\n  z-index: 2;\n  left: 1269rem;\n  top: 579rem;\n  width: 260rem;\n  height: 150rem;\n  background: url(~@/assets/daliuliang/alarm_tooltip.png) top right / 252rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right / 252rem 140rem no-repeat, url(~@/assets/daliuliang/alarm_tooltip.png) top right / 252rem 140rem no-repeat, url(~@/assets/daliuliang/map_icon1.png) bottom left / 30rem no-repeat, url(~@/assets/daliuliang/map_icon2.png) bottom left / 30rem no-repeat;\n  padding: 15rem 0 0 40rem;\n}\n#app .tooltip_item .icon-row {\n  display: flex;\n  align-items: center;\n}\n#app .tooltip_item .icon-row .icon_alarm {\n  width: 30rem;\n  height: 30rem;\n  background: url(~@/assets/daliuliang/warning_icon2.svg) center / 40rem no-repeat;\n}\n#app .tooltip_item .icon-row span {\n  font-size: 18rem;\n}\n#app .tooltip_item .row-two {\n  font-size: 22rem;\n  font-weight: 600;\n  color: #ff9c73;\n}\n#app .tooltip_item .row-three,\n#app .tooltip_item .row-four {\n  font-size: 12rem;\n}\n@font-face {\n  font-family: \"newFont\";\n  src: url(\"./assets/daliuliang/newFont.ttf\");\n}\n@keyframes movetop1 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n@keyframes movetop2 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -318,6 +318,37 @@ module.exports = exports;
 
 /***/ }),
 
+/***/ "./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/less-loader/dist/cjs.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less&":
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js??ref--10-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--10-oneOf-1-2!./node_modules/less-loader/dist/cjs.js??ref--10-oneOf-1-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less& ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../node_modules/@vue/cli-service/node_modules/css-loader/dist/runtime/api.js */ "./node_modules/@vue/cli-service/node_modules/css-loader/dist/runtime/api.js");
+var ___CSS_LOADER_GET_URL_IMPORT___ = __webpack_require__(/*! ../../node_modules/@vue/cli-service/node_modules/css-loader/dist/runtime/getUrl.js */ "./node_modules/@vue/cli-service/node_modules/css-loader/dist/runtime/getUrl.js");
+var ___CSS_LOADER_URL_IMPORT_0___ = __webpack_require__(/*! @/assets/daliuliang/dialog.png */ "./src/assets/daliuliang/dialog.png");
+var ___CSS_LOADER_URL_IMPORT_1___ = __webpack_require__(/*! @/assets/card1.png */ "./src/assets/card1.png");
+var ___CSS_LOADER_URL_IMPORT_2___ = __webpack_require__(/*! @/assets/card2.png */ "./src/assets/card2.png");
+var ___CSS_LOADER_URL_IMPORT_3___ = __webpack_require__(/*! @/assets/daliuliang/dialog_left.png */ "./src/assets/daliuliang/dialog_left.png");
+var ___CSS_LOADER_URL_IMPORT_4___ = __webpack_require__(/*! @/assets/daliuliang/dialog_center.png */ "./src/assets/daliuliang/dialog_center.png");
+var ___CSS_LOADER_URL_IMPORT_5___ = __webpack_require__(/*! @/assets/daliuliang/dialog_right.png */ "./src/assets/daliuliang/dialog_right.png");
+exports = ___CSS_LOADER_API_IMPORT___(true);
+var ___CSS_LOADER_URL_REPLACEMENT_0___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_0___);
+var ___CSS_LOADER_URL_REPLACEMENT_1___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_1___);
+var ___CSS_LOADER_URL_REPLACEMENT_2___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_2___);
+var ___CSS_LOADER_URL_REPLACEMENT_3___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_3___);
+var ___CSS_LOADER_URL_REPLACEMENT_4___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_4___);
+var ___CSS_LOADER_URL_REPLACEMENT_5___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_5___);
+// Module
+exports.push([module.i, ".checkInDialog {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n.checkInDialog .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n.checkInDialog .dialog_content {\n  width: 94%;\n  height: 580rem;\n  overflow: auto;\n}\n.checkInDialog .dialog_content .in_card {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  flex-wrap: wrap;\n}\n.checkInDialog .dialog_content .in_card .card_item {\n  display: flex;\n  align-items: center;\n  margin: 10rem 20rem;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_label {\n  margin-left: 10rem;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_label .name {\n  font-size: 26rem;\n  filter: drop-shadow(#0075ff 0px 0px 8px);\n  margin-bottom: 7rem;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_label .num {\n  font-size: 30rem;\n  filter: drop-shadow(#0075ff 0px 0px 8px);\n  font-weight: 600;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_img {\n  position: relative;\n  width: 91rem;\n  height: 91rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ") center / cover no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / 31rem 31rem no-repeat;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_pin1 {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 6rem;\n  height: 6rem;\n  background: #2ef0ff;\n  border-radius: 6rem;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n  animation-duration: 2s;\n  animation-name: flicker;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_pin2 {\n  position: absolute;\n  top: 0;\n  right: 0;\n  width: 6rem;\n  height: 6rem;\n  background: #2ef0ff;\n  border-radius: 6rem;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n  animation-duration: 2s;\n  animation-name: flicker;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_pin3 {\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 6rem;\n  height: 6rem;\n  background: #2ef0ff;\n  border-radius: 6rem;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n  animation-duration: 2s;\n  animation-name: flicker;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_pin4 {\n  position: absolute;\n  bottom: 0;\n  right: 0;\n  width: 6rem;\n  height: 6rem;\n  background: #2ef0ff;\n  border-radius: 6rem;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n  animation-duration: 2s;\n  animation-name: flicker;\n}\n.checkInDialog .dialog_content .chart_card {\n  display: flex;\n  height: 300rem;\n}\n.checkInDialog .dialog_content .chart_card .radar_chart3 {\n  flex: 1;\n}\n.checkInDialog .dialog_content .chart_card .pie_chart3 {\n  flex: 1;\n}\n.checkInDialog .dialog_content .line_chart3 {\n  width: 100%;\n  height: 300rem;\n}\n.checkInDialog .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n.checkInDialog .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ") left center / 35rem 45rem no-repeat;\n}\n.checkInDialog .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_4___ + ") center / 80rem 45rem;\n}\n.checkInDialog .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_5___ + ") right center / 35rem 45rem no-repeat;\n}\n@keyframes movetop2 {\nfrom {\n    top: 0;\n}\nto {\n    top: 0;\n}\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/zhujiajian/src/views/C:/Users/Administrator/Desktop/zhujiajian/src/views/checkInDialog.vue","C:/Users/Administrator/Desktop/zhujiajian/src/views/checkInDialog.vue"],"names":[],"mappings":"AAuYA;EACE,kBAAA;EACA,WAAA;EACA,UAAA;EACA,SAAA;EACA,2BAAA;EACA,cAAA;EACA,cAAA;EACA,4EAAA;EACA,aAAA;EACA,sBAAA;EACA,mBAAA;ACtYF;AD2XA;EAaI,gBAAA;EACA,oBAAA;EACA,2BAAA;ACrYJ;ADsXA;EAkBI,UAAA;EACA,cAAA;EACA,cAAA;ACrYJ;ADiXA;EAsBM,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,eAAA;ACpYN;AD2WA;EA2BQ,aAAA;EACA,mBAAA;EACA,mBAAA;ACnYR;ADsWA;EA+BU,kBAAA;AClYV;ADmWA;EAiCY,gBAAA;EACA,wCAAA;EACA,mBAAA;ACjYZ;AD8VA;EAsCY,gBAAA;EACA,wCAAA;EACA,gBAAA;ACjYZ;ADyVA;EA4CU,kBAAA;EACA,YAAA;EACA,aAAA;EACA,oJAAA;AClYV;ADmVA;EAkDU,kBAAA;EACA,MAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,mBAAA;EACA,mBAAA;EACA,mCAAA;EACA,iCAAA;EACA,sBAAA;EACA,uBAAA;AClYV;ADsUA;EA+DU,kBAAA;EACA,MAAA;EACA,QAAA;EACA,WAAA;EACA,YAAA;EACA,mBAAA;EACA,mBAAA;EACA,mCAAA;EACA,iCAAA;EACA,sBAAA;EACA,uBAAA;AClYV;ADyTA;EA4EU,kBAAA;EACA,SAAA;EACA,OAAA;EACA,WAAA;EACA,YAAA;EACA,mBAAA;EACA,mBAAA;EACA,mCAAA;EACA,iCAAA;EACA,sBAAA;EACA,uBAAA;AClYV;AD4SA;EAyFU,kBAAA;EACA,SAAA;EACA,QAAA;EACA,WAAA;EACA,YAAA;EACA,mBAAA;EACA,mBAAA;EACA,mCAAA;EACA,iCAAA;EACA,sBAAA;EACA,uBAAA;AClYV;AD+RA;EAwGM,aAAA;EACA,cAAA;ACpYN;AD2RA;EA2GQ,OAAA;ACnYR;ADwRA;EA8GQ,OAAA;ACnYR;ADqRA;EAkHM,WAAA;EACA,cAAA;ACpYN;ADiRA;EAuHI,iBAAA;EACA,aAAA;EACA,kBAAA;EACA,oBAAA;EACA,qBAAA;EACA,kBAAA;EACA,eAAA;EACA,aAAA;ACrYJ;ADuQA;EAgIM,YAAA;EACA,aAAA;EACA,uFAAA;ACpYN;ADkQA;EAqIM,gBAAA;EACA,YAAA;EACA,aAAA;EACA,wEAAA;ACpYN;AD4PA;EA2IM,YAAA;EACA,aAAA;EACA,wFAAA;ACpYN;ADwYA;AACE;IACE,MAAA;ACtYF;ADwYA;IACE,MAAA;ACtYF;AACF","file":"checkInDialog.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.checkInDialog {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(~@/assets/daliuliang/dialog.png) center/cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  .dialog_title {\n    font-size: 42rem;\n    font-family: newFont;\n    padding: 6rem 20rem 26rem 0;\n  }\n  .dialog_content {\n    width: 94%;\n    height: 580rem;\n    overflow: auto;\n    .in_card {\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      flex-wrap: wrap;\n      .card_item {\n        display: flex;\n        align-items: center;\n        margin: 10rem 20rem;\n        .card_label {\n          margin-left: 10rem;\n          .name {\n            font-size: 26rem;\n            filter: drop-shadow(rgb(0, 117, 255) 0px 0px 8px);\n            margin-bottom: 7rem;\n          }\n          .num {\n            font-size: 30rem;\n            filter: drop-shadow(rgb(0, 117, 255) 0px 0px 8px);\n            font-weight: 600;\n          }\n        }\n        .card_img {\n          position: relative;\n          width: 91rem;\n          height: 91rem;\n          background: url(~@/assets/card1.png) center/cover no-repeat, url(~@/assets/card2.png) center/31rem 31rem no-repeat;\n        }\n        .card_pin1 {\n          position: absolute;\n          top: 0;\n          left: 0;\n          width: 6rem;\n          height: 6rem;\n          background: #2ef0ff;\n          border-radius: 6rem;\n          animation-iteration-count: infinite;\n          animation-timing-function: linear;\n          animation-duration: 2s;\n          animation-name: flicker;\n        }\n        .card_pin2 {\n          position: absolute;\n          top: 0;\n          right: 0;\n          width: 6rem;\n          height: 6rem;\n          background: #2ef0ff;\n          border-radius: 6rem;\n          animation-iteration-count: infinite;\n          animation-timing-function: linear;\n          animation-duration: 2s;\n          animation-name: flicker;\n        }\n        .card_pin3 {\n          position: absolute;\n          bottom: 0;\n          left: 0;\n          width: 6rem;\n          height: 6rem;\n          background: #2ef0ff;\n          border-radius: 6rem;\n          animation-iteration-count: infinite;\n          animation-timing-function: linear;\n          animation-duration: 2s;\n          animation-name: flicker;\n        }\n        .card_pin4 {\n          position: absolute;\n          bottom: 0;\n          right: 0;\n          width: 6rem;\n          height: 6rem;\n          background: #2ef0ff;\n          border-radius: 6rem;\n          animation-iteration-count: infinite;\n          animation-timing-function: linear;\n          animation-duration: 2s;\n          animation-name: flicker;\n        }\n      }\n    }\n    .chart_card {\n      display: flex;\n      height: 300rem;\n      .radar_chart3 {\n        flex: 1;\n      }\n      .pie_chart3 {\n        flex: 1;\n      }\n    }\n    .line_chart3 {\n      width: 100%;\n      height: 300rem;\n    }\n  }\n  .close_btn {\n    margin-top: 20rem;\n    height: 45rem;\n    line-height: 45rem;\n    font-family: newFont;\n    display: inline-block;\n    text-align: center;\n    cursor: pointer;\n    display: flex;\n    .btn_left {\n      width: 35rem;\n      height: 45rem;\n      background: url(~@/assets/daliuliang/dialog_left.png) left center/35rem 45rem no-repeat;\n    }\n    .btn_center {\n      font-size: 21rem;\n      width: 80rem;\n      height: 45rem;\n      background: url(~@/assets/daliuliang/dialog_center.png) center/80rem 45rem;\n    }\n    .btn_right {\n      width: 35rem;\n      height: 45rem;\n      background: url(~@/assets/daliuliang/dialog_right.png) right center/35rem 45rem no-repeat;\n    }\n  }\n}\n@keyframes movetop2 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n",".checkInDialog {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 1093rem;\n  height: 751rem;\n  background: url(~@/assets/daliuliang/dialog.png) center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n.checkInDialog .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 6rem 20rem 26rem 0;\n}\n.checkInDialog .dialog_content {\n  width: 94%;\n  height: 580rem;\n  overflow: auto;\n}\n.checkInDialog .dialog_content .in_card {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  flex-wrap: wrap;\n}\n.checkInDialog .dialog_content .in_card .card_item {\n  display: flex;\n  align-items: center;\n  margin: 10rem 20rem;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_label {\n  margin-left: 10rem;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_label .name {\n  font-size: 26rem;\n  filter: drop-shadow(#0075ff 0px 0px 8px);\n  margin-bottom: 7rem;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_label .num {\n  font-size: 30rem;\n  filter: drop-shadow(#0075ff 0px 0px 8px);\n  font-weight: 600;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_img {\n  position: relative;\n  width: 91rem;\n  height: 91rem;\n  background: url(~@/assets/card1.png) center / cover no-repeat, url(~@/assets/card2.png) center / 31rem 31rem no-repeat;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_pin1 {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 6rem;\n  height: 6rem;\n  background: #2ef0ff;\n  border-radius: 6rem;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n  animation-duration: 2s;\n  animation-name: flicker;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_pin2 {\n  position: absolute;\n  top: 0;\n  right: 0;\n  width: 6rem;\n  height: 6rem;\n  background: #2ef0ff;\n  border-radius: 6rem;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n  animation-duration: 2s;\n  animation-name: flicker;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_pin3 {\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  width: 6rem;\n  height: 6rem;\n  background: #2ef0ff;\n  border-radius: 6rem;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n  animation-duration: 2s;\n  animation-name: flicker;\n}\n.checkInDialog .dialog_content .in_card .card_item .card_pin4 {\n  position: absolute;\n  bottom: 0;\n  right: 0;\n  width: 6rem;\n  height: 6rem;\n  background: #2ef0ff;\n  border-radius: 6rem;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n  animation-duration: 2s;\n  animation-name: flicker;\n}\n.checkInDialog .dialog_content .chart_card {\n  display: flex;\n  height: 300rem;\n}\n.checkInDialog .dialog_content .chart_card .radar_chart3 {\n  flex: 1;\n}\n.checkInDialog .dialog_content .chart_card .pie_chart3 {\n  flex: 1;\n}\n.checkInDialog .dialog_content .line_chart3 {\n  width: 100%;\n  height: 300rem;\n}\n.checkInDialog .close_btn {\n  margin-top: 20rem;\n  height: 45rem;\n  line-height: 45rem;\n  font-family: newFont;\n  display: inline-block;\n  text-align: center;\n  cursor: pointer;\n  display: flex;\n}\n.checkInDialog .close_btn .btn_left {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_left.png) left center / 35rem 45rem no-repeat;\n}\n.checkInDialog .close_btn .btn_center {\n  font-size: 21rem;\n  width: 80rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_center.png) center / 80rem 45rem;\n}\n.checkInDialog .close_btn .btn_right {\n  width: 35rem;\n  height: 45rem;\n  background: url(~@/assets/daliuliang/dialog_right.png) right center / 35rem 45rem no-repeat;\n}\n@keyframes movetop2 {\n  from {\n    top: 0;\n  }\n  to {\n    top: 0;\n  }\n}\n"]}]);
+// Exports
+module.exports = exports;
+
+
+/***/ }),
+
 /***/ "./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/less-loader/dist/cjs.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/pin.vue?vue&type=style&index=0&id=35a65ceb&lang=less&":
 /*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js??ref--10-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--10-oneOf-1-2!./node_modules/less-loader/dist/cjs.js??ref--10-oneOf-1-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/pin.vue?vue&type=style&index=0&id=35a65ceb&lang=less& ***!
@@ -350,7 +381,7 @@ var ___CSS_LOADER_URL_IMPORT_0___ = __webpack_require__(/*! @/assets/dialog3_bg.
 exports = ___CSS_LOADER_API_IMPORT___(true);
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_0___);
 // Module
-exports.push([module.i, ".dialog3 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 998rem;\n  height: 684rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n.dialog3 .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 26rem 20rem 26rem 0;\n}\n.dialog3 .dialog_content {\n  margin-left: 28rem;\n  margin-top: 26rem;\n  width: 897rem;\n  height: 477rem;\n  padding: 20rem;\n  overflow-y: auto;\n}\n.dialog3 .dialog_content h1 {\n  font-size: 30rem;\n  text-align: center;\n  font-weight: 900;\n}\n.dialog3 .dialog_content h2 {\n  font-size: 26rem;\n  margin: 20rem 0;\n  font-weight: 500;\n}\n.dialog3 .dialog_content p {\n  font-size: 16rem;\n  font-weight: 300;\n  line-height: 20rem;\n}\n.dialog3 .close_btn {\n  position: absolute;\n  bottom: 33rem;\n  left: 40%;\n  width: 147rem;\n  height: 25rem;\n  text-align: center;\n  line-height: 25rem;\n  background: linear-gradient(180deg, rgba(37, 111, 168, 0.62) 0%, #103c6f 100%);\n  box-shadow: 0px 0px 10px 4px rgba(41, 167, 241, 0.44);\n  border-radius: 5px;\n  border: 2px solid #61a2ce;\n  cursor: pointer;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/zhujiajian/src/views/C:/Users/Administrator/Desktop/zhujiajian/src/views/show-dialog3.vue","C:/Users/Administrator/Desktop/zhujiajian/src/views/show-dialog3.vue"],"names":[],"mappings":"AAkIA;EACE,kBAAA;EACA,WAAA;EACA,UAAA;EACA,SAAA;EACA,2BAAA;EACA,aAAA;EACA,cAAA;EACA,4EAAA;EACA,aAAA;EACA,sBAAA;EACA,mBAAA;ACjIF;ADsHA;EAaI,gBAAA;EACA,oBAAA;EACA,4BAAA;AChIJ;ADiHA;EAkBI,kBAAA;EACA,iBAAA;EACA,aAAA;EACA,cAAA;EACA,cAAA;EACA,gBAAA;AChIJ;ADyGA;EAyBM,gBAAA;EACA,kBAAA;EACA,gBAAA;AC/HN;ADoGA;EA8BM,gBAAA;EACA,eAAA;EACA,gBAAA;AC/HN;AD+FA;EAmCM,gBAAA;EACA,gBAAA;EACA,kBAAA;AC/HN;AD0FA;EAyCI,kBAAA;EACA,aAAA;EACA,SAAA;EACA,aAAA;EACA,aAAA;EACA,kBAAA;EACA,kBAAA;EACA,8EAAA;EACA,qDAAA;EACA,kBAAA;EACA,yBAAA;EACA,eAAA;AChIJ","file":"show-dialog3.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.dialog3 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 998rem;\n  height: 684rem;\n  background: url(~@/assets/dialog3_bg.png) center/cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  .dialog_title {\n    font-size: 42rem;\n    font-family: newFont;\n    padding: 26rem 20rem 26rem 0;\n  }\n  .dialog_content {\n    margin-left: 28rem;\n    margin-top: 26rem;\n    width: 897rem;\n    height: 477rem;\n    padding: 20rem;\n    overflow-y: auto;\n    h1 {\n      font-size: 30rem;\n      text-align: center;\n      font-weight: 900;\n    }\n    h2 {\n      font-size: 26rem;\n      margin: 20rem 0;\n      font-weight: 500;\n    }\n    p {\n      font-size: 16rem;\n      font-weight: 300;\n      line-height: 20rem;\n    }\n  }\n  .close_btn {\n    position: absolute;\n    bottom: 33rem;\n    left: 40%;\n    width: 147rem;\n    height: 25rem;\n    text-align: center;\n    line-height: 25rem;\n    background: linear-gradient(180deg, rgba(37, 111, 168, 0.62) 0%, #103c6f 100%);\n    box-shadow: 0px 0px 10px 4px rgba(41, 167, 241, 0.44);\n    border-radius: 5px;\n    border: 2px solid #61a2ce;\n    cursor: pointer;\n  }\n}\n",".dialog3 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 998rem;\n  height: 684rem;\n  background: url(~@/assets/dialog3_bg.png) center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n.dialog3 .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 26rem 20rem 26rem 0;\n}\n.dialog3 .dialog_content {\n  margin-left: 28rem;\n  margin-top: 26rem;\n  width: 897rem;\n  height: 477rem;\n  padding: 20rem;\n  overflow-y: auto;\n}\n.dialog3 .dialog_content h1 {\n  font-size: 30rem;\n  text-align: center;\n  font-weight: 900;\n}\n.dialog3 .dialog_content h2 {\n  font-size: 26rem;\n  margin: 20rem 0;\n  font-weight: 500;\n}\n.dialog3 .dialog_content p {\n  font-size: 16rem;\n  font-weight: 300;\n  line-height: 20rem;\n}\n.dialog3 .close_btn {\n  position: absolute;\n  bottom: 33rem;\n  left: 40%;\n  width: 147rem;\n  height: 25rem;\n  text-align: center;\n  line-height: 25rem;\n  background: linear-gradient(180deg, rgba(37, 111, 168, 0.62) 0%, #103c6f 100%);\n  box-shadow: 0px 0px 10px 4px rgba(41, 167, 241, 0.44);\n  border-radius: 5px;\n  border: 2px solid #61a2ce;\n  cursor: pointer;\n}\n"]}]);
+exports.push([module.i, ".dialog3 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 998rem;\n  height: 684rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n.dialog3 .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 26rem 20rem 26rem 0;\n}\n.dialog3 .dialog_content {\n  margin-left: 28rem;\n  margin-top: 26rem;\n  width: 897rem;\n  height: 477rem;\n  padding: 20rem;\n  overflow-y: auto;\n}\n.dialog3 .dialog_content h1 {\n  font-size: 30rem;\n  text-align: center;\n  font-weight: 900;\n}\n.dialog3 .dialog_content h2 {\n  font-size: 26rem;\n  margin: 20rem 0;\n  font-weight: 500;\n}\n.dialog3 .dialog_content p {\n  font-size: 16rem;\n  font-weight: 300;\n  line-height: 26rem;\n  opacity: 0.6;\n}\n.dialog3 .close_btn {\n  position: absolute;\n  bottom: 33rem;\n  left: 40%;\n  width: 147rem;\n  height: 25rem;\n  text-align: center;\n  line-height: 25rem;\n  background: linear-gradient(180deg, rgba(37, 111, 168, 0.62) 0%, #103c6f 100%);\n  box-shadow: 0px 0px 10px 4px rgba(41, 167, 241, 0.44);\n  border-radius: 5px;\n  border: 2px solid #61a2ce;\n  cursor: pointer;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/zhujiajian/src/views/C:/Users/Administrator/Desktop/zhujiajian/src/views/show-dialog3.vue","C:/Users/Administrator/Desktop/zhujiajian/src/views/show-dialog3.vue"],"names":[],"mappings":"AAgIA;EACE,kBAAA;EACA,WAAA;EACA,UAAA;EACA,SAAA;EACA,2BAAA;EACA,aAAA;EACA,cAAA;EACA,4EAAA;EACA,aAAA;EACA,sBAAA;EACA,mBAAA;AC/HF;ADoHA;EAaI,gBAAA;EACA,oBAAA;EACA,4BAAA;AC9HJ;AD+GA;EAkBI,kBAAA;EACA,iBAAA;EACA,aAAA;EACA,cAAA;EACA,cAAA;EACA,gBAAA;AC9HJ;ADuGA;EAyBM,gBAAA;EACA,kBAAA;EACA,gBAAA;AC7HN;ADkGA;EA8BM,gBAAA;EACA,eAAA;EACA,gBAAA;AC7HN;AD6FA;EAmCM,gBAAA;EACA,gBAAA;EACA,kBAAA;EACA,YAAA;AC7HN;ADuFA;EA0CI,kBAAA;EACA,aAAA;EACA,SAAA;EACA,aAAA;EACA,aAAA;EACA,kBAAA;EACA,kBAAA;EACA,8EAAA;EACA,qDAAA;EACA,kBAAA;EACA,yBAAA;EACA,eAAA;AC9HJ","file":"show-dialog3.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.dialog3 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 998rem;\n  height: 684rem;\n  background: url(~@/assets/dialog3_bg.png) center/cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  .dialog_title {\n    font-size: 42rem;\n    font-family: newFont;\n    padding: 26rem 20rem 26rem 0;\n  }\n  .dialog_content {\n    margin-left: 28rem;\n    margin-top: 26rem;\n    width: 897rem;\n    height: 477rem;\n    padding: 20rem;\n    overflow-y: auto;\n    h1 {\n      font-size: 30rem;\n      text-align: center;\n      font-weight: 900;\n    }\n    h2 {\n      font-size: 26rem;\n      margin: 20rem 0;\n      font-weight: 500;\n    }\n    p {\n      font-size: 16rem;\n      font-weight: 300;\n      line-height: 26rem;\n      opacity: 0.6;\n    }\n  }\n  .close_btn {\n    position: absolute;\n    bottom: 33rem;\n    left: 40%;\n    width: 147rem;\n    height: 25rem;\n    text-align: center;\n    line-height: 25rem;\n    background: linear-gradient(180deg, rgba(37, 111, 168, 0.62) 0%, #103c6f 100%);\n    box-shadow: 0px 0px 10px 4px rgba(41, 167, 241, 0.44);\n    border-radius: 5px;\n    border: 2px solid #61a2ce;\n    cursor: pointer;\n  }\n}\n",".dialog3 {\n  position: absolute;\n  top: 184rem;\n  z-index: 5;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 998rem;\n  height: 684rem;\n  background: url(~@/assets/dialog3_bg.png) center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n.dialog3 .dialog_title {\n  font-size: 42rem;\n  font-family: newFont;\n  padding: 26rem 20rem 26rem 0;\n}\n.dialog3 .dialog_content {\n  margin-left: 28rem;\n  margin-top: 26rem;\n  width: 897rem;\n  height: 477rem;\n  padding: 20rem;\n  overflow-y: auto;\n}\n.dialog3 .dialog_content h1 {\n  font-size: 30rem;\n  text-align: center;\n  font-weight: 900;\n}\n.dialog3 .dialog_content h2 {\n  font-size: 26rem;\n  margin: 20rem 0;\n  font-weight: 500;\n}\n.dialog3 .dialog_content p {\n  font-size: 16rem;\n  font-weight: 300;\n  line-height: 26rem;\n  opacity: 0.6;\n}\n.dialog3 .close_btn {\n  position: absolute;\n  bottom: 33rem;\n  left: 40%;\n  width: 147rem;\n  height: 25rem;\n  text-align: center;\n  line-height: 25rem;\n  background: linear-gradient(180deg, rgba(37, 111, 168, 0.62) 0%, #103c6f 100%);\n  box-shadow: 0px 0px 10px 4px rgba(41, 167, 241, 0.44);\n  border-radius: 5px;\n  border: 2px solid #61a2ce;\n  cursor: pointer;\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -375,7 +406,52 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _views_show_dialog3_vue__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./views/show-dialog3.vue */ "./src/views/show-dialog3.vue");
 /* harmony import */ var _views_pin_vue__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./views/pin.vue */ "./src/views/pin.vue");
 /* harmony import */ var _views_CardAnalyse_vue__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./views/CardAnalyse.vue */ "./src/views/CardAnalyse.vue");
+/* harmony import */ var _views_checkInDialog_vue__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./views/checkInDialog.vue */ "./src/views/checkInDialog.vue");
 
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -886,13 +962,15 @@ if (false) {}
 
 
 
+
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "App",
   components: {
     TitleSub: _TitleSub_vue__WEBPACK_IMPORTED_MODULE_2__["default"],
     ShowDialog3: _views_show_dialog3_vue__WEBPACK_IMPORTED_MODULE_5__["default"],
     Pin: _views_pin_vue__WEBPACK_IMPORTED_MODULE_6__["default"],
-    CardAnalyse: _views_CardAnalyse_vue__WEBPACK_IMPORTED_MODULE_7__["default"]
+    CardAnalyse: _views_CardAnalyse_vue__WEBPACK_IMPORTED_MODULE_7__["default"],
+    checkInDialog: _views_checkInDialog_vue__WEBPACK_IMPORTED_MODULE_8__["default"]
   },
   data() {
     return {
@@ -903,7 +981,7 @@ if (false) {}
       dialogShow2: false,
       dialogShow3: false,
       dialogShow4: false,
-      dialogShow5: false,
+      dialogShow5: true,
       lastWeek: ["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
       lastDay: ["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
       radarData: [],
@@ -953,7 +1031,8 @@ if (false) {}
         this.axiosRquest("zs_kk_minute_stat_ft_zjj") // 16.预测line2
         ]).then(_axios_js__WEBPACK_IMPORTED_MODULE_3__["default"].spread((res1, res2, res3, res4, res5, res6, res7, res8, res9, res10, res11, res12, res13, res14, res15, res16) => {
           var _res1$filter$find, _res1$filter$find2, _res1$filter$find3, _res1$filter$find4, _res1$filter$find5, _res1$filter$find6, _res1$filter$find7, _res1$filter$find8, _res1$filter$find9, _res1$filter$find10, _res1$filter$find11, _res1$filter$find12, _res1$filter$find13, _res1$filter$find14, _res1$filter$find15, _res1$filter$find16, _res1$filter$find17, _res1$filter$find18, _res1$filter$find19, _res1$filter$find20, _res1$filter$find21, _res1$filter$find22, _res1$filter$find23, _res1$filter$find24, _res1$filter$find25, _res1$filter$find26, _res1$filter$find27, _res1$filter$find28, _res3$find, _res3$find2, _res3$find3, _res3$find4, _res3$find5, _res3$find6, _res3$find7, _res3$find8, _res3$find9, _res3$find10, _res3$find11, _res3$find12, _res3$find13, _res3$find14, _res4$find, _res4$find2, _res4$find3, _res4$find4, _res4$find5, _res4$find6, _res4$find7, _res4$find8, _res4$find9, _res4$find10, _res4$find11, _res4$find12, _res4$find13, _res4$find14;
-          console.log("==========", res8, res15);
+          // console.log("==========", res8, res15)
+
           this.indexList = [res14.find(e => e.kk_id == 1).flow_index, res14.find(e => e.kk_id == 2).flow_index];
           let {
             weather,
@@ -974,8 +1053,8 @@ if (false) {}
           .sort((obj1, obj2) => obj1.kk_type - obj2.kk_type)
           .map(e => e.rate ) */
           [((_res1$filter$find15 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 1)) === null || _res1$filter$find15 === void 0 ? void 0 : _res1$filter$find15.rate) || "0", ((_res1$filter$find16 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 2)) === null || _res1$filter$find16 === void 0 ? void 0 : _res1$filter$find16.rate) || "0", ((_res1$filter$find17 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 3)) === null || _res1$filter$find17 === void 0 ? void 0 : _res1$filter$find17.rate) || "0", ((_res1$filter$find18 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 4)) === null || _res1$filter$find18 === void 0 ? void 0 : _res1$filter$find18.rate) || "0", ((_res1$filter$find19 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 5)) === null || _res1$filter$find19 === void 0 ? void 0 : _res1$filter$find19.rate) || "0", ((_res1$filter$find20 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 6)) === null || _res1$filter$find20 === void 0 ? void 0 : _res1$filter$find20.rate) || "0", ((_res1$filter$find21 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 7)) === null || _res1$filter$find21 === void 0 ? void 0 : _res1$filter$find21.rate) || "0", ((_res1$filter$find22 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 8)) === null || _res1$filter$find22 === void 0 ? void 0 : _res1$filter$find22.rate) || "0", ((_res1$filter$find23 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 9)) === null || _res1$filter$find23 === void 0 ? void 0 : _res1$filter$find23.rate) || "0", ((_res1$filter$find24 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 10)) === null || _res1$filter$find24 === void 0 ? void 0 : _res1$filter$find24.rate) || "0", ((_res1$filter$find25 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 11)) === null || _res1$filter$find25 === void 0 ? void 0 : _res1$filter$find25.rate) || "0", ((_res1$filter$find26 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 12)) === null || _res1$filter$find26 === void 0 ? void 0 : _res1$filter$find26.rate) || "0", ((_res1$filter$find27 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 13)) === null || _res1$filter$find27 === void 0 ? void 0 : _res1$filter$find27.rate) || "0", ((_res1$filter$find28 = res1.filter(e => e.dt_type == "last_day").find(e => e.kk_type == 14)) === null || _res1$filter$find28 === void 0 ? void 0 : _res1$filter$find28.rate) || "0"];
-          this.radarData = res2;
-          this.radarData2 = res13.filter(e => e.kk_type == 1);
+          this.radarData = res2.filter(e => e.kk_type == 7);
+          this.radarData2 = res2.filter(e => e.kk_type == 1);
           // this.radarData = radarData_mock
 
           this.hourList = [((_res3$find = res3.find(e => e.kk_type == 1)) === null || _res3$find === void 0 ? void 0 : _res3$find.kk_flow) || 0, ((_res3$find2 = res3.find(e => e.kk_type == 2)) === null || _res3$find2 === void 0 ? void 0 : _res3$find2.kk_flow) || 0, ((_res3$find3 = res3.find(e => e.kk_type == 3)) === null || _res3$find3 === void 0 ? void 0 : _res3$find3.kk_flow) || 0, ((_res3$find4 = res3.find(e => e.kk_type == 4)) === null || _res3$find4 === void 0 ? void 0 : _res3$find4.kk_flow) || 0, ((_res3$find5 = res3.find(e => e.kk_type == 5)) === null || _res3$find5 === void 0 ? void 0 : _res3$find5.kk_flow) || 0, ((_res3$find6 = res3.find(e => e.kk_type == 6)) === null || _res3$find6 === void 0 ? void 0 : _res3$find6.kk_flow) || 0, ((_res3$find7 = res3.find(e => e.kk_type == 7)) === null || _res3$find7 === void 0 ? void 0 : _res3$find7.kk_flow) || 0, ((_res3$find8 = res3.find(e => e.kk_type == 8)) === null || _res3$find8 === void 0 ? void 0 : _res3$find8.kk_flow) || 0, ((_res3$find9 = res3.find(e => e.kk_type == 9)) === null || _res3$find9 === void 0 ? void 0 : _res3$find9.kk_flow) || 0, ((_res3$find10 = res3.find(e => e.kk_type == 10)) === null || _res3$find10 === void 0 ? void 0 : _res3$find10.kk_flow) || 0, ((_res3$find11 = res3.find(e => e.kk_type == 11)) === null || _res3$find11 === void 0 ? void 0 : _res3$find11.kk_flow) || 0, ((_res3$find12 = res3.find(e => e.kk_type == 12)) === null || _res3$find12 === void 0 ? void 0 : _res3$find12.kk_flow) || 0, ((_res3$find13 = res3.find(e => e.kk_type == 13)) === null || _res3$find13 === void 0 ? void 0 : _res3$find13.kk_flow) || 0, ((_res3$find14 = res3.find(e => e.kk_type == 14)) === null || _res3$find14 === void 0 ? void 0 : _res3$find14.kk_flow) || 0];
@@ -1170,8 +1249,8 @@ if (false) {}
         document.documentElement.style.fontSize = document.documentElement.clientHeight / 1080 + "px";
         if (this._myChart1) {
           this._myChart1.resize();
-          this._myChart2.resize();
-          this._myChart3.resize();
+          this._myChart4.resize();
+          this._myChart_radar.resize();
         }
       };
       change();
@@ -1292,7 +1371,7 @@ if (false) {}
           color: "rgba(255,156,115)",
           lineStyle: {
             color: "rgba(255,156,115)",
-            type: 'dashed'
+            type: "dashed"
           },
           areaStyle: {
             color: new echarts__WEBPACK_IMPORTED_MODULE_1__["graphic"].LinearGradient(0, 0, 0, 1, [{
@@ -1312,7 +1391,7 @@ if (false) {}
           color: "#19D6FF",
           lineStyle: {
             color: "#19D6FF",
-            type: 'dashed'
+            type: "dashed"
           },
           areaStyle: {
             color: new echarts__WEBPACK_IMPORTED_MODULE_1__["graphic"].LinearGradient(0, 0, 0, 1, [{
@@ -1743,7 +1822,7 @@ if (false) {}
           color: "rgba(255,156,115)",
           lineStyle: {
             color: "rgba(255,156,115)",
-            type: 'dashed'
+            type: "dashed"
           },
           areaStyle: {
             color: new echarts__WEBPACK_IMPORTED_MODULE_1__["graphic"].LinearGradient(0, 0, 0, 1, [{
@@ -1763,7 +1842,7 @@ if (false) {}
           color: "#19D6FF",
           lineStyle: {
             color: "#19D6FF",
-            type: 'dashed'
+            type: "dashed"
           },
           areaStyle: {
             color: new echarts__WEBPACK_IMPORTED_MODULE_1__["graphic"].LinearGradient(0, 0, 0, 1, [{
@@ -1975,7 +2054,7 @@ if (false) {}
             };
           }),
           center: ["46%", "50%"],
-          radius: 50,
+          radius: 65,
           startAngle: 90,
           splitNumber: 4,
           shape: "circle",
@@ -2028,12 +2107,9 @@ if (false) {}
           this.barChart();
         });
       } else if (type == 2) {
-        this.$nextTick(() => {
-          this.getTableList();
-          /* this.$nextTick(() => {
-            this.rollInit()
-          }) */
-        });
+        /*  this.$nextTick(() => {
+          this.getTableList()
+        }) */
       } else if (type == 4) {
         this.dialogShow2 = false;
         this.dialogShow4 = true;
@@ -2051,11 +2127,11 @@ if (false) {}
   },
   mounted() {
     this.computedREM();
-    window.addEventListener("resize", () => {
-      this._myChart1.resize();
-      this._myChart4.resize();
-      this._myChart_radar.resize();
-    });
+    /* window.addEventListener("resize", () => {
+      this._myChart1.resize()
+      this._myChart4.resize()
+      this._myChart_radar.resize()
+    }) */
   }
 });
 
@@ -2241,10 +2317,10 @@ __webpack_require__.r(__webpack_exports__);
           }]
         }]
       };
-      if (!this._myChart_radar) {
-        this._myChart_radar = echarts__WEBPACK_IMPORTED_MODULE_2__["init"](document.querySelector(".radar-chart2"));
+      if (!this._myChart_radar2) {
+        this._myChart_radar2 = echarts__WEBPACK_IMPORTED_MODULE_2__["init"](document.querySelector(".radar-chart2"));
       }
-      this._myChart_radar.setOption(option);
+      this._myChart_radar2.setOption(option);
     },
     getTableList() {
       this.setAnimationList("#box1", "movetop1", this.tableData);
@@ -2330,6 +2406,399 @@ __webpack_require__.r(__webpack_exports__);
     }
   },
   mounted() {}
+});
+
+/***/ }),
+
+/***/ "./node_modules/cache-loader/dist/cjs.js?!./node_modules/babel-loader/lib/index.js!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/checkInDialog.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/checkInDialog.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var core_js_modules_es_array_reduce_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es.array.reduce.js */ "./node_modules/core-js/modules/es.array.reduce.js");
+/* harmony import */ var core_js_modules_es_array_reduce_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_reduce_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _TitleSub_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../TitleSub.vue */ "./src/TitleSub.vue");
+/* harmony import */ var echarts__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! echarts */ "./node_modules/echarts/index.js");
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  components: {
+    TitleSub: _TitleSub_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
+  },
+  props: ["dialogShow"],
+  data() {
+    return {
+      cardList: [{
+        name: "入住总数",
+        num: 3200
+      }, {
+        name: "同比昨日",
+        num: "3%"
+      }, {
+        name: "环比上周",
+        num: "3%"
+      }, {
+        name: "",
+        num: 0
+      }, {
+        name: "沈家门入住数",
+        num: 1233
+      }, {
+        name: "东港入住数",
+        num: 899
+      }, {
+        name: "朱家尖入住数",
+        num: 311
+      }, {
+        name: "普陀山入住数",
+        num: 311
+      }]
+    };
+  },
+  methods: {
+    closeHandle() {
+      this.$emit("close");
+    },
+    radarChart() {
+      const radarData = [{
+        car_type: "杭州市",
+        flow_rate: "12.77%",
+        kk_flow: 200
+      }, {
+        car_type: "宁波市",
+        flow_rate: "19.16%",
+        kk_flow: 300
+      }, {
+        car_type: "温州市",
+        flow_rate: "21.43%",
+        kk_flow: 325
+      }, {
+        car_type: "嘉兴市",
+        flow_rate: "26.83%",
+        kk_flow: 420
+      }, {
+        car_type: "金华市",
+        flow_rate: "20.44%",
+        kk_flow: 320
+      }];
+      let maxObj = radarData.reduce((max, currentObj) => {
+        return currentObj.kk_flow > max.kk_flow ? currentObj : max;
+      });
+      let option = {
+        color: "#0D79D3",
+        tooltip: {
+          trigger: "axis"
+        },
+        radar: [{
+          /* indicator: [
+            { text: `本市: ${this.radarData[0].flow_rate}`, max: maxObj.kk_flow },
+            { text: `省内\n(非舟): ${this.radarData[1].flow_rate}`, max: maxObj.kk_flow },
+            { text: `苏沪: ${this.radarData[2].flow_rate}`, max: maxObj.kk_flow },
+            { text: `其他: ${this.radarData[3].flow_rate}`, max: maxObj.kk_flow },
+          ], */
+          indicator: radarData.map(e => {
+            return {
+              text: `${e.car_type}: ${e.flow_rate}`,
+              max: maxObj.kk_flow
+            };
+          }),
+          center: ["46%", "50%"],
+          radius: 90,
+          startAngle: 90,
+          splitNumber: 4,
+          shape: "circle",
+          splitArea: {
+            areaStyle: {
+              color: ["rgba(255,255,255,0.6)", "rgba(255,255,255,0.4)", "rgba(255,255,255,0.2)", "rgba(255,255,255,0.1)"],
+              shadowColor: "rgba(0, 0, 0, 0.2)",
+              shadowBlur: 10
+            }
+          },
+          axisLine: {
+            lineStyle: {
+              color: "rgba(211, 253, 250, 0.8)"
+            }
+          },
+          splitLine: {
+            lineStyle: {
+              color: "rgba(211, 253, 250, 0.8)"
+            }
+          }
+        }],
+        series: [{
+          name: "车辆来源",
+          type: "radar",
+          tooltip: {
+            trigger: "item"
+          },
+          areaStyle: {},
+          data: [{
+            value: radarData.map(e => e.kk_flow),
+            // name: "A Software",
+            areaStyle: {
+              color: "rgba(13, 121, 211, 0.6)"
+            }
+          }]
+        }]
+      };
+      if (!this._myChart_radar3) {
+        this._myChart_radar3 = echarts__WEBPACK_IMPORTED_MODULE_2__["init"](document.querySelector(".radar_chart3"));
+      }
+      this._myChart_radar3.setOption(option);
+    },
+    pieChart() {
+      const radarData = [{
+        name: "杭州市",
+        flow_rate: "12.77%",
+        value: 200
+      }, {
+        name: "宁波市",
+        flow_rate: "19.16%",
+        value: 300
+      }, {
+        name: "温州市",
+        flow_rate: "21.43%",
+        value: 325
+      }, {
+        name: "嘉兴市",
+        flow_rate: "26.83%",
+        value: 420
+      }, {
+        name: "金华市",
+        flow_rate: "20.44%",
+        value: 320
+      }];
+      let option = {
+        color: ["#1890FF", "#1EE7E7", "#2F54EB", "#BAE7FF", "#00D68A"],
+        tooltip: {
+          trigger: "item"
+        },
+        legend: {
+          icon: "rect",
+          top: "center",
+          right: "20%",
+          orient: "vertical",
+          itemWidth: 15,
+          itemHeight: 15,
+          textStyle: {
+            color: "#fff"
+          }
+        },
+        series: [{
+          name: "Access From",
+          type: "pie",
+          radius: ["50%", "70%"],
+          center: ["40%", "50%"],
+          avoidLabelOverlap: false,
+          itemStyle: {
+            // borderRadius: 10,
+            borderColor: "#09192E",
+            borderWidth: 5
+          },
+          label: {
+            show: false,
+            position: "center"
+          },
+          labelLine: {
+            show: false
+          },
+          data: radarData
+        }]
+      };
+      if (!this._myChart_pin) {
+        this._myChart_pin = echarts__WEBPACK_IMPORTED_MODULE_2__["init"](document.querySelector(".pie_chart3"));
+      }
+      this._myChart_pin.setOption(option);
+    },
+    lineCharts() {
+      const mockData = [{
+        name: "杭州市",
+        flow_rate: "12.77%",
+        value: [200, 600, 400, 200, 123, 23]
+      }, {
+        name: "宁波市",
+        flow_rate: "19.16%",
+        value: [300, 400, 500, 600, 323, 111]
+      }
+      /* {
+        name: "温州市",
+        flow_rate: "21.43%",
+        value: 325,
+      },
+      {
+        name: "嘉兴市",
+        flow_rate: "26.83%",
+        value: 420,
+      },
+      {
+        name: "金华市",
+        flow_rate: "20.44%",
+        value: 320,
+      }, */];
+
+      let option = {
+        grid: {
+          top: 50,
+          left: 40,
+          bottom: 20,
+          right: 0
+        },
+        tooltip: {
+          trigger: "axis"
+        },
+        title: {
+          text: "单位",
+          padding: [5, 0, 0, 10],
+          textStyle: {
+            fontSize: 12,
+            color: "#97BED4"
+          }
+        },
+        legend: {
+          data: mockData.map(e => e.name),
+          icon: "rect",
+          itemHeight: 5,
+          itemWidth: 15,
+          right: "center",
+          top: 0,
+          textStyle: {
+            fontSize: 10,
+            color: "#E6FAFF"
+          }
+        },
+        xAxis: {
+          type: "category",
+          data: ["1月", "2月", "3月", "4月", "5月", "6月"],
+          axisLabel: {
+            color: "#97BED4"
+          },
+          axisLine: {
+            show: false
+          },
+          axisTick: {
+            show: false
+          }
+        },
+        yAxis: {
+          type: "value",
+          axisLabel: {
+            color: "#97BED4"
+          },
+          axisLine: {
+            show: false
+          },
+          axisTick: {
+            show: false
+          },
+          splitLine: {
+            show: true,
+            lineStyle: {
+              type: "dashed",
+              color: "rgba(151,190,212,0.3)"
+            }
+          }
+        },
+        series: [{
+          name: mockData[0].name,
+          data: mockData[0].value,
+          type: "line",
+          showSymbol: false,
+          smooth: true,
+          color: "#00FFFF",
+          lineStyle: {
+            color: "#00FFFF"
+          },
+          areaStyle: {
+            color: new echarts__WEBPACK_IMPORTED_MODULE_2__["graphic"].LinearGradient(0, 0, 0, 1, [{
+              offset: 0,
+              color: "rgba(0,255,255,0.6)"
+            }, {
+              offset: 1,
+              color: "rgba(0,255,255,0.1)"
+            }])
+          }
+        }, {
+          name: mockData[1].name,
+          data: mockData[1].value,
+          type: "line",
+          showSymbol: false,
+          smooth: true,
+          color: "#2A9DFF",
+          lineStyle: {
+            color: "#2A9DFF"
+          },
+          areaStyle: {
+            color: new echarts__WEBPACK_IMPORTED_MODULE_2__["graphic"].LinearGradient(0, 0, 0, 1, [{
+              offset: 0,
+              color: "rgba(42,157,255,0.6)"
+            }, {
+              offset: 1,
+              color: "rgba(42,157,255,0.1)"
+            }])
+          }
+        }]
+      };
+      if (!this._myChart6) {
+        this._myChart6 = echarts__WEBPACK_IMPORTED_MODULE_2__["init"](document.querySelector(".line_chart3"));
+      }
+      this._myChart6.setOption(option);
+    }
+  },
+  mounted() {
+    this.$nextTick(() => {
+      this.radarChart();
+      this.pieChart();
+      this.lineCharts();
+    });
+  }
 });
 
 /***/ }),
@@ -2789,8 +3258,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ["dialogShow"],
@@ -2849,7 +3316,7 @@ var render = function () {
           "div",
           {
             staticClass: "bottom_btn",
-            staticStyle: { left: "33%" },
+            staticStyle: { left: "25%" },
             on: {
               click: function ($event) {
                 return _vm.openDialog2(1)
@@ -2863,35 +3330,21 @@ var render = function () {
           "div",
           {
             staticClass: "bottom_btn",
-            staticStyle: { left: "45%" },
+            staticStyle: { left: "34%" },
             on: {
               click: function ($event) {
                 return _vm.openDialog2(2)
               },
             },
           },
-          [_vm._v("朱家尖游客迁移指数")]
+          [_vm._v("岱山流量")]
         ),
         _vm._v(" "),
         _c(
           "div",
           {
             staticClass: "bottom_btn",
-            staticStyle: { left: "57%" },
-            on: {
-              click: function ($event) {
-                return _vm.openDialog2(3)
-              },
-            },
-          },
-          [_vm._v("近30日客流走势")]
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            staticClass: "bottom_btn",
-            staticStyle: { left: "67%" },
+            staticStyle: { left: "43%" },
             on: {
               click: function ($event) {
                 return _vm.openDialog2(4)
@@ -2905,7 +3358,7 @@ var render = function () {
           "div",
           {
             staticClass: "bottom_btn",
-            staticStyle: { left: "77%" },
+            staticStyle: { left: "52%" },
             on: {
               click: function ($event) {
                 return _vm.openDialog2(5)
@@ -2913,6 +3366,20 @@ var render = function () {
             },
           },
           [_vm._v("宾馆入住")]
+        ),
+        _vm._v(" "),
+        _c(
+          "div",
+          {
+            staticClass: "bottom_btn",
+            staticStyle: { left: "62%" },
+            on: {
+              click: function ($event) {
+                return _vm.openDialog2(3)
+              },
+            },
+          },
+          [_vm._v("近30日客流走势")]
         ),
       ]),
       _vm._v(" "),
@@ -3237,7 +3704,9 @@ var render = function () {
               ]
             ),
             _vm._v(" "),
-            _c("TitleSub", { attrs: { type: 1, name: "岱山流量" } }),
+            _c("TitleSub", {
+              attrs: { type: 1, name: "长峙岛流量", indexNum: "0.00" },
+            }),
             _vm._v(" "),
             _c("div", { staticClass: "cards" }, [
               _c("div", { staticClass: "card_small" }, [
@@ -3858,91 +4327,114 @@ var render = function () {
               ? _c(
                   "div",
                   [
-                    _c("TitleSub", { attrs: { name: "朱家尖游客迁移指数" } }),
+                    _c("TitleSub", { attrs: { type: 1, name: "岱山流量" } }),
                     _vm._v(" "),
-                    _c("div", { staticClass: "table_move" }, [
-                      _c("div", { staticClass: "table_one" }, [
-                        _c("div", { staticClass: "btns" }, [
-                          _c(
-                            "div",
-                            {
-                              class: [
-                                "btn1",
-                                { isAcitve: _vm.tableTab == "0" },
-                              ],
-                              on: {
-                                click: function ($event) {
-                                  return _vm.tabChange("0")
-                                },
-                              },
-                            },
-                            [_vm._v("迁入")]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "div",
-                            {
-                              class: [
-                                "btn2",
-                                { isAcitve: _vm.tableTab == "1" },
-                              ],
-                              on: {
-                                click: function ($event) {
-                                  return _vm.tabChange("1")
-                                },
-                              },
-                            },
-                            [_vm._v("迁出")]
-                          ),
+                    _c("div", { staticClass: "cards" }, [
+                      _c("div", { staticClass: "card_small" }, [
+                        _c("div", { staticClass: "row-one" }, [
+                          _vm._v("今日进 (前1小时):"),
                         ]),
                         _vm._v(" "),
-                        _c("div", { staticClass: "migration" }, [
-                          _vm._v("\n              迁移指数:"),
-                          _c("span", [
-                            _vm._v(
-                              _vm._s(
-                                _vm.tableData.length > 0
-                                  ? _vm.tableData[0].migrate_index
-                                  : "0"
-                              )
+                        _c("div", { staticClass: "row-two" }, [
+                          _vm._v(_vm._s(_vm.formatter(_vm.hourList[12]))),
+                        ]),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "card_small" }, [
+                        _c("div", { staticClass: "row-one" }, [
+                          _vm._v("今日出 (前1小时):"),
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "row-two" }, [
+                          _vm._v(_vm._s(_vm.formatter(_vm.hourList[13]))),
+                        ]),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "card_big" }, [
+                        _c("div", { staticClass: "row-one" }, [
+                          _vm._v("今日进(总数):"),
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "row-two" }, [
+                          _vm._v(_vm._s(_vm.formatter(_vm.dayList[12]))),
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "row-three" }, [
+                          _c("div", { staticClass: "row-three-one" }, [
+                            _c("div", { staticClass: "icon1_img" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("同比上周:")]),
+                            _vm._v(" "),
+                            _c(
+                              "span",
+                              {
+                                class:
+                                  _vm.lastWeek[12] <= 0
+                                    ? "blue-num"
+                                    : "red-num",
+                              },
+                              [_vm._v(" " + _vm._s(_vm.lastWeek[12]) + "%")]
+                            ),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "row-three-two" }, [
+                            _c("div", { staticClass: "icon1_img" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("环比昨日:")]),
+                            _vm._v(" "),
+                            _c(
+                              "span",
+                              {
+                                class:
+                                  _vm.lastDay[12] <= 0 ? "blue-num" : "red-num",
+                              },
+                              [_vm._v(" " + _vm._s(_vm.lastDay[12]) + "%")]
                             ),
                           ]),
                         ]),
                       ]),
                       _vm._v(" "),
-                      _c("div", { staticClass: "table_two" }, [
-                        _vm._m(1),
+                      _c("div", { staticClass: "card_big" }, [
+                        _c("div", { staticClass: "row-one" }, [
+                          _vm._v("今日出(总数):"),
+                        ]),
                         _vm._v(" "),
-                        _c("div", { staticClass: "roll-box" }, [
-                          _c(
-                            "div",
-                            { attrs: { id: "box1" } },
-                            _vm._l(_vm.tableData, function (item, i) {
-                              return _c(
-                                "div",
-                                { key: i, staticClass: "table_td" },
-                                [
-                                  _c("div", { staticClass: "td_one" }, [
-                                    _c("div", { staticClass: "table_icon" }),
-                                    _vm._v(
-                                      "\n                    " +
-                                        _vm._s(item.index) +
-                                        "\n                  "
-                                    ),
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("div", { staticClass: "td_two" }, [
-                                    _vm._v(_vm._s(item.path)),
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("div", { staticClass: "td_three" }, [
-                                    _vm._v(_vm._s(item.ratio)),
-                                  ]),
-                                ]
-                              )
-                            }),
-                            0
-                          ),
+                        _c("div", { staticClass: "row-two" }, [
+                          _vm._v(_vm._s(_vm.formatter(_vm.dayList[13]))),
+                        ]),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "row-three" }, [
+                          _c("div", { staticClass: "row-three-one" }, [
+                            _c("div", { staticClass: "icon1_img" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("同比上周:")]),
+                            _vm._v(" "),
+                            _c(
+                              "span",
+                              {
+                                class:
+                                  _vm.lastWeek[13] <= 0
+                                    ? "blue-num"
+                                    : "red-num",
+                              },
+                              [_vm._v(" " + _vm._s(_vm.lastWeek[13]) + "%")]
+                            ),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "row-three-two" }, [
+                            _c("div", { staticClass: "icon1_img" }),
+                            _vm._v(" "),
+                            _c("span", [_vm._v("环比昨日:")]),
+                            _vm._v(" "),
+                            _c(
+                              "span",
+                              {
+                                class:
+                                  _vm.lastDay[13] <= 0 ? "blue-num" : "red-num",
+                              },
+                              [_vm._v(" " + _vm._s(_vm.lastDay[13]) + "%")]
+                            ),
+                          ]),
                         ]),
                       ]),
                     ]),
@@ -3991,6 +4483,15 @@ var render = function () {
         on: {
           close: function ($event) {
             _vm.dialogShow3 = false
+          },
+        },
+      }),
+      _vm._v(" "),
+      _c("checkInDialog", {
+        attrs: { dialogShow: _vm.dialogShow5 },
+        on: {
+          close: function ($event) {
+            _vm.dialogShow5 = false
           },
         },
       }),
@@ -4058,18 +4559,6 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "label_two" }, [_vm._v("30,000")]),
       ]),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "table_th" }, [
-      _c("div", { staticClass: "th_one" }, [_vm._v("序号")]),
-      _vm._v(" "),
-      _c("div", { staticClass: "th_two" }, [_vm._v("路线")]),
-      _vm._v(" "),
-      _c("div", { staticClass: "th_three" }, [_vm._v("迁入比例")]),
     ])
   },
 ]
@@ -4278,6 +4767,134 @@ var staticRenderFns = [
       _c("div", { staticClass: "th_two" }, [_vm._v("路线")]),
       _vm._v(" "),
       _c("div", { staticClass: "th_three" }, [_vm._v("迁入比例")]),
+    ])
+  },
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/vue-loader\",\"cacheIdentifier\":\"250ee3b1-vue-loader-template\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/checkInDialog.vue?vue&type=template&id=2a688dcb&":
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"250ee3b1-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/checkInDialog.vue?vue&type=template&id=2a688dcb& ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function () {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    {
+      directives: [
+        {
+          name: "show",
+          rawName: "v-show",
+          value: _vm.dialogShow,
+          expression: "dialogShow",
+        },
+      ],
+      staticClass: "checkInDialog",
+    },
+    [
+      _c("div", { staticClass: "dialog_title" }, [_vm._v("宾馆入住")]),
+      _vm._v(" "),
+      _c(
+        "div",
+        { staticClass: "dialog_content" },
+        [
+          _c("TitleSub", {
+            staticStyle: { margin: "20rem" },
+            attrs: { name: "入住情况分析" },
+          }),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "in_card" },
+            _vm._l(_vm.cardList, function (item, i) {
+              return _c(
+                "div",
+                {
+                  key: i,
+                  staticClass: "card_item",
+                  style: {
+                    visibility: item.name ? "visible" : "hidden",
+                  },
+                },
+                [_vm._m(0, true), _vm._v(" "), _vm._m(1, true)]
+              )
+            }),
+            0
+          ),
+          _vm._v(" "),
+          _c("TitleSub", {
+            staticStyle: { margin: "20rem" },
+            attrs: { name: "入住来源分布" },
+          }),
+          _vm._v(" "),
+          _vm._m(2),
+          _vm._v(" "),
+          _c("TitleSub", {
+            staticStyle: { margin: "20rem" },
+            attrs: { name: "入住客流分布" },
+          }),
+          _vm._v(" "),
+          _c("div", { staticClass: "line_chart3" }),
+        ],
+        1
+      ),
+      _vm._v(" "),
+      _c("div", { staticClass: "close_btn", on: { click: _vm.closeHandle } }, [
+        _c("div", { staticClass: "btn_left" }),
+        _vm._v(" "),
+        _c("div", { staticClass: "btn_center" }, [_vm._v("关闭")]),
+        _vm._v(" "),
+        _c("div", { staticClass: "btn_right" }),
+      ]),
+    ]
+  )
+}
+var staticRenderFns = [
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "card_img" }, [
+      _c("div", { staticClass: "card_pin1" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "card_pin2" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "card_pin3" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "card_pin4" }),
+    ])
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "card_label" }, [
+      _c("div", { staticClass: "name" }, [_vm._v("入住总数")]),
+      _vm._v(" "),
+      _c("div", { staticClass: "num" }, [_vm._v("3200")]),
+    ])
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "chart_card" }, [
+      _c("div", { staticClass: "radar_chart3" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "pie_chart3" }),
     ])
   },
 ]
@@ -5554,10 +6171,6 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "dialog_content" }, [
-      _c("h1", [_vm._v("舟山本岛节假日道路交通大流量疏堵保畅工作预案")]),
-      _vm._v(" "),
-      _c("h1", [_vm._v("（202305版）")]),
-      _vm._v(" "),
       _c("p", [
         _vm._v(
           "为积极应对本岛节假日道路交通大流量，确保旅游干线及面上道路交通有序、安全、顺畅，结合旅游新业态、新形势，制定本预案。"
@@ -5882,6 +6495,28 @@ if(false) {}
 
 /***/ }),
 
+/***/ "./node_modules/vue-style-loader/index.js?!./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/less-loader/dist/cjs.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less&":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-style-loader??ref--10-oneOf-1-0!./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js??ref--10-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--10-oneOf-1-2!./node_modules/less-loader/dist/cjs.js??ref--10-oneOf-1-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(/*! !../../node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js??ref--10-oneOf-1-1!../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../node_modules/postcss-loader/src??ref--10-oneOf-1-2!../../node_modules/less-loader/dist/cjs.js??ref--10-oneOf-1-3!../../node_modules/cache-loader/dist/cjs.js??ref--0-0!../../node_modules/vue-loader/lib??vue-loader-options!./checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less& */ "./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/less-loader/dist/cjs.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less&");
+if(content.__esModule) content = content.default;
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var add = __webpack_require__(/*! ../../node_modules/vue-style-loader/lib/addStylesClient.js */ "./node_modules/vue-style-loader/lib/addStylesClient.js").default
+var update = add("0e67084c", content, false, {"sourceMap":true,"shadowMode":false});
+// Hot Module Replacement
+if(false) {}
+
+/***/ }),
+
 /***/ "./node_modules/vue-style-loader/index.js?!./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/less-loader/dist/cjs.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/pin.vue?vue&type=style&index=0&id=35a65ceb&lang=less&":
 /*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-style-loader??ref--10-oneOf-1-0!./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js??ref--10-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--10-oneOf-1-2!./node_modules/less-loader/dist/cjs.js??ref--10-oneOf-1-3!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/pin.vue?vue&type=style&index=0&id=35a65ceb&lang=less& ***!
@@ -6097,6 +6732,28 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_cache_loader_dist_cjs_js_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_250ee3b1_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_TitleSub_vue_vue_type_template_id_a151647e___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
+
+/***/ }),
+
+/***/ "./src/assets/card1.png":
+/*!******************************!*\
+  !*** ./src/assets/card1.png ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/card1.f3832584.png";
+
+/***/ }),
+
+/***/ "./src/assets/card2.png":
+/*!******************************!*\
+  !*** ./src/assets/card2.png ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/card2.cbfcc9b0.png";
 
 /***/ }),
 
@@ -6767,6 +7424,93 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_cache_loader_dist_cjs_js_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_250ee3b1_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CardAnalyse_vue_vue_type_template_id_2ca8a579___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_cache_loader_dist_cjs_js_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_250ee3b1_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CardAnalyse_vue_vue_type_template_id_2ca8a579___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./src/views/checkInDialog.vue":
+/*!*************************************!*\
+  !*** ./src/views/checkInDialog.vue ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _checkInDialog_vue_vue_type_template_id_2a688dcb___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./checkInDialog.vue?vue&type=template&id=2a688dcb& */ "./src/views/checkInDialog.vue?vue&type=template&id=2a688dcb&");
+/* harmony import */ var _checkInDialog_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./checkInDialog.vue?vue&type=script&lang=js& */ "./src/views/checkInDialog.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _checkInDialog_vue_vue_type_style_index_0_id_2a688dcb_lang_less___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less& */ "./src/views/checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
+  _checkInDialog_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _checkInDialog_vue_vue_type_template_id_2a688dcb___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _checkInDialog_vue_vue_type_template_id_2a688dcb___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "src/views/checkInDialog.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./src/views/checkInDialog.vue?vue&type=script&lang=js&":
+/*!**************************************************************!*\
+  !*** ./src/views/checkInDialog.vue?vue&type=script&lang=js& ***!
+  \**************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_cache_loader_dist_cjs_js_ref_12_0_node_modules_babel_loader_lib_index_js_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../node_modules/cache-loader/dist/cjs.js??ref--12-0!../../node_modules/babel-loader/lib!../../node_modules/cache-loader/dist/cjs.js??ref--0-0!../../node_modules/vue-loader/lib??vue-loader-options!./checkInDialog.vue?vue&type=script&lang=js& */ "./node_modules/cache-loader/dist/cjs.js?!./node_modules/babel-loader/lib/index.js!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/checkInDialog.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_cache_loader_dist_cjs_js_ref_12_0_node_modules_babel_loader_lib_index_js_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./src/views/checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less&":
+/*!***********************************************************************************!*\
+  !*** ./src/views/checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less& ***!
+  \***********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_10_oneOf_1_0_node_modules_vue_cli_service_node_modules_css_loader_dist_cjs_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_style_index_0_id_2a688dcb_lang_less___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../node_modules/vue-style-loader??ref--10-oneOf-1-0!../../node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js??ref--10-oneOf-1-1!../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../node_modules/postcss-loader/src??ref--10-oneOf-1-2!../../node_modules/less-loader/dist/cjs.js??ref--10-oneOf-1-3!../../node_modules/cache-loader/dist/cjs.js??ref--0-0!../../node_modules/vue-loader/lib??vue-loader-options!./checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less& */ "./node_modules/vue-style-loader/index.js?!./node_modules/@vue/cli-service/node_modules/css-loader/dist/cjs.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/less-loader/dist/cjs.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/checkInDialog.vue?vue&type=style&index=0&id=2a688dcb&lang=less&");
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_10_oneOf_1_0_node_modules_vue_cli_service_node_modules_css_loader_dist_cjs_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_style_index_0_id_2a688dcb_lang_less___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_10_oneOf_1_0_node_modules_vue_cli_service_node_modules_css_loader_dist_cjs_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_style_index_0_id_2a688dcb_lang_less___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_ref_10_oneOf_1_0_node_modules_vue_cli_service_node_modules_css_loader_dist_cjs_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_style_index_0_id_2a688dcb_lang_less___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_ref_10_oneOf_1_0_node_modules_vue_cli_service_node_modules_css_loader_dist_cjs_js_ref_10_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_10_oneOf_1_2_node_modules_less_loader_dist_cjs_js_ref_10_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_style_index_0_id_2a688dcb_lang_less___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+
+
+/***/ }),
+
+/***/ "./src/views/checkInDialog.vue?vue&type=template&id=2a688dcb&":
+/*!********************************************************************!*\
+  !*** ./src/views/checkInDialog.vue?vue&type=template&id=2a688dcb& ***!
+  \********************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_cache_loader_dist_cjs_js_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_250ee3b1_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_template_id_2a688dcb___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"250ee3b1-vue-loader-template"}!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/cache-loader/dist/cjs.js??ref--0-0!../../node_modules/vue-loader/lib??vue-loader-options!./checkInDialog.vue?vue&type=template&id=2a688dcb& */ "./node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/vue-loader\",\"cacheIdentifier\":\"250ee3b1-vue-loader-template\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/views/checkInDialog.vue?vue&type=template&id=2a688dcb&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_cache_loader_dist_cjs_js_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_250ee3b1_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_template_id_2a688dcb___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_cache_loader_dist_cjs_js_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_250ee3b1_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_checkInDialog_vue_vue_type_template_id_2a688dcb___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
