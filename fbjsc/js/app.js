@@ -185,18 +185,15 @@ var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/@vue/c
 var ___CSS_LOADER_GET_URL_IMPORT___ = __webpack_require__(/*! ../node_modules/@vue/cli-service/node_modules/css-loader/dist/runtime/getUrl.js */ "./node_modules/@vue/cli-service/node_modules/css-loader/dist/runtime/getUrl.js");
 var ___CSS_LOADER_URL_IMPORT_0___ = __webpack_require__(/*! @/assets/fbjsc/Header.png */ "./src/assets/fbjsc/Header.png");
 var ___CSS_LOADER_URL_IMPORT_1___ = __webpack_require__(/*! @/assets/fbjsc/Footers.png */ "./src/assets/fbjsc/Footers.png");
-var ___CSS_LOADER_URL_IMPORT_2___ = __webpack_require__(/*! @/assets/fbjsc/Lift.png */ "./src/assets/fbjsc/Lift.png");
-var ___CSS_LOADER_URL_IMPORT_3___ = __webpack_require__(/*! @/assets/fbjsc/Right.png */ "./src/assets/fbjsc/Right.png");
-var ___CSS_LOADER_URL_IMPORT_4___ = __webpack_require__(/*! @/assets/fbjsc/bg.png */ "./src/assets/fbjsc/bg.png");
-var ___CSS_LOADER_URL_IMPORT_5___ = __webpack_require__(/*! @/assets/fbjsc/btn.png */ "./src/assets/fbjsc/btn.png");
-var ___CSS_LOADER_URL_IMPORT_6___ = __webpack_require__(/*! @/assets/fbjsc/map.png */ "./src/assets/fbjsc/map.png");
-var ___CSS_LOADER_URL_IMPORT_7___ = __webpack_require__(/*! @/assets/fbjsc/point_warning.png */ "./src/assets/fbjsc/point_warning.png");
-var ___CSS_LOADER_URL_IMPORT_8___ = __webpack_require__(/*! @/assets/fbjsc/point1.png */ "./src/assets/fbjsc/point1.png");
-var ___CSS_LOADER_URL_IMPORT_9___ = __webpack_require__(/*! @/assets/fbjsc/point2.png */ "./src/assets/fbjsc/point2.png");
-var ___CSS_LOADER_URL_IMPORT_10___ = __webpack_require__(/*! @/assets/fbjsc/point3.png */ "./src/assets/fbjsc/point3.png");
-var ___CSS_LOADER_URL_IMPORT_11___ = __webpack_require__(/*! @/assets/fbjsc/point4.png */ "./src/assets/fbjsc/point4.png");
-var ___CSS_LOADER_URL_IMPORT_12___ = __webpack_require__(/*! @/assets/fbjsc/point5.png */ "./src/assets/fbjsc/point5.png");
-var ___CSS_LOADER_URL_IMPORT_13___ = __webpack_require__(/*! @/assets/fbjsc/tankuang_head.png */ "./src/assets/fbjsc/tankuang_head.png");
+var ___CSS_LOADER_URL_IMPORT_2___ = __webpack_require__(/*! @/assets/fbjsc/bg.png */ "./src/assets/fbjsc/bg.png");
+var ___CSS_LOADER_URL_IMPORT_3___ = __webpack_require__(/*! @/assets/fbjsc/btn.png */ "./src/assets/fbjsc/btn.png");
+var ___CSS_LOADER_URL_IMPORT_4___ = __webpack_require__(/*! @/assets/fbjsc/point_warning.png */ "./src/assets/fbjsc/point_warning.png");
+var ___CSS_LOADER_URL_IMPORT_5___ = __webpack_require__(/*! @/assets/fbjsc/point1.png */ "./src/assets/fbjsc/point1.png");
+var ___CSS_LOADER_URL_IMPORT_6___ = __webpack_require__(/*! @/assets/fbjsc/point2.png */ "./src/assets/fbjsc/point2.png");
+var ___CSS_LOADER_URL_IMPORT_7___ = __webpack_require__(/*! @/assets/fbjsc/point3.png */ "./src/assets/fbjsc/point3.png");
+var ___CSS_LOADER_URL_IMPORT_8___ = __webpack_require__(/*! @/assets/fbjsc/point4.png */ "./src/assets/fbjsc/point4.png");
+var ___CSS_LOADER_URL_IMPORT_9___ = __webpack_require__(/*! @/assets/fbjsc/point5.png */ "./src/assets/fbjsc/point5.png");
+var ___CSS_LOADER_URL_IMPORT_10___ = __webpack_require__(/*! @/assets/fbjsc/tankuang_head.png */ "./src/assets/fbjsc/tankuang_head.png");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_0___);
 var ___CSS_LOADER_URL_REPLACEMENT_1___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_1___);
@@ -209,11 +206,8 @@ var ___CSS_LOADER_URL_REPLACEMENT_7___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_
 var ___CSS_LOADER_URL_REPLACEMENT_8___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_8___);
 var ___CSS_LOADER_URL_REPLACEMENT_9___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_9___);
 var ___CSS_LOADER_URL_REPLACEMENT_10___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_10___);
-var ___CSS_LOADER_URL_REPLACEMENT_11___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_11___);
-var ___CSS_LOADER_URL_REPLACEMENT_12___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_12___);
-var ___CSS_LOADER_URL_REPLACEMENT_13___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_13___);
 // Module
-exports.push([module.i, "#app {\n  font-weight: 400;\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  position: relative;\n  font-size: 16rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") center 30rem / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ") bottom / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") left / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ") right / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_4___ + ") 51% 55%/660rem 600rem no-repeat #000;\n}\n#app .head_bar {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 95rem;\n  padding: 0 32rem;\n}\n#app .head_bar .now_date {\n  font-size: 26rem;\n  padding-bottom: 15rem;\n}\n#app .head_bar .head_label {\n  font-family: DingTalk JinBuTi;\n  font-size: 44rem;\n  color: #bde6ff;\n  padding-right: 206rem;\n}\n#app .head_bar .search_btn {\n  width: 168rem;\n  height: 50rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_5___ + ") center / cover no-repeat;\n  font-size: 26rem;\n  margin-bottom: 15rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  cursor: pointer;\n}\n#app .center_map {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: 626rem;\n  height: 538rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_6___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point1 {\n  position: absolute;\n  left: 30%;\n  top: 30%;\n  width: 31rem;\n  height: 37rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_7___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point1:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point2 {\n  position: absolute;\n  left: 40%;\n  top: 40%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_8___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point2:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point3 {\n  position: absolute;\n  left: 50%;\n  top: 50%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_9___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point3:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point4 {\n  position: absolute;\n  left: 55%;\n  top: 55%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_10___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point4:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point5 {\n  position: absolute;\n  left: 60%;\n  top: 60%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_11___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point5:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point6 {\n  position: absolute;\n  left: 66%;\n  top: 66%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_12___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point6:hover .dialog_point {\n  display: block;\n}\n#app .center_map .dialog_point {\n  display: none;\n  position: relative;\n  top: 10rem;\n  left: 10rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_13___ + ") top center / contain no-repeat, rgba(8, 12, 23, 0.78);\n  width: 339rem;\n  border-bottom: 2rem solid #00a2ff;\n  z-index: 10;\n}\n#app .center_map .dialog_point .dialog_title {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding-left: 25rem;\n  padding-right: 10rem;\n  height: 49rem;\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .center_map .dialog_point .dialog_title .status {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n#app .center_map .dialog_point .dialog_title .status .point {\n  margin-right: 10rem;\n  display: inline-block;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n#app .center_map .dialog_point .dialog_content {\n  padding: 10rem;\n  gap: 5rem;\n  display: flex;\n  flex-direction: column;\n}\n#app .center_map .dialog_point .dialog_content .content_item {\n  display: flex;\n  align-items: center;\n  background: rgba(0, 170, 255, 0.15);\n  height: 32rem;\n  font-size: 16rem;\n  font-weight: 400;\n  padding-left: 10rem;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/App3.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/App3.vue"],"names":[],"mappings":"AAoJA;EACE,gBAAA;EACA,YAAA;EACA,gBAAA;EACA,aAAA;EACA,WAAA;EACA,kBAAA;EACA,gBAAA;EAGA,2WAAA;ACrJF;AD2IA;EAcI,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,aAAA;EACA,gBAAA;ACtJJ;ADoIA;EAoBM,gBAAA;EACA,qBAAA;ACrJN;ADgIA;EAwBM,6BAAA;EACA,gBAAA;EACA,cAAA;EACA,qBAAA;ACrJN;AD0HA;EA8BM,aAAA;EACA,aAAA;EACA,4EAAA;EACA,gBAAA;EACA,oBAAA;EACA,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,eAAA;ACrJN;AD+GA;EA0CI,kBAAA;EACA,QAAA;EACA,SAAA;EACA,gCAAA;EACA,aAAA;EACA,cAAA;EACA,4EAAA;ACtJJ;ADsGA;EAkDM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,4EAAA;ACrJN;ADuJM;EAEI,cAAA;ACtJV;AD0FA;EAiEM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,4EAAA;ACxJN;ADyJM;EAEI,cAAA;ACxJV;AD8EA;EA+EM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,4EAAA;AC1JN;AD2JM;EAEI,cAAA;AC1JV;ADkEA;EA6FM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,6EAAA;AC5JN;AD6JM;EAEI,cAAA;AC5JV;ADsDA;EA2GM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,6EAAA;AC9JN;AD+JM;EAEI,cAAA;AC9JV;AD0CA;EAyHM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,6EAAA;AChKN;ADiKM;EAEI,cAAA;AChKV;AD8BA;EAuIM,aAAA;EACA,kBAAA;EACA,UAAA;EACA,WAAA;EACA,0GAAA;EACA,aAAA;EAEA,iCAAA;EACA,WAAA;ACnKN;ADoBA;EAiJQ,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,mBAAA;EACA,oBAAA;EACA,aAAA;EACA,gBAAA;EACA,gBAAA;AClKR;ADUA;EA0JU,aAAA;EACA,mBAAA;EACA,uBAAA;ACjKV;ADKA;EA8JY,mBAAA;EACA,qBAAA;EAEA,WAAA;EACA,YAAA;EACA,mBAAA;ACjKZ;ADFA;EAwKQ,cAAA;EACA,SAAA;EACA,aAAA;EACA,sBAAA;ACnKR;ADRA;EA6KU,aAAA;EACA,mBAAA;EACA,mCAAA;EACA,aAAA;EACA,gBAAA;EACA,gBAAA;EACA,mBAAA;AClKV","file":"App3.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#app {\n  font-weight: 400;\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  position: relative;\n  font-size: 16rem;\n  // background: url(~@/assets/fbjsc/Header.png) top/contain no-repeat, url(~@/assets/fbjsc/Footers.png) bottom/contain no-repeat,\n  //   url(~@/assets/fbjsc/bg.png) 40% 9% / 1600rem 856rem no-repeat, #000;\n  background: url(~@/assets/fbjsc/Header.png) center 30rem / contain no-repeat, url(~@/assets/fbjsc/Footers.png) bottom/contain no-repeat,\n    url(~@/assets/fbjsc/Lift.png) left/contain no-repeat, url(~@/assets/fbjsc/Right.png) right/contain no-repeat, url(~@/assets/fbjsc/bg.png) 51% 55%/ 660rem 600rem no-repeat #000;\n\n  .head_bar {\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    height: 95rem;\n    padding: 0 32rem;\n    .now_date {\n      font-size: 26rem;\n      padding-bottom: 15rem;\n    }\n    .head_label {\n      font-family: DingTalk JinBuTi;\n      font-size: 44rem;\n      color: #bde6ff;\n      padding-right: 206rem;\n    }\n    .search_btn {\n      width: 168rem;\n      height: 50rem;\n      background: url(~@/assets/fbjsc/btn.png) center/cover no-repeat;\n      font-size: 26rem;\n      margin-bottom: 15rem;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      cursor: pointer;\n    }\n  }\n  .center_map {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n    width: 626rem;\n    height: 538rem;\n    background: url(~@/assets/fbjsc/map.png) center/cover no-repeat;\n    .map_point1 {\n      position: absolute;\n      left: 30%;\n      top: 30%;\n      width: 31rem;\n      height: 37rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point_warning.png) center/cover no-repeat;\n\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point2 {\n      position: absolute;\n      left: 40%;\n      top: 40%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point1.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point3 {\n      position: absolute;\n      left: 50%;\n      top: 50%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point2.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point4 {\n      position: absolute;\n      left: 55%;\n      top: 55%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point3.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point5 {\n      position: absolute;\n      left: 60%;\n      top: 60%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point4.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point6 {\n      position: absolute;\n      left: 66%;\n      top: 66%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point5.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .dialog_point {\n      display: none;\n      position: relative;\n      top: 10rem;\n      left: 10rem;\n      background: url(~@/assets/fbjsc/tankuang_head.png) top center/contain no-repeat, rgba(8, 12, 23, 0.78);\n      width: 339rem;\n      // height: 500rem;\n      border-bottom: 2rem solid #00a2ff;\n      z-index: 10;\n      .dialog_title {\n        display: flex;\n        align-items: center;\n        justify-content: space-between;\n        padding-left: 25rem;\n        padding-right: 10rem;\n        height: 49rem;\n        font-size: 18rem;\n        font-weight: 600;\n        .status {\n          display: flex;\n          align-items: center;\n          justify-content: center;\n          .point {\n            margin-right: 10rem;\n            display: inline-block;\n            // background: #14D23E;\n            width: 7rem;\n            height: 7rem;\n            border-radius: 7rem;\n          }\n        }\n      }\n      .dialog_content {\n        padding: 10rem;\n        gap: 5rem;\n        display: flex;\n        flex-direction: column;\n        .content_item {\n          display: flex;\n          align-items: center;\n          background: rgba(0, 170, 255, 0.15);\n          height: 32rem;\n          font-size: 16rem;\n          font-weight: 400;\n          padding-left: 10rem;\n        }\n      }\n    }\n  }\n}\n","#app {\n  font-weight: 400;\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  position: relative;\n  font-size: 16rem;\n  background: url(~@/assets/fbjsc/Header.png) center 30rem / contain no-repeat, url(~@/assets/fbjsc/Footers.png) bottom / contain no-repeat, url(~@/assets/fbjsc/Lift.png) left / contain no-repeat, url(~@/assets/fbjsc/Right.png) right / contain no-repeat, url(~@/assets/fbjsc/bg.png) 51% 55%/660rem 600rem no-repeat #000;\n}\n#app .head_bar {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 95rem;\n  padding: 0 32rem;\n}\n#app .head_bar .now_date {\n  font-size: 26rem;\n  padding-bottom: 15rem;\n}\n#app .head_bar .head_label {\n  font-family: DingTalk JinBuTi;\n  font-size: 44rem;\n  color: #bde6ff;\n  padding-right: 206rem;\n}\n#app .head_bar .search_btn {\n  width: 168rem;\n  height: 50rem;\n  background: url(~@/assets/fbjsc/btn.png) center / cover no-repeat;\n  font-size: 26rem;\n  margin-bottom: 15rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  cursor: pointer;\n}\n#app .center_map {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: 626rem;\n  height: 538rem;\n  background: url(~@/assets/fbjsc/map.png) center / cover no-repeat;\n}\n#app .center_map .map_point1 {\n  position: absolute;\n  left: 30%;\n  top: 30%;\n  width: 31rem;\n  height: 37rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point_warning.png) center / cover no-repeat;\n}\n#app .center_map .map_point1:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point2 {\n  position: absolute;\n  left: 40%;\n  top: 40%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point1.png) center / cover no-repeat;\n}\n#app .center_map .map_point2:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point3 {\n  position: absolute;\n  left: 50%;\n  top: 50%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point2.png) center / cover no-repeat;\n}\n#app .center_map .map_point3:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point4 {\n  position: absolute;\n  left: 55%;\n  top: 55%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point3.png) center / cover no-repeat;\n}\n#app .center_map .map_point4:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point5 {\n  position: absolute;\n  left: 60%;\n  top: 60%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point4.png) center / cover no-repeat;\n}\n#app .center_map .map_point5:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point6 {\n  position: absolute;\n  left: 66%;\n  top: 66%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point5.png) center / cover no-repeat;\n}\n#app .center_map .map_point6:hover .dialog_point {\n  display: block;\n}\n#app .center_map .dialog_point {\n  display: none;\n  position: relative;\n  top: 10rem;\n  left: 10rem;\n  background: url(~@/assets/fbjsc/tankuang_head.png) top center / contain no-repeat, rgba(8, 12, 23, 0.78);\n  width: 339rem;\n  border-bottom: 2rem solid #00a2ff;\n  z-index: 10;\n}\n#app .center_map .dialog_point .dialog_title {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding-left: 25rem;\n  padding-right: 10rem;\n  height: 49rem;\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .center_map .dialog_point .dialog_title .status {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n#app .center_map .dialog_point .dialog_title .status .point {\n  margin-right: 10rem;\n  display: inline-block;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n#app .center_map .dialog_point .dialog_content {\n  padding: 10rem;\n  gap: 5rem;\n  display: flex;\n  flex-direction: column;\n}\n#app .center_map .dialog_point .dialog_content .content_item {\n  display: flex;\n  align-items: center;\n  background: rgba(0, 170, 255, 0.15);\n  height: 32rem;\n  font-size: 16rem;\n  font-weight: 400;\n  padding-left: 10rem;\n}\n"]}]);
+exports.push([module.i, "#app {\n  font-weight: 400;\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  position: relative;\n  font-size: 16rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") center 30rem / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ") bottom / contain no-repeat, url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / cover no-repeat, #000;\n}\n#app .head_bar {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 95rem;\n  padding: 0 32rem;\n}\n#app .head_bar .now_date {\n  font-size: 26rem;\n  padding-bottom: 15rem;\n}\n#app .head_bar .head_label {\n  font-family: DingTalk JinBuTi;\n  font-size: 44rem;\n  color: #bde6ff;\n  padding-right: 206rem;\n  padding-top: 20rem;\n}\n#app .head_bar .search_btn {\n  width: 168rem;\n  height: 50rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ") center / cover no-repeat;\n  font-size: 26rem;\n  margin-bottom: 15rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  cursor: pointer;\n}\n#app .center_map {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: 626rem;\n  height: 538rem;\n}\n#app .center_map .map_point1 {\n  position: absolute;\n  left: 30%;\n  top: 30%;\n  width: 31rem;\n  height: 37rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_4___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point1:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point2 {\n  position: absolute;\n  left: 40%;\n  top: 40%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_5___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point2:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point3 {\n  position: absolute;\n  left: 50%;\n  top: 50%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_6___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point3:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point4 {\n  position: absolute;\n  left: 55%;\n  top: 55%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_7___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point4:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point5 {\n  position: absolute;\n  left: 60%;\n  top: 60%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_8___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point5:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point6 {\n  position: absolute;\n  left: 66%;\n  top: 66%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_9___ + ") center / cover no-repeat;\n}\n#app .center_map .map_point6:hover .dialog_point {\n  display: block;\n}\n#app .center_map .dialog_point {\n  display: none;\n  position: relative;\n  top: 10rem;\n  left: 10rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_10___ + ") top center / contain no-repeat, rgba(8, 12, 23, 0.78);\n  width: 339rem;\n  border-bottom: 2rem solid #00a2ff;\n  z-index: 10;\n}\n#app .center_map .dialog_point .dialog_title {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding-left: 25rem;\n  padding-right: 10rem;\n  height: 49rem;\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .center_map .dialog_point .dialog_title .status {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n#app .center_map .dialog_point .dialog_title .status .point {\n  margin-right: 10rem;\n  display: inline-block;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n#app .center_map .dialog_point .dialog_content {\n  padding: 10rem;\n  gap: 5rem;\n  display: flex;\n  flex-direction: column;\n}\n#app .center_map .dialog_point .dialog_content .content_item {\n  display: flex;\n  align-items: center;\n  background: rgba(0, 170, 255, 0.15);\n  height: 32rem;\n  font-size: 16rem;\n  font-weight: 400;\n  padding-left: 10rem;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/App3.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/App3.vue"],"names":[],"mappings":"AAiKA;EACE,gBAAA;EACA,YAAA;EACA,gBAAA;EACA,aAAA;EACA,WAAA;EACA,kBAAA;EACA,gBAAA;EACA,gOAAA;AChKF;ADwJA;EAYI,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,aAAA;EACA,gBAAA;ACjKJ;ADiJA;EAkBM,gBAAA;EACA,qBAAA;AChKN;AD6IA;EAsBM,6BAAA;EACA,gBAAA;EACA,cAAA;EACA,qBAAA;EACA,kBAAA;AChKN;ADsIA;EA6BM,aAAA;EACA,aAAA;EACA,4EAAA;EACA,gBAAA;EACA,oBAAA;EACA,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,eAAA;AChKN;AD2HA;EAyCI,kBAAA;EACA,QAAA;EACA,SAAA;EACA,gCAAA;EACA,aAAA;EACA,cAAA;ACjKJ;ADmHA;EAiDM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,4EAAA;ACjKN;ADmKM;EAEI,cAAA;AClKV;ADuGA;EAgEM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,4EAAA;ACpKN;ADqKM;EAEI,cAAA;ACpKV;AD2FA;EA8EM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,4EAAA;ACtKN;ADuKM;EAEI,cAAA;ACtKV;AD+EA;EA4FM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,4EAAA;ACxKN;ADyKM;EAEI,cAAA;ACxKV;ADmEA;EA0GM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,4EAAA;AC1KN;AD2KM;EAEI,cAAA;AC1KV;ADuDA;EAwHM,kBAAA;EACA,SAAA;EACA,QAAA;EACA,YAAA;EACA,aAAA;EACA,eAAA;EACA,4EAAA;AC5KN;AD6KM;EAEI,cAAA;AC5KV;AD2CA;EAsIM,aAAA;EACA,kBAAA;EACA,UAAA;EACA,WAAA;EACA,0GAAA;EACA,aAAA;EAEA,iCAAA;EACA,WAAA;AC/KN;ADiCA;EAgJQ,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,mBAAA;EACA,oBAAA;EACA,aAAA;EACA,gBAAA;EACA,gBAAA;AC9KR;ADuBA;EAyJU,aAAA;EACA,mBAAA;EACA,uBAAA;AC7KV;ADkBA;EA6JY,mBAAA;EACA,qBAAA;EAEA,WAAA;EACA,YAAA;EACA,mBAAA;AC7KZ;ADWA;EAuKQ,cAAA;EACA,SAAA;EACA,aAAA;EACA,sBAAA;AC/KR;ADKA;EA4KU,aAAA;EACA,mBAAA;EACA,mCAAA;EACA,aAAA;EACA,gBAAA;EACA,gBAAA;EACA,mBAAA;AC9KV","file":"App3.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#app {\n  font-weight: 400;\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  position: relative;\n  font-size: 16rem;\n  background: url(~@/assets/fbjsc/Header.png) center 30rem / contain no-repeat, url(~@/assets/fbjsc/Footers.png) bottom/contain no-repeat,\n    url(~@/assets/fbjsc/bg.png) center/cover no-repeat, #000;\n\n  .head_bar {\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    height: 95rem;\n    padding: 0 32rem;\n    .now_date {\n      font-size: 26rem;\n      padding-bottom: 15rem;\n    }\n    .head_label {\n      font-family: DingTalk JinBuTi;\n      font-size: 44rem;\n      color: #bde6ff;\n      padding-right: 206rem;\n      padding-top: 20rem;\n    }\n    .search_btn {\n      width: 168rem;\n      height: 50rem;\n      background: url(~@/assets/fbjsc/btn.png) center/cover no-repeat;\n      font-size: 26rem;\n      margin-bottom: 15rem;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      cursor: pointer;\n    }\n  }\n  .center_map {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n    width: 626rem;\n    height: 538rem;\n    // background: url(~@/assets/fbjsc/map.png) center/cover no-repeat;\n    .map_point1 {\n      position: absolute;\n      left: 30%;\n      top: 30%;\n      width: 31rem;\n      height: 37rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point_warning.png) center/cover no-repeat;\n\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point2 {\n      position: absolute;\n      left: 40%;\n      top: 40%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point1.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point3 {\n      position: absolute;\n      left: 50%;\n      top: 50%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point2.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point4 {\n      position: absolute;\n      left: 55%;\n      top: 55%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point3.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point5 {\n      position: absolute;\n      left: 60%;\n      top: 60%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point4.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .map_point6 {\n      position: absolute;\n      left: 66%;\n      top: 66%;\n      width: 50rem;\n      height: 38rem;\n      cursor: pointer;\n      background: url(~@/assets/fbjsc/point5.png) center/cover no-repeat;\n      &:hover {\n        .dialog_point {\n          display: block;\n        }\n      }\n    }\n    .dialog_point {\n      display: none;\n      position: relative;\n      top: 10rem;\n      left: 10rem;\n      background: url(~@/assets/fbjsc/tankuang_head.png) top center/contain no-repeat, rgba(8, 12, 23, 0.78);\n      width: 339rem;\n      // height: 500rem;\n      border-bottom: 2rem solid #00a2ff;\n      z-index: 10;\n      .dialog_title {\n        display: flex;\n        align-items: center;\n        justify-content: space-between;\n        padding-left: 25rem;\n        padding-right: 10rem;\n        height: 49rem;\n        font-size: 18rem;\n        font-weight: 600;\n        .status {\n          display: flex;\n          align-items: center;\n          justify-content: center;\n          .point {\n            margin-right: 10rem;\n            display: inline-block;\n            // background: #14D23E;\n            width: 7rem;\n            height: 7rem;\n            border-radius: 7rem;\n          }\n        }\n      }\n      .dialog_content {\n        padding: 10rem;\n        gap: 5rem;\n        display: flex;\n        flex-direction: column;\n        .content_item {\n          display: flex;\n          align-items: center;\n          background: rgba(0, 170, 255, 0.15);\n          height: 32rem;\n          font-size: 16rem;\n          font-weight: 400;\n          padding-left: 10rem;\n        }\n      }\n    }\n  }\n}\n","#app {\n  font-weight: 400;\n  width: 100vw;\n  overflow: hidden;\n  height: 100vh;\n  color: #fff;\n  position: relative;\n  font-size: 16rem;\n  background: url(~@/assets/fbjsc/Header.png) center 30rem / contain no-repeat, url(~@/assets/fbjsc/Footers.png) bottom / contain no-repeat, url(~@/assets/fbjsc/bg.png) center / cover no-repeat, #000;\n}\n#app .head_bar {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  height: 95rem;\n  padding: 0 32rem;\n}\n#app .head_bar .now_date {\n  font-size: 26rem;\n  padding-bottom: 15rem;\n}\n#app .head_bar .head_label {\n  font-family: DingTalk JinBuTi;\n  font-size: 44rem;\n  color: #bde6ff;\n  padding-right: 206rem;\n  padding-top: 20rem;\n}\n#app .head_bar .search_btn {\n  width: 168rem;\n  height: 50rem;\n  background: url(~@/assets/fbjsc/btn.png) center / cover no-repeat;\n  font-size: 26rem;\n  margin-bottom: 15rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  cursor: pointer;\n}\n#app .center_map {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: 626rem;\n  height: 538rem;\n}\n#app .center_map .map_point1 {\n  position: absolute;\n  left: 30%;\n  top: 30%;\n  width: 31rem;\n  height: 37rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point_warning.png) center / cover no-repeat;\n}\n#app .center_map .map_point1:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point2 {\n  position: absolute;\n  left: 40%;\n  top: 40%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point1.png) center / cover no-repeat;\n}\n#app .center_map .map_point2:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point3 {\n  position: absolute;\n  left: 50%;\n  top: 50%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point2.png) center / cover no-repeat;\n}\n#app .center_map .map_point3:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point4 {\n  position: absolute;\n  left: 55%;\n  top: 55%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point3.png) center / cover no-repeat;\n}\n#app .center_map .map_point4:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point5 {\n  position: absolute;\n  left: 60%;\n  top: 60%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point4.png) center / cover no-repeat;\n}\n#app .center_map .map_point5:hover .dialog_point {\n  display: block;\n}\n#app .center_map .map_point6 {\n  position: absolute;\n  left: 66%;\n  top: 66%;\n  width: 50rem;\n  height: 38rem;\n  cursor: pointer;\n  background: url(~@/assets/fbjsc/point5.png) center / cover no-repeat;\n}\n#app .center_map .map_point6:hover .dialog_point {\n  display: block;\n}\n#app .center_map .dialog_point {\n  display: none;\n  position: relative;\n  top: 10rem;\n  left: 10rem;\n  background: url(~@/assets/fbjsc/tankuang_head.png) top center / contain no-repeat, rgba(8, 12, 23, 0.78);\n  width: 339rem;\n  border-bottom: 2rem solid #00a2ff;\n  z-index: 10;\n}\n#app .center_map .dialog_point .dialog_title {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding-left: 25rem;\n  padding-right: 10rem;\n  height: 49rem;\n  font-size: 18rem;\n  font-weight: 600;\n}\n#app .center_map .dialog_point .dialog_title .status {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n#app .center_map .dialog_point .dialog_title .status .point {\n  margin-right: 10rem;\n  display: inline-block;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n#app .center_map .dialog_point .dialog_content {\n  padding: 10rem;\n  gap: 5rem;\n  display: flex;\n  flex-direction: column;\n}\n#app .center_map .dialog_point .dialog_content .content_item {\n  display: flex;\n  align-items: center;\n  background: rgba(0, 170, 255, 0.15);\n  height: 32rem;\n  font-size: 16rem;\n  font-weight: 400;\n  padding-left: 10rem;\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -234,7 +228,7 @@ var ___CSS_LOADER_URL_IMPORT_0___ = __webpack_require__(/*! @/assets/fbjsc/icon.
 exports = ___CSS_LOADER_API_IMPORT___(true);
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_0___);
 // Module
-exports.push([module.i, ".BottomKanban {\n  position: absolute;\n  bottom: 50rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 800rem;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n}\n.BottomKanban .card_kanban {\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") left center / contain no-repeat;\n  width: 150rem;\n  display: grid;\n  grid-template-rows: 18rem 1fr;\n  grid-template-columns: 52rem 1fr;\n  grid-column-gap: 4rem;\n}\n.BottomKanban .card_kanban .card_img {\n  grid-row: 1/3;\n}\n.BottomKanban .card_kanban .card_name {\n  font-size: 13rem;\n  font-weight: 400;\n  color: rgba(255, 255, 255, 0.74);\n  margin-top: 2rem;\n}\n.BottomKanban .card_kanban .card_num {\n  font-size: 23rem;\n  font-weight: 900;\n  color: #fff;\n}\n.BottomKanban .percent_num {\n  margin-top: 6rem;\n  font-size: 16rem;\n  font-weight: 500;\n  font-family: PingFang SC;\n}\n.BottomKanban .red-num {\n  color: #FC2626;\n  font-weight: 600;\n}\n.BottomKanban .blue-num {\n  color: #14D23E;\n  font-weight: 600;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/BottomKanban.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/BottomKanban.vue"],"names":[],"mappings":"AA4EA;EACE,kBAAA;EACA,aAAA;EACA,SAAA;EACA,2BAAA;EACA,aAAA;EAEA,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,UAAA;AC5EF;ADkEA;EAcI,mFAAA;EAEA,aAAA;EACA,aAAA;EACA,6BAAA;EACA,gCAAA;EAEA,qBAAA;AC/EJ;AD0DA;EAuBM,aAAA;AC9EN;ADuDA;EA0BM,gBAAA;EACA,gBAAA;EACA,gCAAA;EACA,gBAAA;AC9EN;ADiDA;EAgCM,gBAAA;EACA,gBAAA;EACA,WAAA;AC9EN;AD4CA;EAsCI,gBAAA;EACA,gBAAA;EACA,gBAAA;EACA,wBAAA;AC/EJ;ADsCA;EA4CI,cAAA;EACA,gBAAA;AC/EJ;ADkCA;EAgDI,cAAA;EACA,gBAAA;AC/EJ","file":"BottomKanban.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.BottomKanban {\n  position: absolute;\n  bottom: 50rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 800rem;\n  // height: 130rem;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n  // border: 1px solid #fff;\n\n  .card_kanban {\n    background: url(~@/assets/fbjsc/icon.png) left center/contain no-repeat;\n    // border: 1px solid red;\n    width: 150rem;\n    display: grid;\n    grid-template-rows: 18rem 1fr;\n    grid-template-columns: 52rem 1fr;\n    // grid-row-gap: 0;\n    grid-column-gap: 4rem;\n    .card_img {\n      grid-row: 1/3;\n    }\n    .card_name {\n      font-size: 13rem;\n      font-weight: 400;\n      color: rgba(255, 255, 255, 0.74);\n      margin-top: 2rem;\n    }\n    .card_num {\n      font-size: 23rem;\n      font-weight: 900;\n      color: #fff;\n    }\n  }\n  .percent_num {\n    margin-top: 6rem;\n    font-size: 16rem;\n    font-weight: 500;\n    font-family: PingFang SC;\n  }\n  .red-num {\n    color: #FC2626;\n    font-weight: 600;\n  }\n  .blue-num {\n    color: #14D23E;\n    font-weight: 600;\n  }\n}\n",".BottomKanban {\n  position: absolute;\n  bottom: 50rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 800rem;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n}\n.BottomKanban .card_kanban {\n  background: url(~@/assets/fbjsc/icon.png) left center / contain no-repeat;\n  width: 150rem;\n  display: grid;\n  grid-template-rows: 18rem 1fr;\n  grid-template-columns: 52rem 1fr;\n  grid-column-gap: 4rem;\n}\n.BottomKanban .card_kanban .card_img {\n  grid-row: 1/3;\n}\n.BottomKanban .card_kanban .card_name {\n  font-size: 13rem;\n  font-weight: 400;\n  color: rgba(255, 255, 255, 0.74);\n  margin-top: 2rem;\n}\n.BottomKanban .card_kanban .card_num {\n  font-size: 23rem;\n  font-weight: 900;\n  color: #fff;\n}\n.BottomKanban .percent_num {\n  margin-top: 6rem;\n  font-size: 16rem;\n  font-weight: 500;\n  font-family: PingFang SC;\n}\n.BottomKanban .red-num {\n  color: #FC2626;\n  font-weight: 600;\n}\n.BottomKanban .blue-num {\n  color: #14D23E;\n  font-weight: 600;\n}\n"]}]);
+exports.push([module.i, ".BottomKanban {\n  position: absolute;\n  bottom: 50rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 36%;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n}\n.BottomKanban .card_kanban {\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") left center / contain no-repeat;\n  width: 150rem;\n  display: grid;\n  grid-template-rows: 18rem 1fr;\n  grid-template-columns: 52rem 1fr;\n  grid-column-gap: 4rem;\n}\n.BottomKanban .card_kanban .card_img {\n  grid-row: 1/3;\n}\n.BottomKanban .card_kanban .card_name {\n  font-size: 13rem;\n  font-weight: 400;\n  color: rgba(255, 255, 255, 0.74);\n  margin-top: 2rem;\n}\n.BottomKanban .card_kanban .card_num {\n  font-size: 23rem;\n  font-weight: 900;\n  color: #fff;\n}\n.BottomKanban .percent_num {\n  margin-top: 6rem;\n  font-size: 16rem;\n  font-weight: 500;\n  font-family: PingFang SC;\n}\n.BottomKanban .red-num {\n  color: #fc2626;\n  font-weight: 600;\n}\n.BottomKanban .blue-num {\n  color: #14d23e;\n  font-weight: 600;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/BottomKanban.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/BottomKanban.vue"],"names":[],"mappings":"AA4HA;EACE,kBAAA;EACA,aAAA;EACA,SAAA;EACA,2BAAA;EACA,UAAA;EAEA,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,UAAA;AC5HF;ADkHA;EAcI,mFAAA;EAEA,aAAA;EACA,aAAA;EACA,6BAAA;EACA,gCAAA;EAEA,qBAAA;AC/HJ;AD0GA;EAuBM,aAAA;AC9HN;ADuGA;EA0BM,gBAAA;EACA,gBAAA;EACA,gCAAA;EACA,gBAAA;AC9HN;ADiGA;EAgCM,gBAAA;EACA,gBAAA;EACA,WAAA;AC9HN;AD4FA;EAsCI,gBAAA;EACA,gBAAA;EACA,gBAAA;EACA,wBAAA;AC/HJ;ADsFA;EA4CI,cAAA;EACA,gBAAA;AC/HJ;ADkFA;EAgDI,cAAA;EACA,gBAAA;AC/HJ","file":"BottomKanban.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.BottomKanban {\n  position: absolute;\n  bottom: 50rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 36%;\n  // height: 130rem;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n  // border: 1px solid #fff;\n\n  .card_kanban {\n    background: url(~@/assets/fbjsc/icon.png) left center/contain no-repeat;\n    // border: 1px solid red;\n    width: 150rem;\n    display: grid;\n    grid-template-rows: 18rem 1fr;\n    grid-template-columns: 52rem 1fr;\n    // grid-row-gap: 0;\n    grid-column-gap: 4rem;\n    .card_img {\n      grid-row: 1/3;\n    }\n    .card_name {\n      font-size: 13rem;\n      font-weight: 400;\n      color: rgba(255, 255, 255, 0.74);\n      margin-top: 2rem;\n    }\n    .card_num {\n      font-size: 23rem;\n      font-weight: 900;\n      color: #fff;\n    }\n  }\n  .percent_num {\n    margin-top: 6rem;\n    font-size: 16rem;\n    font-weight: 500;\n    font-family: PingFang SC;\n  }\n  .red-num {\n    color: #fc2626;\n    font-weight: 600;\n  }\n  .blue-num {\n    color: #14d23e;\n    font-weight: 600;\n  }\n}\n",".BottomKanban {\n  position: absolute;\n  bottom: 50rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 36%;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n}\n.BottomKanban .card_kanban {\n  background: url(~@/assets/fbjsc/icon.png) left center / contain no-repeat;\n  width: 150rem;\n  display: grid;\n  grid-template-rows: 18rem 1fr;\n  grid-template-columns: 52rem 1fr;\n  grid-column-gap: 4rem;\n}\n.BottomKanban .card_kanban .card_img {\n  grid-row: 1/3;\n}\n.BottomKanban .card_kanban .card_name {\n  font-size: 13rem;\n  font-weight: 400;\n  color: rgba(255, 255, 255, 0.74);\n  margin-top: 2rem;\n}\n.BottomKanban .card_kanban .card_num {\n  font-size: 23rem;\n  font-weight: 900;\n  color: #fff;\n}\n.BottomKanban .percent_num {\n  margin-top: 6rem;\n  font-size: 16rem;\n  font-weight: 500;\n  font-family: PingFang SC;\n}\n.BottomKanban .red-num {\n  color: #fc2626;\n  font-weight: 600;\n}\n.BottomKanban .blue-num {\n  color: #14d23e;\n  font-weight: 600;\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -267,7 +261,7 @@ var ___CSS_LOADER_URL_REPLACEMENT_4___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_
 var ___CSS_LOADER_URL_REPLACEMENT_5___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_5___);
 var ___CSS_LOADER_URL_REPLACEMENT_6___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_6___);
 // Module
-exports.push([module.i, ".left_bar {\n  position: absolute;\n  left: 44rem;\n  top: 115rem;\n}\n.left_bar .left_one_container .left_one_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n.left_bar .left_two_container .get_out_car {\n  margin-top: 12rem;\n  margin-bottom: 20rem;\n  display: grid;\n  width: 443rem;\n  grid-template-rows: 1fr 1fr 1fr;\n  grid-template-columns: 1fr 1fr 1fr;\n  grid-row-gap: 20rem;\n  grid-column-gap: 12rem;\n}\n.left_bar .left_two_container .get_out_car .car_item {\n  cursor: pointer;\n  position: relative;\n  height: 58rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") center / cover no-repeat;\n  display: grid;\n  grid-template-columns: 39rem 1fr;\n  grid-template-rows: 30rem 30rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .num {\n  grid-row: 1/3;\n  display: grid;\n  place-items: center;\n  color: #00a2ff;\n  font-size: 16rem;\n  margin-left: 5rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .name {\n  color: rgba(255, 255, 255, 0.6);\n  font-size: 12rem;\n  text-align: right;\n  margin-top: 9rem;\n  margin-right: 8rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .plateId {\n  font-size: 16rem;\n  font-weight: 700;\n  color: #fff;\n  text-align: left;\n  margin-top: 3rem;\n  margin-left: 8rem;\n}\n.left_bar .left_two_container .get_out_car .car_item:hover .dialog_point {\n  display: block;\n}\n.left_bar .left_two_container .get_out_car .car_item:nth-child(-n + 3) .num {\n  color: #fde701;\n}\n.left_bar .left_three_container .select_tabs {\n  display: flex;\n  margin: 20rem 0;\n}\n.left_bar .left_three_container .select_tabs .tab_item {\n  cursor: pointer;\n  padding-right: 7rem;\n  width: 91rem;\n  height: 40rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ") center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  color: #00a2ff;\n}\n.left_bar .left_three_container .select_tabs .tab_item .label {\n  font-size: 13rem;\n  font-weight: 500;\n}\n.left_bar .left_three_container .select_tabs .tab_item .num {\n  font-size: 17rem;\n  font-weight: 900;\n}\n.left_bar .left_three_container .select_tabs .tab_sel {\n  color: #fff;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / cover no-repeat;\n}\n.left_bar .left_three_container .left_three_chart {\n  width: 440rem;\n  height: 200rem;\n}\n.left_bar .dialog_point {\n  display: none;\n  position: relative;\n  top: -10rem;\n  left: 10rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ") top center / contain no-repeat, rgba(8, 12, 23, 0.78);\n  width: 339rem;\n  border-bottom: 2rem solid #00a2ff;\n  z-index: 10;\n}\n.left_bar .dialog_point .dialog_title {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding-left: 25rem;\n  padding-right: 10rem;\n  height: 49rem;\n  font-size: 18rem;\n  font-weight: 600;\n}\n.left_bar .dialog_point .dialog_title .status {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.left_bar .dialog_point .dialog_title .status .point {\n  margin-right: 10rem;\n  display: inline-block;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n.left_bar .dialog_point .dialog_title .pages {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 6rem;\n}\n.left_bar .dialog_point .dialog_title .pages .page_item {\n  background: #0091ff;\n  width: 9rem;\n  height: 9rem;\n}\n.left_bar .dialog_point .dialog_content {\n  padding: 10rem;\n  gap: 5rem;\n  display: flex;\n  flex-direction: column;\n}\n.left_bar .dialog_point .dialog_content .content_item {\n  display: flex;\n  align-items: center;\n  background: rgba(0, 170, 255, 0.15);\n  height: 32rem;\n  font-size: 16rem;\n  font-weight: 400;\n  padding-left: 10rem;\n}\n.top_title {\n  width: 443rem;\n  height: 50rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_4___ + ") center / cover no-repeat;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n.top_title .title_label {\n  background: linear-gradient(180deg, #ffffff 52.16%, #cde4ff 73.17%, #95ccff 93.75%), linear-gradient(0deg, #ffffff, #ffffff);\n  color: transparent;\n  box-shadow: 0px 2px 2px 0px #0000004d;\n  -webkit-background-clip: text;\n  font-size: 24rem;\n  font-weight: 500;\n  padding-left: 30rem;\n}\n.top_title .sort_btns {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 8rem;\n}\n.top_title .sort_btns div {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: #00a2ff;\n  font-size: 16rem;\n  cursor: pointer;\n}\n.top_title .sort_btns .normal_btn {\n  width: 65rem;\n  height: 40rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_5___ + ") center / cover no-repeat;\n}\n.top_title .sort_btns .active_btn {\n  color: #fff;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_6___ + ") center / cover no-repeat;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/Left.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/Left.vue"],"names":[],"mappings":"AA+qBA;EACE,kBAAA;EACA,WAAA;EACA,WAAA;AC9qBF;AD2qBA;EAOM,iBAAA;EACA,oBAAA;EAEA,aAAA;EACA,cAAA;AChrBN;ADqqBA;EAgBM,iBAAA;EACA,oBAAA;EACA,aAAA;EACA,aAAA;EACA,+BAAA;EACA,kCAAA;EACA,mBAAA;EACA,sBAAA;AClrBN;AD2pBA;EAyBQ,eAAA;EACA,kBAAA;EAEA,aAAA;EACA,4EAAA;EACA,aAAA;EACA,gCAAA;EACA,+BAAA;AClrBR;ADkpBA;EAoCU,aAAA;EACA,aAAA;EACA,mBAAA;EACA,cAAA;EACA,gBAAA;EACA,iBAAA;ACnrBV;AD0oBA;EA4CU,+BAAA;EACA,gBAAA;EACA,iBAAA;EACA,gBAAA;EACA,kBAAA;ACnrBV;ADmoBA;EAmDU,gBAAA;EACA,gBAAA;EACA,WAAA;EACA,gBAAA;EACA,gBAAA;EACA,iBAAA;ACnrBV;ADqrBQ;EAEI,cAAA;ACprBZ;ADwnBA;EAkEU,cAAA;ACvrBV;ADqnBA;EAyEM,aAAA;EACA,eAAA;AC3rBN;ADinBA;EA4EQ,eAAA;EACA,mBAAA;EACA,YAAA;EACA,aAAA;EACA,4EAAA;EACA,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EACA,cAAA;AC1rBR;ADqmBA;EAuFU,gBAAA;EACA,gBAAA;ACzrBV;ADimBA;EA2FU,gBAAA;EACA,gBAAA;ACzrBV;AD6lBA;EAgGQ,WAAA;EACA,4EAAA;AC1rBR;ADylBA;EAqGM,aAAA;EACA,cAAA;AC3rBN;ADqlBA;EA2GI,aAAA;EACA,kBAAA;EACA,WAAA;EACA,WAAA;EACA,yGAAA;EACA,aAAA;EACA,iCAAA;EACA,WAAA;AC7rBJ;AD2kBA;EAoHM,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,mBAAA;EACA,oBAAA;EACA,aAAA;EACA,gBAAA;EACA,gBAAA;AC5rBN;ADikBA;EA6HQ,aAAA;EACA,mBAAA;EACA,uBAAA;AC3rBR;AD4jBA;EAiIU,mBAAA;EACA,qBAAA;EAEA,WAAA;EACA,YAAA;EACA,mBAAA;AC3rBV;ADqjBA;EA0IQ,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,SAAA;AC5rBR;AD+iBA;EA+IU,mBAAA;EACA,WAAA;EACA,YAAA;AC3rBV;AD0iBA;EAsJM,cAAA;EACA,SAAA;EACA,aAAA;EACA,sBAAA;AC7rBN;ADoiBA;EA2JQ,aAAA;EACA,mBAAA;EACA,mCAAA;EACA,aAAA;EACA,gBAAA;EACA,gBAAA;EACA,mBAAA;AC5rBR;ADisBA;EACE,aAAA;EACA,aAAA;EACA,4EAAA;EACA,aAAA;EACA,mBAAA;EACA,8BAAA;AC/rBF;ADyrBA;EAQI,4HAAA;EACA,kBAAA;EACA,qCAAA;EACA,6BAAA;EACA,gBAAA;EACA,gBAAA;EACA,mBAAA;AC9rBJ;ADgrBA;EAiBI,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,SAAA;AC9rBJ;AD0qBA;EAsBM,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,cAAA;EACA,gBAAA;EACA,eAAA;AC7rBN;ADkqBA;EA8BM,YAAA;EACA,aAAA;EACA,4EAAA;AC7rBN;AD6pBA;EAmCM,WAAA;EACA,4EAAA;AC7rBN","file":"Left.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.left_bar {\n  position: absolute;\n  left: 44rem;\n  top: 115rem;\n\n  .left_one_container {\n    .left_one_chart {\n      margin-top: 20rem;\n      margin-bottom: 20rem;\n      // border: 1px solid #fff;\n      width: 440rem;\n      height: 200rem;\n    }\n  }\n  .left_two_container {\n    .get_out_car {\n      margin-top: 12rem;\n      margin-bottom: 20rem;\n      display: grid;\n      width: 443rem;\n      grid-template-rows: 1fr 1fr 1fr;\n      grid-template-columns: 1fr 1fr 1fr;\n      grid-row-gap: 20rem;\n      grid-column-gap: 12rem;\n      .car_item {\n        cursor: pointer;\n        position: relative;\n        // width: 140rem;\n        height: 58rem;\n        background: url(~@/assets/fbjsc/part_bg.png) center/cover no-repeat;\n        display: grid;\n        grid-template-columns: 39rem 1fr;\n        grid-template-rows: 30rem 30rem;\n        // grid-row-gap: 16px;\n        // grid-column-gap: 13px;\n        .num {\n          grid-row: 1/3;\n          display: grid;\n          place-items: center;\n          color: #00a2ff;\n          font-size: 16rem;\n          margin-left: 5rem;\n        }\n        .name {\n          color: rgba(255, 255, 255, 0.6);\n          font-size: 12rem;\n          text-align: right;\n          margin-top: 9rem;\n          margin-right: 8rem;\n        }\n        .plateId {\n          font-size: 16rem;\n          font-weight: 700;\n          color: #fff;\n          text-align: left;\n          margin-top: 3rem;\n          margin-left: 8rem;\n        }\n        &:hover {\n          .dialog_point {\n            display: block;\n          }\n        }\n      }\n      .car_item:nth-child(-n + 3) {\n        .num {\n          color: #fde701;\n        }\n      }\n    }\n  }\n  .left_three_container {\n    .select_tabs {\n      display: flex;\n      margin: 20rem 0;\n      .tab_item {\n        cursor: pointer;\n        padding-right: 7rem;\n        width: 91rem;\n        height: 40rem;\n        background: url(~@/assets/fbjsc/tab_nor.png) center/cover no-repeat;\n        display: flex;\n        flex-direction: column;\n        align-items: center;\n        justify-content: center;\n        color: #00a2ff;\n        .label {\n          font-size: 13rem;\n          font-weight: 500;\n        }\n        .num {\n          font-size: 17rem;\n          font-weight: 900;\n        }\n      }\n      .tab_sel {\n        color: #fff;\n        background: url(~@/assets/fbjsc/tab_sel.png) center/cover no-repeat;\n      }\n    }\n    .left_three_chart {\n      width: 440rem;\n      height: 200rem;\n      // border: 1px solid #fff;\n    }\n  }\n  .dialog_point {\n    display: none;\n    position: relative;\n    top: -10rem;\n    left: 10rem;\n    background: url(~@/assets/fbjsc/tankuang_head.png) top center/contain no-repeat, rgba(8, 12, 23, 0.78);\n    width: 339rem;\n    border-bottom: 2rem solid #00a2ff;\n    z-index: 10;\n    .dialog_title {\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      padding-left: 25rem;\n      padding-right: 10rem;\n      height: 49rem;\n      font-size: 18rem;\n      font-weight: 600;\n      .status {\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        .point {\n          margin-right: 10rem;\n          display: inline-block;\n          // background: #14D23E;\n          width: 7rem;\n          height: 7rem;\n          border-radius: 7rem;\n        }\n      }\n      .pages {\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        gap: 6rem;\n        .page_item {\n          background: #0091ff;\n          width: 9rem;\n          height: 9rem;\n        }\n      }\n    }\n    .dialog_content {\n      padding: 10rem;\n      gap: 5rem;\n      display: flex;\n      flex-direction: column;\n      .content_item {\n        display: flex;\n        align-items: center;\n        background: rgba(0, 170, 255, 0.15);\n        height: 32rem;\n        font-size: 16rem;\n        font-weight: 400;\n        padding-left: 10rem;\n      }\n    }\n  }\n}\n.top_title {\n  width: 443rem;\n  height: 50rem;\n  background: url(~@/assets/fbjsc/title.png) center/cover no-repeat;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  .title_label {\n    background: linear-gradient(180deg, #ffffff 52.16%, #cde4ff 73.17%, #95ccff 93.75%), linear-gradient(0deg, #ffffff, #ffffff);\n    color: transparent;\n    box-shadow: 0px 2px 2px 0px #0000004d;\n    -webkit-background-clip: text;\n    font-size: 24rem;\n    font-weight: 500;\n    padding-left: 30rem;\n  }\n  .sort_btns {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 8rem;\n    div {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      color: #00a2ff;\n      font-size: 16rem;\n      cursor: pointer;\n    }\n    .normal_btn {\n      width: 65rem;\n      height: 40rem;\n      background: url(~@/assets/fbjsc/btn_nor.png) center/cover no-repeat;\n    }\n    .active_btn {\n      color: #fff;\n      background: url(~@/assets/fbjsc/btn_sel.png) center/cover no-repeat;\n    }\n  }\n}\n",".left_bar {\n  position: absolute;\n  left: 44rem;\n  top: 115rem;\n}\n.left_bar .left_one_container .left_one_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n.left_bar .left_two_container .get_out_car {\n  margin-top: 12rem;\n  margin-bottom: 20rem;\n  display: grid;\n  width: 443rem;\n  grid-template-rows: 1fr 1fr 1fr;\n  grid-template-columns: 1fr 1fr 1fr;\n  grid-row-gap: 20rem;\n  grid-column-gap: 12rem;\n}\n.left_bar .left_two_container .get_out_car .car_item {\n  cursor: pointer;\n  position: relative;\n  height: 58rem;\n  background: url(~@/assets/fbjsc/part_bg.png) center / cover no-repeat;\n  display: grid;\n  grid-template-columns: 39rem 1fr;\n  grid-template-rows: 30rem 30rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .num {\n  grid-row: 1/3;\n  display: grid;\n  place-items: center;\n  color: #00a2ff;\n  font-size: 16rem;\n  margin-left: 5rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .name {\n  color: rgba(255, 255, 255, 0.6);\n  font-size: 12rem;\n  text-align: right;\n  margin-top: 9rem;\n  margin-right: 8rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .plateId {\n  font-size: 16rem;\n  font-weight: 700;\n  color: #fff;\n  text-align: left;\n  margin-top: 3rem;\n  margin-left: 8rem;\n}\n.left_bar .left_two_container .get_out_car .car_item:hover .dialog_point {\n  display: block;\n}\n.left_bar .left_two_container .get_out_car .car_item:nth-child(-n + 3) .num {\n  color: #fde701;\n}\n.left_bar .left_three_container .select_tabs {\n  display: flex;\n  margin: 20rem 0;\n}\n.left_bar .left_three_container .select_tabs .tab_item {\n  cursor: pointer;\n  padding-right: 7rem;\n  width: 91rem;\n  height: 40rem;\n  background: url(~@/assets/fbjsc/tab_nor.png) center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  color: #00a2ff;\n}\n.left_bar .left_three_container .select_tabs .tab_item .label {\n  font-size: 13rem;\n  font-weight: 500;\n}\n.left_bar .left_three_container .select_tabs .tab_item .num {\n  font-size: 17rem;\n  font-weight: 900;\n}\n.left_bar .left_three_container .select_tabs .tab_sel {\n  color: #fff;\n  background: url(~@/assets/fbjsc/tab_sel.png) center / cover no-repeat;\n}\n.left_bar .left_three_container .left_three_chart {\n  width: 440rem;\n  height: 200rem;\n}\n.left_bar .dialog_point {\n  display: none;\n  position: relative;\n  top: -10rem;\n  left: 10rem;\n  background: url(~@/assets/fbjsc/tankuang_head.png) top center / contain no-repeat, rgba(8, 12, 23, 0.78);\n  width: 339rem;\n  border-bottom: 2rem solid #00a2ff;\n  z-index: 10;\n}\n.left_bar .dialog_point .dialog_title {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding-left: 25rem;\n  padding-right: 10rem;\n  height: 49rem;\n  font-size: 18rem;\n  font-weight: 600;\n}\n.left_bar .dialog_point .dialog_title .status {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.left_bar .dialog_point .dialog_title .status .point {\n  margin-right: 10rem;\n  display: inline-block;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n.left_bar .dialog_point .dialog_title .pages {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 6rem;\n}\n.left_bar .dialog_point .dialog_title .pages .page_item {\n  background: #0091ff;\n  width: 9rem;\n  height: 9rem;\n}\n.left_bar .dialog_point .dialog_content {\n  padding: 10rem;\n  gap: 5rem;\n  display: flex;\n  flex-direction: column;\n}\n.left_bar .dialog_point .dialog_content .content_item {\n  display: flex;\n  align-items: center;\n  background: rgba(0, 170, 255, 0.15);\n  height: 32rem;\n  font-size: 16rem;\n  font-weight: 400;\n  padding-left: 10rem;\n}\n.top_title {\n  width: 443rem;\n  height: 50rem;\n  background: url(~@/assets/fbjsc/title.png) center / cover no-repeat;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n.top_title .title_label {\n  background: linear-gradient(180deg, #ffffff 52.16%, #cde4ff 73.17%, #95ccff 93.75%), linear-gradient(0deg, #ffffff, #ffffff);\n  color: transparent;\n  box-shadow: 0px 2px 2px 0px #0000004d;\n  -webkit-background-clip: text;\n  font-size: 24rem;\n  font-weight: 500;\n  padding-left: 30rem;\n}\n.top_title .sort_btns {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 8rem;\n}\n.top_title .sort_btns div {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: #00a2ff;\n  font-size: 16rem;\n  cursor: pointer;\n}\n.top_title .sort_btns .normal_btn {\n  width: 65rem;\n  height: 40rem;\n  background: url(~@/assets/fbjsc/btn_nor.png) center / cover no-repeat;\n}\n.top_title .sort_btns .active_btn {\n  color: #fff;\n  background: url(~@/assets/fbjsc/btn_sel.png) center / cover no-repeat;\n}\n"]}]);
+exports.push([module.i, ".left_bar {\n  position: absolute;\n  left: 44rem;\n  top: 115rem;\n}\n.left_bar .left_one_container .left_one_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n.left_bar .left_two_container .get_out_car {\n  margin-top: 12rem;\n  margin-bottom: 20rem;\n  display: grid;\n  width: 443rem;\n  grid-template-rows: 1fr 1fr 1fr;\n  grid-template-columns: 1fr 1fr 1fr;\n  grid-row-gap: 20rem;\n  grid-column-gap: 12rem;\n}\n.left_bar .left_two_container .get_out_car .car_item {\n  cursor: pointer;\n  position: relative;\n  height: 58rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") center / cover no-repeat;\n  display: grid;\n  grid-template-columns: 38rem 1fr;\n  grid-template-rows: 29rem 30rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .num {\n  grid-row: 1/3;\n  display: grid;\n  place-items: center;\n  color: #00a2ff;\n  font-size: 16rem;\n  margin-left: 5rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .name {\n  color: rgba(255, 255, 255, 0.6);\n  font-size: 12rem;\n  text-align: right;\n  margin-top: 9rem;\n  margin-right: 8rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .plateId {\n  font-size: 16rem;\n  font-weight: 700;\n  color: #fff;\n  text-align: left;\n  margin-top: 3rem;\n  margin-left: 8rem;\n}\n.left_bar .left_two_container .get_out_car .car_item:hover .dialog_point {\n  display: block;\n}\n.left_bar .left_two_container .get_out_car .car_item:nth-child(-n + 3) .num {\n  color: #fde701;\n}\n.left_bar .left_three_container .select_tabs {\n  display: flex;\n  margin: 20rem 0;\n}\n.left_bar .left_three_container .select_tabs .tab_item {\n  cursor: pointer;\n  padding-right: 7rem;\n  width: 91rem;\n  height: 40rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ") center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  color: #00a2ff;\n}\n.left_bar .left_three_container .select_tabs .tab_item .label {\n  font-size: 13rem;\n  font-weight: 500;\n}\n.left_bar .left_three_container .select_tabs .tab_item .num {\n  font-size: 17rem;\n  font-weight: 900;\n}\n.left_bar .left_three_container .select_tabs .tab_sel {\n  color: #fff;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / cover no-repeat;\n}\n.left_bar .left_three_container .left_three_chart {\n  width: 440rem;\n  height: 200rem;\n}\n.left_bar .dialog_point {\n  display: none;\n  position: relative;\n  top: -10rem;\n  left: 10rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ") top center / contain no-repeat, rgba(8, 12, 23, 0.78);\n  width: 339rem;\n  border-bottom: 2rem solid #00a2ff;\n  z-index: 10;\n}\n.left_bar .dialog_point .dialog_title {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding-left: 25rem;\n  padding-right: 10rem;\n  height: 49rem;\n  font-size: 18rem;\n  font-weight: 600;\n}\n.left_bar .dialog_point .dialog_title .status {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.left_bar .dialog_point .dialog_title .status .point {\n  margin-right: 10rem;\n  display: inline-block;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n.left_bar .dialog_point .dialog_title .pages {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 6rem;\n}\n.left_bar .dialog_point .dialog_title .pages .page_item {\n  background: #0091ff;\n  width: 9rem;\n  height: 9rem;\n}\n.left_bar .dialog_point .dialog_content {\n  padding: 10rem;\n  gap: 5rem;\n  display: flex;\n  flex-direction: column;\n}\n.left_bar .dialog_point .dialog_content .content_item {\n  display: flex;\n  align-items: center;\n  background: rgba(0, 170, 255, 0.15);\n  height: 32rem;\n  font-size: 16rem;\n  font-weight: 400;\n  padding-left: 10rem;\n}\n.top_title {\n  width: 443rem;\n  height: 50rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_4___ + ") center / cover no-repeat;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n.top_title .title_label {\n  background: linear-gradient(180deg, #ffffff 52.16%, #cde4ff 73.17%, #95ccff 93.75%), linear-gradient(0deg, #ffffff, #ffffff);\n  color: transparent;\n  box-shadow: 0px 2px 2px 0px #0000004d;\n  -webkit-background-clip: text;\n  font-size: 24rem;\n  font-weight: 500;\n  padding-left: 30rem;\n}\n.top_title .sort_btns {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 8rem;\n}\n.top_title .sort_btns div {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: #00a2ff;\n  font-size: 16rem;\n  cursor: pointer;\n}\n.top_title .sort_btns .normal_btn {\n  width: 65rem;\n  height: 40rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_5___ + ") center / cover no-repeat;\n}\n.top_title .sort_btns .active_btn {\n  color: #fff;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_6___ + ") center / cover no-repeat;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/Left.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/Left.vue"],"names":[],"mappings":"AA05BA;EACE,kBAAA;EACA,WAAA;EACA,WAAA;ACz5BF;ADs5BA;EAOM,iBAAA;EACA,oBAAA;EAEA,aAAA;EACA,cAAA;AC35BN;ADg5BA;EAgBM,iBAAA;EACA,oBAAA;EACA,aAAA;EACA,aAAA;EACA,+BAAA;EACA,kCAAA;EACA,mBAAA;EACA,sBAAA;AC75BN;ADs4BA;EAyBQ,eAAA;EACA,kBAAA;EAEA,aAAA;EACA,4EAAA;EACA,aAAA;EACA,gCAAA;EACA,+BAAA;AC75BR;AD63BA;EAoCU,aAAA;EACA,aAAA;EACA,mBAAA;EACA,cAAA;EACA,gBAAA;EACA,iBAAA;AC95BV;ADq3BA;EA4CU,+BAAA;EACA,gBAAA;EACA,iBAAA;EACA,gBAAA;EACA,kBAAA;AC95BV;AD82BA;EAmDU,gBAAA;EACA,gBAAA;EACA,WAAA;EACA,gBAAA;EACA,gBAAA;EACA,iBAAA;AC95BV;ADg6BQ;EAEI,cAAA;AC/5BZ;ADm2BA;EAkEU,cAAA;ACl6BV;ADg2BA;EAyEM,aAAA;EACA,eAAA;ACt6BN;AD41BA;EA4EQ,eAAA;EACA,mBAAA;EACA,YAAA;EACA,aAAA;EACA,4EAAA;EACA,aAAA;EACA,sBAAA;EACA,mBAAA;EACA,uBAAA;EACA,cAAA;ACr6BR;ADg1BA;EAuFU,gBAAA;EACA,gBAAA;ACp6BV;AD40BA;EA2FU,gBAAA;EACA,gBAAA;ACp6BV;ADw0BA;EAgGQ,WAAA;EACA,4EAAA;ACr6BR;ADo0BA;EAqGM,aAAA;EACA,cAAA;ACt6BN;ADg0BA;EA2GI,aAAA;EACA,kBAAA;EACA,WAAA;EACA,WAAA;EACA,yGAAA;EACA,aAAA;EACA,iCAAA;EACA,WAAA;ACx6BJ;ADszBA;EAoHM,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,mBAAA;EACA,oBAAA;EACA,aAAA;EACA,gBAAA;EACA,gBAAA;ACv6BN;AD4yBA;EA6HQ,aAAA;EACA,mBAAA;EACA,uBAAA;ACt6BR;ADuyBA;EAiIU,mBAAA;EACA,qBAAA;EAEA,WAAA;EACA,YAAA;EACA,mBAAA;ACt6BV;ADgyBA;EA0IQ,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,SAAA;ACv6BR;AD0xBA;EA+IU,mBAAA;EACA,WAAA;EACA,YAAA;ACt6BV;ADqxBA;EAsJM,cAAA;EACA,SAAA;EACA,aAAA;EACA,sBAAA;ACx6BN;AD+wBA;EA2JQ,aAAA;EACA,mBAAA;EACA,mCAAA;EACA,aAAA;EACA,gBAAA;EACA,gBAAA;EACA,mBAAA;ACv6BR;AD46BA;EACE,aAAA;EACA,aAAA;EACA,4EAAA;EACA,aAAA;EACA,mBAAA;EACA,8BAAA;AC16BF;ADo6BA;EAQI,4HAAA;EACA,kBAAA;EACA,qCAAA;EACA,6BAAA;EACA,gBAAA;EACA,gBAAA;EACA,mBAAA;ACz6BJ;AD25BA;EAiBI,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,SAAA;ACz6BJ;ADq5BA;EAsBM,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,cAAA;EACA,gBAAA;EACA,eAAA;ACx6BN;AD64BA;EA8BM,YAAA;EACA,aAAA;EACA,4EAAA;ACx6BN;ADw4BA;EAmCM,WAAA;EACA,4EAAA;ACx6BN","file":"Left.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.left_bar {\n  position: absolute;\n  left: 44rem;\n  top: 115rem;\n\n  .left_one_container {\n    .left_one_chart {\n      margin-top: 20rem;\n      margin-bottom: 20rem;\n      // border: 1px solid #fff;\n      width: 440rem;\n      height: 200rem;\n    }\n  }\n  .left_two_container {\n    .get_out_car {\n      margin-top: 12rem;\n      margin-bottom: 20rem;\n      display: grid;\n      width: 443rem;\n      grid-template-rows: 1fr 1fr 1fr;\n      grid-template-columns: 1fr 1fr 1fr;\n      grid-row-gap: 20rem;\n      grid-column-gap: 12rem;\n      .car_item {\n        cursor: pointer;\n        position: relative;\n        // width: 140rem;\n        height: 58rem;\n        background: url(~@/assets/fbjsc/part_bg.png) center/cover no-repeat;\n        display: grid;\n        grid-template-columns: 38rem 1fr;\n        grid-template-rows: 29rem 30rem;\n        // grid-row-gap: 16px;\n        // grid-column-gap: 13px;\n        .num {\n          grid-row: 1/3;\n          display: grid;\n          place-items: center;\n          color: #00a2ff;\n          font-size: 16rem;\n          margin-left: 5rem;\n        }\n        .name {\n          color: rgba(255, 255, 255, 0.6);\n          font-size: 12rem;\n          text-align: right;\n          margin-top: 9rem;\n          margin-right: 8rem;\n        }\n        .plateId {\n          font-size: 16rem;\n          font-weight: 700;\n          color: #fff;\n          text-align: left;\n          margin-top: 3rem;\n          margin-left: 8rem;\n        }\n        &:hover {\n          .dialog_point {\n            display: block;\n          }\n        }\n      }\n      .car_item:nth-child(-n + 3) {\n        .num {\n          color: #fde701;\n        }\n      }\n    }\n  }\n  .left_three_container {\n    .select_tabs {\n      display: flex;\n      margin: 20rem 0;\n      .tab_item {\n        cursor: pointer;\n        padding-right: 7rem;\n        width: 91rem;\n        height: 40rem;\n        background: url(~@/assets/fbjsc/tab_nor.png) center/cover no-repeat;\n        display: flex;\n        flex-direction: column;\n        align-items: center;\n        justify-content: center;\n        color: #00a2ff;\n        .label {\n          font-size: 13rem;\n          font-weight: 500;\n        }\n        .num {\n          font-size: 17rem;\n          font-weight: 900;\n        }\n      }\n      .tab_sel {\n        color: #fff;\n        background: url(~@/assets/fbjsc/tab_sel.png) center/cover no-repeat;\n      }\n    }\n    .left_three_chart {\n      width: 440rem;\n      height: 200rem;\n      // border: 1px solid #fff;\n    }\n  }\n  .dialog_point {\n    display: none;\n    position: relative;\n    top: -10rem;\n    left: 10rem;\n    background: url(~@/assets/fbjsc/tankuang_head.png) top center/contain no-repeat, rgba(8, 12, 23, 0.78);\n    width: 339rem;\n    border-bottom: 2rem solid #00a2ff;\n    z-index: 10;\n    .dialog_title {\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      padding-left: 25rem;\n      padding-right: 10rem;\n      height: 49rem;\n      font-size: 18rem;\n      font-weight: 600;\n      .status {\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        .point {\n          margin-right: 10rem;\n          display: inline-block;\n          // background: #14D23E;\n          width: 7rem;\n          height: 7rem;\n          border-radius: 7rem;\n        }\n      }\n      .pages {\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        gap: 6rem;\n        .page_item {\n          background: #0091ff;\n          width: 9rem;\n          height: 9rem;\n        }\n      }\n    }\n    .dialog_content {\n      padding: 10rem;\n      gap: 5rem;\n      display: flex;\n      flex-direction: column;\n      .content_item {\n        display: flex;\n        align-items: center;\n        background: rgba(0, 170, 255, 0.15);\n        height: 32rem;\n        font-size: 16rem;\n        font-weight: 400;\n        padding-left: 10rem;\n      }\n    }\n  }\n}\n.top_title {\n  width: 443rem;\n  height: 50rem;\n  background: url(~@/assets/fbjsc/title.png) center/cover no-repeat;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  .title_label {\n    background: linear-gradient(180deg, #ffffff 52.16%, #cde4ff 73.17%, #95ccff 93.75%), linear-gradient(0deg, #ffffff, #ffffff);\n    color: transparent;\n    box-shadow: 0px 2px 2px 0px #0000004d;\n    -webkit-background-clip: text;\n    font-size: 24rem;\n    font-weight: 500;\n    padding-left: 30rem;\n  }\n  .sort_btns {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 8rem;\n    div {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      color: #00a2ff;\n      font-size: 16rem;\n      cursor: pointer;\n    }\n    .normal_btn {\n      width: 65rem;\n      height: 40rem;\n      background: url(~@/assets/fbjsc/btn_nor.png) center/cover no-repeat;\n    }\n    .active_btn {\n      color: #fff;\n      background: url(~@/assets/fbjsc/btn_sel.png) center/cover no-repeat;\n    }\n  }\n}\n",".left_bar {\n  position: absolute;\n  left: 44rem;\n  top: 115rem;\n}\n.left_bar .left_one_container .left_one_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n.left_bar .left_two_container .get_out_car {\n  margin-top: 12rem;\n  margin-bottom: 20rem;\n  display: grid;\n  width: 443rem;\n  grid-template-rows: 1fr 1fr 1fr;\n  grid-template-columns: 1fr 1fr 1fr;\n  grid-row-gap: 20rem;\n  grid-column-gap: 12rem;\n}\n.left_bar .left_two_container .get_out_car .car_item {\n  cursor: pointer;\n  position: relative;\n  height: 58rem;\n  background: url(~@/assets/fbjsc/part_bg.png) center / cover no-repeat;\n  display: grid;\n  grid-template-columns: 38rem 1fr;\n  grid-template-rows: 29rem 30rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .num {\n  grid-row: 1/3;\n  display: grid;\n  place-items: center;\n  color: #00a2ff;\n  font-size: 16rem;\n  margin-left: 5rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .name {\n  color: rgba(255, 255, 255, 0.6);\n  font-size: 12rem;\n  text-align: right;\n  margin-top: 9rem;\n  margin-right: 8rem;\n}\n.left_bar .left_two_container .get_out_car .car_item .plateId {\n  font-size: 16rem;\n  font-weight: 700;\n  color: #fff;\n  text-align: left;\n  margin-top: 3rem;\n  margin-left: 8rem;\n}\n.left_bar .left_two_container .get_out_car .car_item:hover .dialog_point {\n  display: block;\n}\n.left_bar .left_two_container .get_out_car .car_item:nth-child(-n + 3) .num {\n  color: #fde701;\n}\n.left_bar .left_three_container .select_tabs {\n  display: flex;\n  margin: 20rem 0;\n}\n.left_bar .left_three_container .select_tabs .tab_item {\n  cursor: pointer;\n  padding-right: 7rem;\n  width: 91rem;\n  height: 40rem;\n  background: url(~@/assets/fbjsc/tab_nor.png) center / cover no-repeat;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  color: #00a2ff;\n}\n.left_bar .left_three_container .select_tabs .tab_item .label {\n  font-size: 13rem;\n  font-weight: 500;\n}\n.left_bar .left_three_container .select_tabs .tab_item .num {\n  font-size: 17rem;\n  font-weight: 900;\n}\n.left_bar .left_three_container .select_tabs .tab_sel {\n  color: #fff;\n  background: url(~@/assets/fbjsc/tab_sel.png) center / cover no-repeat;\n}\n.left_bar .left_three_container .left_three_chart {\n  width: 440rem;\n  height: 200rem;\n}\n.left_bar .dialog_point {\n  display: none;\n  position: relative;\n  top: -10rem;\n  left: 10rem;\n  background: url(~@/assets/fbjsc/tankuang_head.png) top center / contain no-repeat, rgba(8, 12, 23, 0.78);\n  width: 339rem;\n  border-bottom: 2rem solid #00a2ff;\n  z-index: 10;\n}\n.left_bar .dialog_point .dialog_title {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding-left: 25rem;\n  padding-right: 10rem;\n  height: 49rem;\n  font-size: 18rem;\n  font-weight: 600;\n}\n.left_bar .dialog_point .dialog_title .status {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.left_bar .dialog_point .dialog_title .status .point {\n  margin-right: 10rem;\n  display: inline-block;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n.left_bar .dialog_point .dialog_title .pages {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 6rem;\n}\n.left_bar .dialog_point .dialog_title .pages .page_item {\n  background: #0091ff;\n  width: 9rem;\n  height: 9rem;\n}\n.left_bar .dialog_point .dialog_content {\n  padding: 10rem;\n  gap: 5rem;\n  display: flex;\n  flex-direction: column;\n}\n.left_bar .dialog_point .dialog_content .content_item {\n  display: flex;\n  align-items: center;\n  background: rgba(0, 170, 255, 0.15);\n  height: 32rem;\n  font-size: 16rem;\n  font-weight: 400;\n  padding-left: 10rem;\n}\n.top_title {\n  width: 443rem;\n  height: 50rem;\n  background: url(~@/assets/fbjsc/title.png) center / cover no-repeat;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n.top_title .title_label {\n  background: linear-gradient(180deg, #ffffff 52.16%, #cde4ff 73.17%, #95ccff 93.75%), linear-gradient(0deg, #ffffff, #ffffff);\n  color: transparent;\n  box-shadow: 0px 2px 2px 0px #0000004d;\n  -webkit-background-clip: text;\n  font-size: 24rem;\n  font-weight: 500;\n  padding-left: 30rem;\n}\n.top_title .sort_btns {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 8rem;\n}\n.top_title .sort_btns div {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: #00a2ff;\n  font-size: 16rem;\n  cursor: pointer;\n}\n.top_title .sort_btns .normal_btn {\n  width: 65rem;\n  height: 40rem;\n  background: url(~@/assets/fbjsc/btn_nor.png) center / cover no-repeat;\n}\n.top_title .sort_btns .active_btn {\n  color: #fff;\n  background: url(~@/assets/fbjsc/btn_sel.png) center / cover no-repeat;\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -292,7 +286,7 @@ var ___CSS_LOADER_URL_REPLACEMENT_0___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_
 var ___CSS_LOADER_URL_REPLACEMENT_1___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_1___);
 var ___CSS_LOADER_URL_REPLACEMENT_2___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_2___);
 // Module
-exports.push([module.i, ".right_bar {\n  position: absolute;\n  right: 44rem;\n  top: 115rem;\n}\n.right_bar .right_one_container .pie_container {\n  height: 240rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.right_bar .right_one_container .pie_container .right_one_chart {\n  width: 280rem;\n  height: 160rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") center 95% / contain no-repeat;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend {\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  width: 160rem;\n  height: 100%;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .label {\n  display: flex;\n  align-items: center;\n  color: #fff;\n  font-size: 14rem;\n  font-weight: 500;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .label .pin {\n  margin-right: 5rem;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num {\n  display: flex;\n  align-items: center;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .percent {\n  font-size: 18rem;\n  font-weight: 400;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .line {\n  margin: 8rem;\n  width: 2rem;\n  height: 14rem;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .count {\n  color: #c0c0c5;\n  font-size: 18rem;\n  font-weight: 400;\n}\n.right_bar .right_two_container .right_two_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n.right_bar .right_three_container .filter_bts {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  margin: 20rem 10rem;\n  gap: 15rem;\n}\n.right_bar .right_three_container .filter_bts .filter_item {\n  cursor: pointer;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 200rem;\n  height: 40rem;\n  color: #00a3ff;\n  font-size: 16rem;\n  font-weight: 500;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ") center / cover no-repeat;\n}\n.right_bar .right_three_container .filter_bts .filter_active {\n  color: #fff;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / cover no-repeat;\n}\n.right_bar .right_three_container .right_three_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/Right.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/Right.vue"],"names":[],"mappings":"AAk5BA;EACE,kBAAA;EACA,YAAA;EACA,WAAA;ACj5BF;AD84BA;EAMM,cAAA;EACA,aAAA;EACA,mBAAA;EACA,uBAAA;ACj5BN;ADw4BA;EAWQ,aAAA;EACA,cAAA;EAEA,kFAAA;ACj5BR;ADm4BA;EAiBQ,aAAA;EAEA,uBAAA;EACA,sBAAA;EACA,aAAA;EACA,YAAA;ACl5BR;AD43BA;EAyBY,aAAA;EACA,mBAAA;EACA,WAAA;EACA,gBAAA;EACA,gBAAA;ACl5BZ;ADq3BA;EA+Bc,kBAAA;EACA,WAAA;EACA,YAAA;EACA,mBAAA;ACj5Bd;AD+2BA;EAuCY,aAAA;EACA,mBAAA;ACn5BZ;AD22BA;EA4Cc,gBAAA;EACA,gBAAA;ACp5Bd;ADu2BA;EAgDc,YAAA;EAEA,WAAA;EACA,aAAA;ACr5Bd;ADk2BA;EAsDc,cAAA;EACA,gBAAA;EACA,gBAAA;ACr5Bd;AD61BA;EAiEM,iBAAA;EACA,oBAAA;EAEA,aAAA;EACA,cAAA;AC55BN;ADu1BA;EA0EM,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,mBAAA;EACA,UAAA;AC95BN;ADg1BA;EAgFQ,eAAA;EACA,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,aAAA;EACA,aAAA;EACA,cAAA;EACA,gBAAA;EACA,gBAAA;EACA,4EAAA;AC75BR;ADo0BA;EA4FQ,WAAA;EACA,4EAAA;AC75BR;ADg0BA;EAiGM,iBAAA;EACA,oBAAA;EAEA,aAAA;EACA,cAAA;AC/5BN","file":"Right.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.right_bar {\n  position: absolute;\n  right: 44rem;\n  top: 115rem;\n  .right_one_container {\n    .pie_container {\n      height: 240rem;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      .right_one_chart {\n        width: 280rem;\n        height: 160rem;\n        // border: 1px solid #fff;\n        background: url(~@/assets/fbjsc/bottom3d.png) center 95% / contain no-repeat;\n      }\n      .right_chart_legend {\n        display: flex;\n        // align-items: center;\n        justify-content: center;\n        flex-direction: column;\n        width: 160rem;\n        height: 100%;\n        .legend_item {\n          .label {\n            display: flex;\n            align-items: center;\n            color: #fff;\n            font-size: 14rem;\n            font-weight: 500;\n            .pin {\n              margin-right: 5rem;\n              width: 7rem;\n              height: 7rem;\n              border-radius: 7rem;\n              // background: #00a2ff;\n            }\n          }\n          .num {\n            display: flex;\n            align-items: center;\n            // justify-content: center;\n            .percent {\n              // color: #00a2ff;\n              font-size: 18rem;\n              font-weight: 400;\n            }\n            .line {\n              margin: 8rem;\n              // background: #00a2ff;\n              width: 2rem;\n              height: 14rem;\n            }\n            .count {\n              color: #c0c0c5;\n              font-size: 18rem;\n              font-weight: 400;\n            }\n          }\n        }\n      }\n    }\n  }\n  .right_two_container {\n    .right_two_chart {\n      margin-top: 20rem;\n      margin-bottom: 20rem;\n      // border: 1px solid #fff;\n      width: 440rem;\n      height: 200rem;\n    }\n  }\n  .right_three_container {\n    .filter_bts {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      margin: 20rem 10rem;\n      gap: 15rem;\n      .filter_item {\n        cursor: pointer;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        width: 200rem;\n        height: 40rem;\n        color: #00a3ff;\n        font-size: 16rem;\n        font-weight: 500;\n        background: url(~@/assets/fbjsc/part6_tab_nor.png) center/cover no-repeat;\n      }\n      .filter_active {\n        color: #fff;\n        background: url(~@/assets/fbjsc/part6_tab_sel.png) center/cover no-repeat;\n      }\n    }\n    .right_three_chart {\n      margin-top: 20rem;\n      margin-bottom: 20rem;\n      // border: 1px solid #fff;\n      width: 440rem;\n      height: 200rem;\n    }\n  }\n}\n",".right_bar {\n  position: absolute;\n  right: 44rem;\n  top: 115rem;\n}\n.right_bar .right_one_container .pie_container {\n  height: 240rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.right_bar .right_one_container .pie_container .right_one_chart {\n  width: 280rem;\n  height: 160rem;\n  background: url(~@/assets/fbjsc/bottom3d.png) center 95% / contain no-repeat;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend {\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  width: 160rem;\n  height: 100%;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .label {\n  display: flex;\n  align-items: center;\n  color: #fff;\n  font-size: 14rem;\n  font-weight: 500;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .label .pin {\n  margin-right: 5rem;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num {\n  display: flex;\n  align-items: center;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .percent {\n  font-size: 18rem;\n  font-weight: 400;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .line {\n  margin: 8rem;\n  width: 2rem;\n  height: 14rem;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .count {\n  color: #c0c0c5;\n  font-size: 18rem;\n  font-weight: 400;\n}\n.right_bar .right_two_container .right_two_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n.right_bar .right_three_container .filter_bts {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  margin: 20rem 10rem;\n  gap: 15rem;\n}\n.right_bar .right_three_container .filter_bts .filter_item {\n  cursor: pointer;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 200rem;\n  height: 40rem;\n  color: #00a3ff;\n  font-size: 16rem;\n  font-weight: 500;\n  background: url(~@/assets/fbjsc/part6_tab_nor.png) center / cover no-repeat;\n}\n.right_bar .right_three_container .filter_bts .filter_active {\n  color: #fff;\n  background: url(~@/assets/fbjsc/part6_tab_sel.png) center / cover no-repeat;\n}\n.right_bar .right_three_container .right_three_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n"]}]);
+exports.push([module.i, ".right_bar {\n  position: absolute;\n  right: 44rem;\n  top: 115rem;\n}\n.right_bar .right_one_container .pie_container {\n  height: 250rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.right_bar .right_one_container .pie_container .right_one_chart {\n  width: 280rem;\n  height: 160rem;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") center 95% / contain no-repeat;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend {\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  width: 160rem;\n  height: 100%;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .label {\n  display: flex;\n  align-items: center;\n  color: #fff;\n  font-size: 14rem;\n  font-weight: 500;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .label .pin {\n  margin-right: 5rem;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num {\n  display: flex;\n  align-items: center;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .percent {\n  font-size: 18rem;\n  font-weight: 400;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .line {\n  margin: 8rem;\n  width: 2rem;\n  height: 14rem;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .count {\n  color: #c0c0c5;\n  font-size: 18rem;\n  font-weight: 400;\n}\n.right_bar .right_two_container .right_two_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n.right_bar .right_three_container .filter_bts {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  margin: 20rem 10rem;\n  gap: 15rem;\n}\n.right_bar .right_three_container .filter_bts .filter_item {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 200rem;\n  height: 40rem;\n  color: #00a3ff;\n  font-size: 16rem;\n  font-weight: 500;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ") center / cover no-repeat;\n}\n.right_bar .right_three_container .filter_bts .filter_active {\n  color: #fff;\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ") center / cover no-repeat;\n}\n.right_bar .right_three_container .right_three_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/Right.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/Right.vue"],"names":[],"mappings":"AA2lCA;EACE,kBAAA;EACA,YAAA;EACA,WAAA;AC1lCF;ADulCA;EAMM,cAAA;EACA,aAAA;EACA,mBAAA;EACA,uBAAA;AC1lCN;ADilCA;EAWQ,aAAA;EACA,cAAA;EAEA,kFAAA;AC1lCR;AD4kCA;EAiBQ,aAAA;EAEA,uBAAA;EACA,sBAAA;EACA,aAAA;EACA,YAAA;AC3lCR;ADqkCA;EAyBY,aAAA;EACA,mBAAA;EACA,WAAA;EACA,gBAAA;EACA,gBAAA;AC3lCZ;AD8jCA;EA+Bc,kBAAA;EACA,WAAA;EACA,YAAA;EACA,mBAAA;AC1lCd;ADwjCA;EAuCY,aAAA;EACA,mBAAA;AC5lCZ;ADojCA;EA4Cc,gBAAA;EACA,gBAAA;AC7lCd;ADgjCA;EAgDc,YAAA;EAEA,WAAA;EACA,aAAA;AC9lCd;AD2iCA;EAsDc,cAAA;EACA,gBAAA;EACA,gBAAA;AC9lCd;ADsiCA;EAiEM,iBAAA;EACA,oBAAA;EAEA,aAAA;EACA,cAAA;ACrmCN;ADgiCA;EA0EM,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,mBAAA;EACA,UAAA;ACvmCN;ADyhCA;EAiFQ,aAAA;EACA,mBAAA;EACA,uBAAA;EACA,aAAA;EACA,aAAA;EACA,cAAA;EACA,gBAAA;EACA,gBAAA;EACA,4EAAA;ACvmCR;AD8gCA;EA4FQ,WAAA;EACA,4EAAA;ACvmCR;AD0gCA;EAiGM,iBAAA;EACA,oBAAA;EAEA,aAAA;EACA,cAAA;ACzmCN","file":"Right.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.right_bar {\n  position: absolute;\n  right: 44rem;\n  top: 115rem;\n  .right_one_container {\n    .pie_container {\n      height: 250rem;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      .right_one_chart {\n        width: 280rem;\n        height: 160rem;\n        // border: 1px solid #fff;\n        background: url(~@/assets/fbjsc/bottom3d.png) center 95% / contain no-repeat;\n      }\n      .right_chart_legend {\n        display: flex;\n        // align-items: center;\n        justify-content: center;\n        flex-direction: column;\n        width: 160rem;\n        height: 100%;\n        .legend_item {\n          .label {\n            display: flex;\n            align-items: center;\n            color: #fff;\n            font-size: 14rem;\n            font-weight: 500;\n            .pin {\n              margin-right: 5rem;\n              width: 7rem;\n              height: 7rem;\n              border-radius: 7rem;\n              // background: #00a2ff;\n            }\n          }\n          .num {\n            display: flex;\n            align-items: center;\n            // justify-content: center;\n            .percent {\n              // color: #00a2ff;\n              font-size: 18rem;\n              font-weight: 400;\n            }\n            .line {\n              margin: 8rem;\n              // background: #00a2ff;\n              width: 2rem;\n              height: 14rem;\n            }\n            .count {\n              color: #c0c0c5;\n              font-size: 18rem;\n              font-weight: 400;\n            }\n          }\n        }\n      }\n    }\n  }\n  .right_two_container {\n    .right_two_chart {\n      margin-top: 20rem;\n      margin-bottom: 20rem;\n      // border: 1px solid #fff;\n      width: 440rem;\n      height: 200rem;\n    }\n  }\n  .right_three_container {\n    .filter_bts {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      margin: 20rem 10rem;\n      gap: 15rem;\n      .filter_item {\n        // cursor: pointer;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        width: 200rem;\n        height: 40rem;\n        color: #00a3ff;\n        font-size: 16rem;\n        font-weight: 500;\n        background: url(~@/assets/fbjsc/part6_tab_nor.png) center/cover no-repeat;\n      }\n      .filter_active {\n        color: #fff;\n        background: url(~@/assets/fbjsc/part6_tab_sel.png) center/cover no-repeat;\n      }\n    }\n    .right_three_chart {\n      margin-top: 20rem;\n      margin-bottom: 20rem;\n      // border: 1px solid #fff;\n      width: 440rem;\n      height: 200rem;\n    }\n  }\n}\n",".right_bar {\n  position: absolute;\n  right: 44rem;\n  top: 115rem;\n}\n.right_bar .right_one_container .pie_container {\n  height: 250rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n.right_bar .right_one_container .pie_container .right_one_chart {\n  width: 280rem;\n  height: 160rem;\n  background: url(~@/assets/fbjsc/bottom3d.png) center 95% / contain no-repeat;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend {\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  width: 160rem;\n  height: 100%;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .label {\n  display: flex;\n  align-items: center;\n  color: #fff;\n  font-size: 14rem;\n  font-weight: 500;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .label .pin {\n  margin-right: 5rem;\n  width: 7rem;\n  height: 7rem;\n  border-radius: 7rem;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num {\n  display: flex;\n  align-items: center;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .percent {\n  font-size: 18rem;\n  font-weight: 400;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .line {\n  margin: 8rem;\n  width: 2rem;\n  height: 14rem;\n}\n.right_bar .right_one_container .pie_container .right_chart_legend .legend_item .num .count {\n  color: #c0c0c5;\n  font-size: 18rem;\n  font-weight: 400;\n}\n.right_bar .right_two_container .right_two_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n.right_bar .right_three_container .filter_bts {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  margin: 20rem 10rem;\n  gap: 15rem;\n}\n.right_bar .right_three_container .filter_bts .filter_item {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: 200rem;\n  height: 40rem;\n  color: #00a3ff;\n  font-size: 16rem;\n  font-weight: 500;\n  background: url(~@/assets/fbjsc/part6_tab_nor.png) center / cover no-repeat;\n}\n.right_bar .right_three_container .filter_bts .filter_active {\n  color: #fff;\n  background: url(~@/assets/fbjsc/part6_tab_sel.png) center / cover no-repeat;\n}\n.right_bar .right_three_container .right_three_chart {\n  margin-top: 20rem;\n  margin-bottom: 20rem;\n  width: 440rem;\n  height: 200rem;\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -313,7 +307,7 @@ var ___CSS_LOADER_URL_IMPORT_0___ = __webpack_require__(/*! @/assets/fbjsc/icon.
 exports = ___CSS_LOADER_API_IMPORT___(true);
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = ___CSS_LOADER_GET_URL_IMPORT___(___CSS_LOADER_URL_IMPORT_0___);
 // Module
-exports.push([module.i, ".TopKanban {\n  position: absolute;\n  top: 140rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 800rem;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n}\n.TopKanban .card_kanban {\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") left center / contain no-repeat;\n  width: 150rem;\n  display: grid;\n  grid-template-rows: 18rem 1fr;\n  grid-template-columns: 52rem 1fr;\n  grid-column-gap: 4rem;\n}\n.TopKanban .card_kanban .card_img {\n  grid-row: 1/3;\n}\n.TopKanban .card_kanban .card_name {\n  font-size: 13rem;\n  font-weight: 400;\n  color: rgba(255, 255, 255, 0.74);\n  margin-top: 2rem;\n}\n.TopKanban .card_kanban .card_num {\n  font-size: 23rem;\n  font-weight: 900;\n  color: #fff;\n}\n.TopKanban .percent_num {\n  margin-top: 6rem;\n  font-size: 16rem;\n  font-weight: 500;\n  font-family: PingFang SC;\n}\n.TopKanban .red-num {\n  color: #fc2626;\n  font-weight: 600;\n}\n.TopKanban .blue-num {\n  color: #14d23e;\n  font-weight: 600;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/TopKanban.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/TopKanban.vue"],"names":[],"mappings":"AA4EA;EACE,kBAAA;EACA,WAAA;EACA,SAAA;EACA,2BAAA;EACA,aAAA;EAEA,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,UAAA;AC5EF;ADkEA;EAcI,mFAAA;EAEA,aAAA;EACA,aAAA;EACA,6BAAA;EACA,gCAAA;EAEA,qBAAA;AC/EJ;AD0DA;EAuBM,aAAA;AC9EN;ADuDA;EA0BM,gBAAA;EACA,gBAAA;EACA,gCAAA;EACA,gBAAA;AC9EN;ADiDA;EAgCM,gBAAA;EACA,gBAAA;EACA,WAAA;AC9EN;AD4CA;EAsCI,gBAAA;EACA,gBAAA;EACA,gBAAA;EACA,wBAAA;AC/EJ;ADsCA;EA4CI,cAAA;EACA,gBAAA;AC/EJ;ADkCA;EAgDI,cAAA;EACA,gBAAA;AC/EJ","file":"TopKanban.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.TopKanban {\n  position: absolute;\n  top: 140rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 800rem;\n  // height: 130rem;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n  // border: 1px solid #fff;\n\n  .card_kanban {\n    background: url(~@/assets/fbjsc/icon.png) left center/contain no-repeat;\n    // border: 1px solid red;\n    width: 150rem;\n    display: grid;\n    grid-template-rows: 18rem 1fr;\n    grid-template-columns: 52rem 1fr;\n    // grid-row-gap: 0;\n    grid-column-gap: 4rem;\n    .card_img {\n      grid-row: 1/3;\n    }\n    .card_name {\n      font-size: 13rem;\n      font-weight: 400;\n      color: rgba(255, 255, 255, 0.74);\n      margin-top: 2rem;\n    }\n    .card_num {\n      font-size: 23rem;\n      font-weight: 900;\n      color: #fff;\n    }\n  }\n  .percent_num {\n    margin-top: 6rem;\n    font-size: 16rem;\n    font-weight: 500;\n    font-family: PingFang SC;\n  }\n  .red-num {\n    color: #fc2626;\n    font-weight: 600;\n  }\n  .blue-num {\n    color: #14d23e;\n    font-weight: 600;\n  }\n}\n",".TopKanban {\n  position: absolute;\n  top: 140rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 800rem;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n}\n.TopKanban .card_kanban {\n  background: url(~@/assets/fbjsc/icon.png) left center / contain no-repeat;\n  width: 150rem;\n  display: grid;\n  grid-template-rows: 18rem 1fr;\n  grid-template-columns: 52rem 1fr;\n  grid-column-gap: 4rem;\n}\n.TopKanban .card_kanban .card_img {\n  grid-row: 1/3;\n}\n.TopKanban .card_kanban .card_name {\n  font-size: 13rem;\n  font-weight: 400;\n  color: rgba(255, 255, 255, 0.74);\n  margin-top: 2rem;\n}\n.TopKanban .card_kanban .card_num {\n  font-size: 23rem;\n  font-weight: 900;\n  color: #fff;\n}\n.TopKanban .percent_num {\n  margin-top: 6rem;\n  font-size: 16rem;\n  font-weight: 500;\n  font-family: PingFang SC;\n}\n.TopKanban .red-num {\n  color: #fc2626;\n  font-weight: 600;\n}\n.TopKanban .blue-num {\n  color: #14d23e;\n  font-weight: 600;\n}\n"]}]);
+exports.push([module.i, ".TopKanban {\n  position: absolute;\n  top: 140rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 36%;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n}\n.TopKanban .card_kanban {\n  background: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ") left center / contain no-repeat;\n  width: 150rem;\n  display: grid;\n  grid-template-rows: 18rem 1fr;\n  grid-template-columns: 52rem 1fr;\n  grid-column-gap: 4rem;\n}\n.TopKanban .card_kanban .card_img {\n  grid-row: 1/3;\n}\n.TopKanban .card_kanban .card_name {\n  font-size: 13rem;\n  font-weight: 400;\n  color: rgba(255, 255, 255, 0.74);\n  margin-top: 2rem;\n}\n.TopKanban .card_kanban .card_num {\n  font-size: 23rem;\n  font-weight: 900;\n  color: #fff;\n}\n.TopKanban .percent_num {\n  margin-top: 6rem;\n  font-size: 16rem;\n  font-weight: 500;\n  font-family: PingFang SC;\n}\n.TopKanban .red-num {\n  color: #fc2626;\n  font-weight: 600;\n}\n.TopKanban .blue-num {\n  color: #14d23e;\n  font-weight: 600;\n}\n", "",{"version":3,"sources":["C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/TopKanban.vue","C:/Users/Administrator/Desktop/hangzhou/fbjsc/src/views/TopKanban.vue"],"names":[],"mappings":"AAsHA;EACE,kBAAA;EACA,WAAA;EACA,SAAA;EACA,2BAAA;EACA,UAAA;EAEA,aAAA;EACA,mBAAA;EACA,8BAAA;EACA,UAAA;ACtHF;AD4GA;EAcI,mFAAA;EAEA,aAAA;EACA,aAAA;EACA,6BAAA;EACA,gCAAA;EAEA,qBAAA;ACzHJ;ADoGA;EAuBM,aAAA;ACxHN;ADiGA;EA0BM,gBAAA;EACA,gBAAA;EACA,gCAAA;EACA,gBAAA;ACxHN;AD2FA;EAgCM,gBAAA;EACA,gBAAA;EACA,WAAA;ACxHN;ADsFA;EAsCI,gBAAA;EACA,gBAAA;EACA,gBAAA;EACA,wBAAA;ACzHJ;ADgFA;EA4CI,cAAA;EACA,gBAAA;ACzHJ;AD4EA;EAgDI,cAAA;EACA,gBAAA;ACzHJ","file":"TopKanban.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.TopKanban {\n  position: absolute;\n  top: 140rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 36%;\n  // height: 130rem;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n  // border: 1px solid #fff;\n\n  .card_kanban {\n    background: url(~@/assets/fbjsc/icon.png) left center/contain no-repeat;\n    // border: 1px solid red;\n    width: 150rem;\n    display: grid;\n    grid-template-rows: 18rem 1fr;\n    grid-template-columns: 52rem 1fr;\n    // grid-row-gap: 0;\n    grid-column-gap: 4rem;\n    .card_img {\n      grid-row: 1/3;\n    }\n    .card_name {\n      font-size: 13rem;\n      font-weight: 400;\n      color: rgba(255, 255, 255, 0.74);\n      margin-top: 2rem;\n    }\n    .card_num {\n      font-size: 23rem;\n      font-weight: 900;\n      color: #fff;\n    }\n  }\n  .percent_num {\n    margin-top: 6rem;\n    font-size: 16rem;\n    font-weight: 500;\n    font-family: PingFang SC;\n  }\n  .red-num {\n    color: #fc2626;\n    font-weight: 600;\n  }\n  .blue-num {\n    color: #14d23e;\n    font-weight: 600;\n  }\n}\n",".TopKanban {\n  position: absolute;\n  top: 140rem;\n  left: 50%;\n  transform: translateX(-50%);\n  width: 36%;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 30rem;\n}\n.TopKanban .card_kanban {\n  background: url(~@/assets/fbjsc/icon.png) left center / contain no-repeat;\n  width: 150rem;\n  display: grid;\n  grid-template-rows: 18rem 1fr;\n  grid-template-columns: 52rem 1fr;\n  grid-column-gap: 4rem;\n}\n.TopKanban .card_kanban .card_img {\n  grid-row: 1/3;\n}\n.TopKanban .card_kanban .card_name {\n  font-size: 13rem;\n  font-weight: 400;\n  color: rgba(255, 255, 255, 0.74);\n  margin-top: 2rem;\n}\n.TopKanban .card_kanban .card_num {\n  font-size: 23rem;\n  font-weight: 900;\n  color: #fff;\n}\n.TopKanban .percent_num {\n  margin-top: 6rem;\n  font-size: 16rem;\n  font-weight: 500;\n  font-family: PingFang SC;\n}\n.TopKanban .red-num {\n  color: #fc2626;\n  font-weight: 600;\n}\n.TopKanban .blue-num {\n  color: #14d23e;\n  font-weight: 600;\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -335,6 +329,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _views_Right__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./views/Right */ "./src/views/Right.vue");
 /* harmony import */ var _views_TopKanban__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./views/TopKanban */ "./src/views/TopKanban.vue");
 /* harmony import */ var _views_BottomKanban__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./views/BottomKanban */ "./src/views/BottomKanban.vue");
+/* harmony import */ var _axios_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @/axios.js */ "./src/axios.js");
 //
 //
 //
@@ -440,6 +435,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+
+let apiUrl = "https://cube.yucekj.com/api/cubeMockApi/getContent?bizCode=";
+if (false) {}
 /* harmony default export */ __webpack_exports__["default"] = ({
   components: {
     Left: _views_Left__WEBPACK_IMPORTED_MODULE_1__["default"],
@@ -450,10 +448,14 @@ __webpack_require__.r(__webpack_exports__);
   data() {
     return {
       dayValue: "",
-      timeValue: ""
+      timeValue: "",
+      dataList: []
     };
   },
   methods: {
+    axiosRquest(path) {
+      return _axios_js__WEBPACK_IMPORTED_MODULE_5__["default"].get(apiUrl + path);
+    },
     pageTo() {
       window.open("https://www.baidu.com");
     },
@@ -476,10 +478,14 @@ __webpack_require__.r(__webpack_exports__);
       setInterval(() => {
         this.timeValue = dayjs__WEBPACK_IMPORTED_MODULE_0___default()().format("HH:mm:ss");
       }, 1000);
+    },
+    async getKanbanData() {
+      this.dataList = await this.axiosRquest("zs_vio_equip_total_ol");
     }
   },
   created() {
     this.getTime();
+    this.getKanbanData();
   },
   mounted() {
     this.computedREM();
@@ -520,49 +526,97 @@ __webpack_require__.r(__webpack_exports__);
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
+  props: ["dataList"],
   data() {
     return {
-      kanbanList: [{
-        name: "审查数",
-        num: "73712",
-        lastWeek: 10,
-        lastDay: -10
-      }, {
-        name: "审验率",
-        num: "73712",
-        lastWeek: 10,
-        lastDay: -10
-      }, {
-        name: "录入数",
-        num: "73712",
-        lastWeek: 10,
-        lastDay: -10
-      }, {
-        name: "录入数",
-        num: "73712",
-        lastWeek: 10,
-        lastDay: -10
-      }]
+      kanbanList: [
+        /* {
+          name: "审验数",
+          num: "73712",
+          lastWeek: 10,
+          lastDay: -10,
+        },
+        {
+          name: "审验率",
+          num: "73712",
+          lastWeek: 10,
+          lastDay: -10,
+        },
+        {
+          name: "录入数",
+          num: "73712",
+          lastWeek: 10,
+          lastDay: -10,
+        },
+        {
+          name: "录入率",
+          num: "73712",
+          lastWeek: 10,
+          lastDay: -10,
+        }, */
+      ]
     };
   },
   methods: {
-    formatter(n = 0) {
+    formatter(n = 0, name) {
       const regex = /\d{1,3}(?=(\d{3})+(\.|$))/g; // 替换规则
       n = String(Math.round(n * Math.pow(10, 2))); // 乘100 四舍五入
       let integer = n.substr(0, n.length - 2).replace(regex, "$&,"); // 最后两位前的为整数
       // let decimal = n.substr(n.length - 2) // 最后两位为小数
-      const result = `${integer || 0}`;
+      let result = `${integer || 0}`;
       // const result = `${integer || 0}.${decimal}`
+      if (name == "审验率" || name == "录入率") {
+        result = result + "%";
+      }
       return result;
+    },
+    takeChange() {
+      this.$nextTick(() => {
+        this.kanbanList.forEach((e, i) => {
+          this.$refs["myNum" + i][0].reset("0", e.num);
+          this.$refs["myNum" + i][0].start();
+        });
+      });
+    }
+  },
+  watch: {
+    dataList: {
+      handler(newVal) {
+        if (newVal.length > 0) {
+          this.kanbanList = [{
+            name: "审验数",
+            num: newVal.find(e => e.tag == 5).cnt,
+            lastWeek: parseInt(newVal.find(e => e.tag == 5).rhb * 100),
+            lastDay: parseInt(newVal.find(e => e.tag == 5).ztb * 100)
+          }, {
+            name: "审验率",
+            num: parseInt(newVal.find(e => e.tag == 6).cnt * 100),
+            lastWeek: parseInt(newVal.find(e => e.tag == 6).rhb * 100),
+            lastDay: parseInt(newVal.find(e => e.tag == 6).ztb * 100)
+          }, {
+            name: "录入数",
+            num: newVal.find(e => e.tag == 7).cnt,
+            lastWeek: parseInt(newVal.find(e => e.tag == 7).rhb * 100),
+            lastDay: parseInt(newVal.find(e => e.tag == 7).ztb * 100)
+          }, {
+            name: "录入率",
+            num: parseInt(newVal.find(e => e.tag == 8).cnt * 100),
+            lastWeek: parseInt(newVal.find(e => e.tag == 8).rhb * 100),
+            lastDay: parseInt(newVal.find(e => e.tag == 8).ztb * 100)
+          }];
+          this.takeChange();
+        }
+      },
+      immediate: true
     }
   },
   created() {
-    this.$nextTick(() => {
+    /*  this.$nextTick(() => {
       this.kanbanList.forEach((e, i) => {
-        this.$refs["myNum" + i][0].reset("0", e.num);
-        this.$refs["myNum" + i][0].start();
-      });
-    });
+        this.$refs["myNum" + i][0].reset("0", e.num)
+        this.$refs["myNum" + i][0].start()
+      })
+    }) */
   }
 });
 
@@ -578,27 +632,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var echarts__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! echarts */ "./node_modules/echarts/index.js");
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+/* harmony import */ var _axios_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/axios.js */ "./src/axios.js");
 //
 //
 //
@@ -666,54 +700,62 @@ __webpack_require__.r(__webpack_exports__);
 //
 
 
+
+let apiUrl = "https://cube.yucekj.com/api/cubeMockApi/getContent?bizCode=";
+if (false) {}
 /* harmony default export */ __webpack_exports__["default"] = ({
   data() {
     return {
       sortOne: "1",
       sortThree: "1",
-      selectThree: "1",
-      carList: [{
-        num: 8,
-        name: "小型新能源汽车",
-        plateId: "浙LDA2778"
+      selectThree: "0",
+      cardThree: [{
+        xh: 0,
+        sm_cnt: 100,
+        xzqhmc: "全部1"
       }, {
-        num: 11,
-        name: "小型新能源汽车",
-        plateId: "浙LDA2778"
+        xh: 1,
+        sm_cnt: 100,
+        xzqhmc: "全部2"
       }, {
-        num: 4,
-        name: "小型新能源汽车",
-        plateId: "浙LDA2778"
+        xh: 2,
+        sm_cnt: 100,
+        xzqhmc: "全部3"
       }, {
-        num: 4,
-        name: "小型新能源汽车",
-        plateId: "浙LDA2778"
+        xh: 3,
+        sm_cnt: 100,
+        xzqhmc: "全部4"
       }, {
-        num: 4,
-        name: "小型新能源汽车",
-        plateId: "浙LDA2778"
-      }, {
-        num: 4,
-        name: "小型新能源汽车",
-        plateId: "浙LDA2778"
-      }, {
-        num: 4,
-        name: "小型新能源汽车",
-        plateId: "浙LDA2778"
-      }, {
-        num: 4,
-        name: "小型新能源汽车",
-        plateId: "浙LDA2778"
-      }, {
-        num: 4,
-        name: "小型新能源汽车",
-        plateId: "浙LDA2778"
-      }]
+        xh: 4,
+        sm_cnt: 100,
+        xzqhmc: "全部5"
+      }],
+      currentCard: {},
+      carList: [
+        /* { num: 8, name: "小型新能源汽车", plateId: "浙LDA2778" },
+        { num: 11, name: "小型新能源汽车", plateId: "浙LDA2778" },
+        { num: 4, name: "小型新能源汽车", plateId: "浙LDA2778" },
+        { num: 4, name: "小型新能源汽车", plateId: "浙LDA2778" },
+        { num: 4, name: "小型新能源汽车", plateId: "浙LDA2778" },
+        { num: 4, name: "小型新能源汽车", plateId: "浙LDA2778" },
+        { num: 4, name: "小型新能源汽车", plateId: "浙LDA2778" },
+        { num: 4, name: "小型新能源汽车", plateId: "浙LDA2778" },
+        { num: 4, name: "小型新能源汽车", plateId: "浙LDA2778" }, */
+      ]
     };
   },
   methods: {
+    axiosRquest(path) {
+      return _axios_js__WEBPACK_IMPORTED_MODULE_1__["default"].get(apiUrl + path);
+    },
     sortChange(chartType, btnType) {
       this[chartType] = btnType;
+      if (chartType == "sortOne") {
+        this.getChart1();
+      }
+      if (chartType == "sortThree" || chartType == "selectThree") {
+        this.getChart2();
+      }
     },
     formatter(n = 0) {
       const regex = /\d{1,3}(?=(\d{3})+(\.|$))/g; // 替换规则
@@ -724,7 +766,58 @@ __webpack_require__.r(__webpack_exports__);
       // const result = `${integer || 0}.${decimal}`
       return result;
     },
-    getChart1() {
+    cardChange(v) {
+      console.log(v);
+      this.currentCard = v;
+    },
+    async getCarData() {
+      let res = await this.axiosRquest("zs_vio_vehicle_many_time_ol");
+      // console.log("getCarData", res)
+      let arr = new Map();
+      for (let index = 0; index < res.length; index++) {
+        const element = res[index];
+        let obj = {
+          out_rk: element.out_rk,
+          num: element.wfcs,
+          name: element.hpzlmc,
+          plateId: element.hphm,
+          children: [{
+            in_rk: element.in_rk,
+            belong: element.syr,
+            phone: element.lxdh,
+            against: element.wfxw,
+            addr: element.wfdd,
+            time: element.wfsj
+          }]
+        };
+        if (arr.has(element.out_rk)) {
+          obj = arr.get(element.out_rk);
+          obj.children.push({
+            in_rk: element.in_rk,
+            belong: element.syr,
+            phone: element.lxdh,
+            against: element.wfxw,
+            addr: element.wfdd,
+            time: element.wfsj
+          });
+        }
+        arr.set(element.out_rk, obj);
+      }
+      this.carList = Array.from(arr.values());
+      // console.log(arr, this.carList)
+    },
+
+    async getChart1() {
+      let path;
+      if (this.sortOne == "1") {
+        path = "zs_vio_equip_use_rate_desc_ol";
+      } else {
+        path = "zs_vio_equip_use_rate_asc_ol";
+      }
+      let res = await this.axiosRquest(path);
+      res = res.sort((a, b) => a.rk - b.rk);
+      // console.log("getChart1", res)
+
       const offsetX = 10; //bar宽
       const offsetY = 5; // 顶部菱形倾斜角度 (bar宽度的一半)
       // 绘制左侧面
@@ -775,9 +868,15 @@ __webpack_require__.r(__webpack_exports__);
       echarts__WEBPACK_IMPORTED_MODULE_0__["graphic"].registerShape("CubeLeft", CubeLeft);
       echarts__WEBPACK_IMPORTED_MODULE_0__["graphic"].registerShape("CubeRight", CubeRight);
       echarts__WEBPACK_IMPORTED_MODULE_0__["graphic"].registerShape("CubeTop", CubeTop);
-      let xAxisData = ["定海大道A口", "定海大道B口", "定海大道C口", "定海大道D口", "定海大道E口", "定海大道F口", "定海大道G口", "定海大道H口", "定海大道I口", "定海大道J口"];
-      let seriesData = [20, 45, 80, 46, 57, 94, 54, 35, 66, 14];
-      let seriesData2 = [202, 425, 80, 46, 57, 94, 54, 35, 66, 14];
+
+      // let xAxisData = ["定海大道A口", "定海大道B口", "定海大道C口", "定海大道D口", "定海大道E口", "定海大道F口", "定海大道G口", "定海大道H口", "定海大道I口", "定海大道J口"]
+      let xAxisData = res.map(e => e.sbmc);
+      let seriesData1 = res.map(e => e.cjs);
+      let seriesData2 = res.map(e => e.lrs);
+      let seriesData3 = res.map(e => parseInt(e.cjl * 100));
+      let seriesData4 = res.map(e => "_" + e.sbbh);
+      let seriesData5 = res.map(e => e.sblx);
+
       // 蓝色渐变
       let colorArr = [["rgba(0, 114, 221, 1)", "rgba(129, 228, 255, 1)"], ["rgba(0, 147, 221, 1)", "rgba(0, 88, 255, 0.2)"], ["rgba(0, 107, 188, 1)", "rgba(1, 56, 222, 0.2)"]];
       let option = {
@@ -791,11 +890,11 @@ __webpack_require__.r(__webpack_exports__);
           padding: 0,
           position: ["100%", "0%"],
           formatter: function (params, ticket, callback) {
-            console.log("params", params);
+            // console.log("params", params)
             const item = params[0];
             let bg = __webpack_require__(/*! @/assets/fbjsc/tankuang_head.png */ "./src/assets/fbjsc/tankuang_head.png");
             let dom = `
-            <div 
+            <div
               style="
               background: url(${bg}) top center/contain no-repeat, #000;
               width: 339rem;
@@ -811,12 +910,12 @@ __webpack_require__.r(__webpack_exports__);
                 font-size: 18rem;
                 font-weight: 600;"
               >
-                <span>${item.name}</span>
+                <span>${item.name.length > 12 ? item.name.slice(0, 12) + "..." : item.name}</span>
                 <span style="">
                   ${item.value}%
                 </span>
               </div>
-              <div 
+              <div
                 style="padding: 10rem;
                 gap: 5rem;
                 display: flex;
@@ -831,8 +930,8 @@ __webpack_require__.r(__webpack_exports__);
                   font-size: 16rem;
                   font-weight: 400;
                   padding-left: 10rem;">
-                采集数量：123123213</div>
-                <div 
+                设备编号：${params[3].value.slice(1)}</div>
+                <div
                   style="display: flex;
                   align-items: center;
                   background: rgba(0, 170, 255, 0.3);
@@ -840,7 +939,25 @@ __webpack_require__.r(__webpack_exports__);
                   font-size: 16rem;
                   font-weight: 400;
                   padding-left: 10rem;">
-                  正式违法数量：123123123</div>
+                设备类型：${params[4].value}</div>
+                <div
+                  style="display: flex;
+                  align-items: center;
+                  background: rgba(0, 170, 255, 0.3);
+                  height: 32rem;
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                采集数量：${params[1].value}</div>
+                <div
+                  style="display: flex;
+                  align-items: center;
+                  background: rgba(0, 170, 255, 0.3);
+                  height: 32rem;
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                  正式违法数量：${params[2].value}</div>
               </div>
             </div>
             `;
@@ -876,23 +993,23 @@ __webpack_require__.r(__webpack_exports__);
           axisLabel: {
             fontSize: 12,
             interval: 0,
-            color: "rgba(255, 255, 255, 0.6)",
+            color: "#fff",
             // 使用函数模板，函数参数分别为刻度数值（类目），刻度的索引
-            /* formatter: function (value) {
-              const length = value.length
-              if (length > 3) {
-                const start = Math.floor(length / 2)
-                const str = value.slice(0, start) + "\n" + value.slice(start, length)
-                return str
+            formatter: function (value) {
+              const length = value.length;
+              if (length > 5) {
+                const str = value.slice(0, 5) + "...";
+                return str;
               }
-              return value
-            }, */
+              return value;
+            },
             rotate: 45
           }
         },
         yAxis: {
           type: "value",
           minInterval: 1,
+          max: 100,
           // y轴（竖直线）
           axisLine: {
             show: false
@@ -989,13 +1106,31 @@ __webpack_require__.r(__webpack_exports__);
               }]
             };
           },
-          data: seriesData
+          data: seriesData3
         }, {
           type: "bar",
           itemStyle: {
             color: "transparent"
           },
-          data: seriesData
+          data: seriesData1
+        }, {
+          type: "bar",
+          itemStyle: {
+            color: "transparent"
+          },
+          data: seriesData2
+        }, {
+          type: "bar",
+          itemStyle: {
+            color: "transparent"
+          },
+          data: seriesData4
+        }, {
+          type: "bar",
+          itemStyle: {
+            color: "transparent"
+          },
+          data: seriesData5
         }]
       };
       if (!this._myChart1) {
@@ -1003,7 +1138,55 @@ __webpack_require__.r(__webpack_exports__);
       }
       this._myChart1.setOption(option);
     },
-    getChart2() {
+    async getChart2() {
+      let path;
+      if (this.sortThree == "1") {
+        path = "zs_vio_area_many_time_desc_ol";
+      } else {
+        path = "zs_vio_area_many_time_asc_ol";
+      }
+      let res = await this.axiosRquest(path);
+      // res = res.sort((a, b) => a.wf_cnt - b.wf_cnt)
+      // console.log("getChart2", res)
+
+      // selectThree
+      let data = res.filter(e => e.xh == this.selectThree);
+      let arr = new Map();
+      for (let index = 0; index < data.length; index++) {
+        const element = data[index];
+        let obj = {
+          name: element.wfxw,
+          wf_cnt: element.wf_cnt,
+          children: [{
+            rk1: element.rk1,
+            sbmc: element.sbmc,
+            wfxh: element.wfxh
+          }]
+        };
+        if (arr.has(element.rk)) {
+          obj = arr.get(element.rk);
+          obj.children.push({
+            rk1: element.rk1,
+            sbmc: element.sbmc,
+            wfxh: element.wfxh
+          });
+        }
+        arr.set(element.rk, obj);
+      }
+      if (this.sortThree == "1") {
+        data = Array.from(arr.values()).sort((a, b) => b.wf_cnt - a.wf_cnt);
+      } else {
+        data = Array.from(arr.values()).sort((a, b) => a.wf_cnt - b.wf_cnt);
+      }
+      // console.log("data", data)
+
+      this.cardThree = [res.find(e => e.xh == 0), res.find(e => e.xh == 1), res.find(e => e.xh == 2), res.find(e => e.xh == 3), res.find(e => e.xh == 4)];
+      this.$nextTick(() => {
+        this.cardThree.forEach(e => {
+          this.$refs["myNum" + e.xh][0].reset("0", e.sm_cnt + "");
+          this.$refs["myNum" + e.xh][0].start();
+        });
+      });
       const offsetX = 10; //bar宽
       const offsetY = 5; // 顶部菱形倾斜角度 (bar宽度的一半)
       // 绘制左侧面
@@ -1054,8 +1237,9 @@ __webpack_require__.r(__webpack_exports__);
       echarts__WEBPACK_IMPORTED_MODULE_0__["graphic"].registerShape("CubeLeft", CubeLeft);
       echarts__WEBPACK_IMPORTED_MODULE_0__["graphic"].registerShape("CubeRight", CubeRight);
       echarts__WEBPACK_IMPORTED_MODULE_0__["graphic"].registerShape("CubeTop", CubeTop);
-      let xAxisData = ["闯红灯", "未系安全带", "非法停车", "禁闯", "占用车道"];
-      let seriesData = [20, 45, 60, 10, 20];
+      let xAxisData = data.map(e => e.name);
+      let seriesData = data.map(e => e.wf_cnt);
+      let seriesData2 = data.map(e => JSON.stringify(e.children));
       // 蓝色渐变
       let colorArr = [["rgba(0, 114, 221, 1)", "rgba(129, 228, 255, 1)"], ["rgba(0, 147, 221, 1)", "rgba(0, 88, 255, 0.2)"], ["rgba(0, 107, 188, 1)", "rgba(1, 56, 222, 0.2)"]];
       let option = {
@@ -1064,9 +1248,102 @@ __webpack_require__.r(__webpack_exports__);
           axisPointer: {
             type: "shadow"
           },
+          borderWidth: 0,
+          borderRadius: 0,
+          padding: 0,
+          position: ["100%", "0%"],
           formatter: function (params, ticket, callback) {
-            const item = params[1];
-            return item.name + " : " + item.value;
+            var _child$, _child$2, _child$3, _child$4, _child$5, _child$6, _child$7, _child$8, _child$9, _child$10, _child$11, _child$12, _child$13, _child$14, _child$15, _child$16, _child$17, _child$18, _child$19, _child$20, _child$21, _child$22, _child$23, _child$24, _child$25, _child$26, _child$27, _child$28, _child$29, _child$30;
+            // console.log("params", params)
+            const item = params[0];
+            const child = JSON.parse(params[2].value);
+            let bg = __webpack_require__(/*! @/assets/fbjsc/tankuang_head.png */ "./src/assets/fbjsc/tankuang_head.png");
+            let icon1 = __webpack_require__(/*! @/assets/fbjsc/1.png */ "./src/assets/fbjsc/1.png");
+            let icon2 = __webpack_require__(/*! @/assets/fbjsc/2.png */ "./src/assets/fbjsc/2.png");
+            let icon3 = __webpack_require__(/*! @/assets/fbjsc/3.png */ "./src/assets/fbjsc/3.png");
+            let dom = `
+            <div
+              style="
+              background: url(${bg}) top center/contain no-repeat, #000;
+              width: 339rem;
+              border-bottom: 2rem solid #00a2ff;">
+              <div
+                style="display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding-left: 25rem;
+                padding-right: 10rem;
+                height: 49rem;
+                color: #fff;
+                font-size: 18rem;
+                font-weight: 600;"
+              >
+                <span>${item.name.length > 14 ? item.name.slice(0, 14) + "..." : item.name}</span>
+                <span style="">
+                  ${item.value}
+                </span>
+              </div>
+              <div
+                style="padding: 10rem;
+                gap: 5rem;
+                display: flex;
+                color: #fff;
+                flex-direction: column;"
+              >
+                <div
+                  style="
+                  display: grid;
+                  grid-template-columns: 38rem 1fr;
+                  grid-template-rows: 30rem 25rem;
+                  background: rgba(0, 170, 255, 0.3);
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                  <div style="margin-top:10rem;margin-right:10rem;grid-row: 1/3;background: url(${icon1}) top center/contain no-repeat;"></div>
+                  <div style="margin-top:5rem;">地点：
+                  ${(_child$ = child[0]) !== null && _child$ !== void 0 && _child$.sbmc && ((_child$2 = child[0]) === null || _child$2 === void 0 ? void 0 : _child$2.sbmc.length) > 12 ? ((_child$3 = child[0]) === null || _child$3 === void 0 ? void 0 : _child$3.sbmc.slice(0, 12)) + "..." : (_child$4 = child[0]) !== null && _child$4 !== void 0 && _child$4.sbmc ? (_child$5 = child[0]) === null || _child$5 === void 0 ? void 0 : _child$5.sbmc : "-"}
+                  </div>
+                  <div>时间：
+                  ${(_child$6 = child[0]) !== null && _child$6 !== void 0 && _child$6.wfxh && ((_child$7 = child[0]) === null || _child$7 === void 0 ? void 0 : _child$7.wfxh.length) > 18 ? ((_child$8 = child[0]) === null || _child$8 === void 0 ? void 0 : _child$8.wfxh.slice(0, 18)) + "..." : (_child$9 = child[0]) !== null && _child$9 !== void 0 && _child$9.wfxh ? (_child$10 = child[0]) === null || _child$10 === void 0 ? void 0 : _child$10.wfxh : "-"}
+                  </div>
+                </div>
+                <div
+                  style="
+                  display: grid;
+                  grid-template-columns: 38rem 1fr;
+                  grid-template-rows: 25rem 25rem;
+                  background: rgba(0, 170, 255, 0.3);
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                  <div style="margin-top:10rem;margin-right:10rem;grid-row: 1/3;background: url(${icon2}) top center/contain no-repeat;"></div>
+                  <div style="margin-top:5rem;">地点：
+                  ${(_child$11 = child[1]) !== null && _child$11 !== void 0 && _child$11.sbmc && ((_child$12 = child[1]) === null || _child$12 === void 0 ? void 0 : _child$12.sbmc.length) > 12 ? ((_child$13 = child[1]) === null || _child$13 === void 0 ? void 0 : _child$13.sbmc.slice(0, 12)) + "..." : (_child$14 = child[1]) !== null && _child$14 !== void 0 && _child$14.sbmc ? (_child$15 = child[1]) === null || _child$15 === void 0 ? void 0 : _child$15.sbmc : "-"}
+                  </div>
+                  <div>时间：
+                  ${(_child$16 = child[1]) !== null && _child$16 !== void 0 && _child$16.wfxh && ((_child$17 = child[1]) === null || _child$17 === void 0 ? void 0 : _child$17.wfxh.length) > 18 ? ((_child$18 = child[1]) === null || _child$18 === void 0 ? void 0 : _child$18.wfxh.slice(0, 18)) + "..." : (_child$19 = child[1]) !== null && _child$19 !== void 0 && _child$19.wfxh ? (_child$20 = child[1]) === null || _child$20 === void 0 ? void 0 : _child$20.wfxh : "-"}
+                  </div>
+                </div>
+                <div
+                  style="
+                  display: grid;
+                  grid-template-columns: 38rem 1fr;
+                  grid-template-rows: 25rem 25rem;
+                  background: rgba(0, 170, 255, 0.3);
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                  <div style="margin-top:10rem;margin-right:10rem;grid-row: 1/3;background: url(${icon3}) top center/contain no-repeat;"></div>
+                  <div style="margin-top:5rem;">地点：
+                  ${(_child$21 = child[2]) !== null && _child$21 !== void 0 && _child$21.sbmc && ((_child$22 = child[2]) === null || _child$22 === void 0 ? void 0 : _child$22.sbmc.length) > 12 ? ((_child$23 = child[2]) === null || _child$23 === void 0 ? void 0 : _child$23.sbmc.slice(0, 12)) + "..." : (_child$24 = child[2]) !== null && _child$24 !== void 0 && _child$24.sbmc ? (_child$25 = child[2]) === null || _child$25 === void 0 ? void 0 : _child$25.sbmc : "-"}
+                  </div>
+                  <div>时间：
+                  ${(_child$26 = child[2]) !== null && _child$26 !== void 0 && _child$26.wfxh && ((_child$27 = child[2]) === null || _child$27 === void 0 ? void 0 : _child$27.wfxh.length) > 18 ? ((_child$28 = child[2]) === null || _child$28 === void 0 ? void 0 : _child$28.wfxh.slice(0, 18)) + "..." : (_child$29 = child[2]) !== null && _child$29 !== void 0 && _child$29.wfxh ? (_child$30 = child[2]) === null || _child$30 === void 0 ? void 0 : _child$30.wfxh : "-"}
+                  </div>
+                </div>
+            </div>
+            `;
+            return dom;
           }
         },
         grid: {
@@ -1086,23 +1363,20 @@ __webpack_require__.r(__webpack_exports__);
             show: false
           },
           axisLabel: {
-            fontSize: 14,
+            fontSize: 12,
             interval: 0,
-            color: "#fff"
-            // 使用函数模板，函数参数分别为刻度数值（类目），刻度的索引
-            /* formatter: function (value) {
-              const length = value.length
-              if (length > 3) {
-                const start = Math.floor(length / 2)
-                const str = value.slice(0, start) + "\n" + value.slice(start, length)
-                return str
+            color: "#fff",
+            formatter: function (value) {
+              const length = value.length;
+              if (length > 5) {
+                const str = value.slice(0, 5) + "...";
+                return str;
               }
-              return value
-            }, */
-            // rotate: 45,
+              return value;
+            },
+            rotate: 45
           }
         },
-
         yAxis: {
           type: "value",
           minInterval: 1,
@@ -1206,23 +1480,16 @@ __webpack_require__.r(__webpack_exports__);
           data: seriesData
         }, {
           type: "bar",
-          label: {
-            /* normal: {
-              show: true,
-              position: "top",
-              formatter: e => {
-                return e.value
-              },
-              fontSize: 16,
-              color: "#43C4F1",
-              offset: [0, -5],
-            }, */
-          },
           itemStyle: {
             color: "transparent"
           },
-          tooltip: {},
           data: seriesData
+        }, {
+          type: "bar",
+          itemStyle: {
+            color: "transparent"
+          },
+          data: seriesData2
         }]
       };
       if (!this._myChart2) {
@@ -1235,21 +1502,19 @@ __webpack_require__.r(__webpack_exports__);
     this.$nextTick(() => {
       this.getChart1();
       this.getChart2();
-      ["123", "523", "1233", "123", "1223"].forEach((e, i) => {
-        this.$refs["myNum" + (i + 1)].reset("0", e);
-        this.$refs["myNum" + (i + 1)].start();
-      });
     });
+    this.getCarData();
   },
   mounted() {
     let change = () => {
       if (this._myChart1) {
-        this._myChart1.resize();
-        this._myChart2.resize();
+        setTimeout(() => {
+          this._myChart1.resize();
+          this._myChart2.resize();
+        }, 200);
       }
     };
-    change();
-    window.addEventListener("resize", change, false); // 固定写法
+    window.addEventListener("resize", change); // 固定写法
   }
 });
 
@@ -1265,6 +1530,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var echarts__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! echarts */ "./node_modules/echarts/index.js");
+/* harmony import */ var _axios_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/axios.js */ "./src/axios.js");
 //
 //
 //
@@ -1315,70 +1581,63 @@ __webpack_require__.r(__webpack_exports__);
 //
 
 
+
+let apiUrl = "https://cube.yucekj.com/api/cubeMockApi/getContent?bizCode=";
+if (false) {}
 /* harmony default export */ __webpack_exports__["default"] = ({
   data() {
     return {
       sortType: "1",
-      filterType: "1",
-      pieLegend: [{
-        name: "普陀区管委",
-        percent: "20%",
-        count: "123.54",
-        color: "#00A2FF"
-      }, {
-        name: "普陀区",
-        percent: "20%",
-        count: "123.54",
-        color: "#FC2626"
-      }, {
-        name: "新城区",
-        percent: "20%",
-        count: "123.54",
-        color: "#14D23E"
-      }, {
-        name: "定海区",
-        percent: "20%",
-        count: "123.54",
-        color: "#ED6701"
-      }]
+      // filterType: "1",
+      threeChartNum: [],
+      threeDdata: [
+        /*  { name: "普陀区管委", percent: "20%", count: "123.54", color: "#00A2FF" },
+        { name: "普陀区", percent: "20%", count: "123.54", color: "#FC2626" },
+        { name: "新城区", percent: "20%", count: "123.54", color: "#14D23E" },
+        { name: "定海区", percent: "20%", count: "123.54", color: "#ED6701" }, */
+      ]
     };
   },
   methods: {
+    axiosRquest(path) {
+      return _axios_js__WEBPACK_IMPORTED_MODULE_1__["default"].get(apiUrl + path);
+    },
     sortChange(chartType, btnType) {
       this[chartType] = btnType;
+      if (chartType == "sortType") {
+        this.getChart4();
+      }
     },
-    get3Dpie() {
+    async get3Dpie() {
+      let res = await this.axiosRquest("zs_acd_many_area_time_ol");
+      // console.log("get3Dpie", res)
+
+      let colorList = ["rgba(0, 162, 255, 1)", "rgba(255, 71, 128, 1)", "rgba(20, 210, 62, 1)", "rgba(237, 103, 1, 1)", "rgba(253, 231, 1, 1)"];
+      let data = res.map((e, i) => {
+        return {
+          name: e.xzqh,
+          value: e.sgzb * 100,
+          itemStyle: {
+            color: colorList[i]
+          },
+          _value: e.sgzs
+        };
+      });
+      this.threeDdata = data.map(e => {
+        return {
+          name: e.name,
+          percent: e.value + "%",
+          count: e._value,
+          color: e.itemStyle.color
+        };
+      });
       if (!this._myChart3) {
         this._myChart3 = echarts__WEBPACK_IMPORTED_MODULE_0__["init"](document.querySelector(".right_one_chart"), null, {
           devicePixelRatio: 2
         });
       }
       // 传入数据生成 option
-      let option = this.getPie3D([{
-        name: "普陀区管委",
-        value: 15,
-        itemStyle: {
-          color: "rgba(0, 162, 255, 1)"
-        }
-      }, {
-        name: "普陀区",
-        value: 20,
-        itemStyle: {
-          color: "rgba(255, 71, 128, 1)"
-        }
-      }, {
-        name: "新城区",
-        value: 30,
-        itemStyle: {
-          color: "rgba(20, 210, 62, 1)"
-        }
-      }, {
-        name: "定海区",
-        value: 15,
-        itemStyle: {
-          color: "rgba(237, 103, 1, 1)"
-        }
-      }], 0.7 // 圆圈宽度
+      let option = this.getPie3D(data, 0.7 // 圆圈宽度
       );
 
       if (option) {
@@ -1538,7 +1797,7 @@ __webpack_require__.r(__webpack_exports__);
           },
           formatter: params => {
             if (params.seriesName !== "mouseoutSeries") {
-              return `${params.seriesName}<br/><span style="display:inline-block;margin-right:5px;border-radius:10px;width:10px;height:10px;background-color:${params.color};"></span>${option.series[params.seriesIndex].pieData.value}`;
+              return `${params.seriesName}<br/><span style="display:inline-block;margin-right:5px;border-radius:10px;width:10px;height:10px;background-color:${params.color};"></span>${option.series[params.seriesIndex].pieData.value}% | ${option.series[params.seriesIndex].pieData._value}`;
             }
           }
         },
@@ -1589,7 +1848,15 @@ __webpack_require__.r(__webpack_exports__);
       };
       return option;
     },
-    getChart4() {
+    async getChart4() {
+      let path;
+      if (this.sortType == "1") {
+        path = "zs_vio_equip_collect_asc_ol";
+      } else {
+        path = "zs_vio_equip_collect_desc_ol";
+      }
+      let res = await this.axiosRquest(path);
+      console.log("getChart4", res);
       const offsetX = 10; //bar宽
       const offsetY = 5; // 顶部菱形倾斜角度 (bar宽度的一半)
       // 绘制左侧面
@@ -1640,8 +1907,17 @@ __webpack_require__.r(__webpack_exports__);
       echarts__WEBPACK_IMPORTED_MODULE_0__["graphic"].registerShape("CubeLeft", CubeLeft);
       echarts__WEBPACK_IMPORTED_MODULE_0__["graphic"].registerShape("CubeRight", CubeRight);
       echarts__WEBPACK_IMPORTED_MODULE_0__["graphic"].registerShape("CubeTop", CubeTop);
-      let xAxisData = ["海南大道A线", "海南大道B线", "海南大道C线", "海南大道D线", "海南大道E线"];
-      let seriesData = [20, 45, 80, 46, 57];
+      let xAxisData = res.map(e => e.sbmc);
+      let seriesData;
+      if (this.sortType == "1") {
+        seriesData = res.map(e => e.zf * 100);
+      } else {
+        seriesData = res.map(e => e.jf * 100);
+      }
+      let seriesData1 = res.map(e => "_" + e.sbbh);
+      let seriesData2 = res.map(e => e.ssdd);
+      let seriesData3 = res.map(e => e.sblx);
+
       // 蓝色渐变
       let colorArr = [["rgba(0, 114, 221, 1)", "rgba(129, 228, 255, 1)"], ["rgba(0, 147, 221, 1)", "rgba(0, 88, 255, 0.2)"], ["rgba(0, 107, 188, 1)", "rgba(1, 56, 222, 0.2)"]];
       let option = {
@@ -1650,11 +1926,84 @@ __webpack_require__.r(__webpack_exports__);
           axisPointer: {
             type: "shadow"
           },
+          borderWidth: 0,
           borderRadius: 0,
           padding: 0,
-          formatter: function (params, ticket, callback) {
-            const item = params[1];
-            return item.name + " : " + item.value;
+          position: ["-80%", "0%"],
+          formatter: (params, ticket, callback) => {
+            // console.log("params", params)
+            const item = params[0];
+            let bg = __webpack_require__(/*! @/assets/fbjsc/tankuang_head.png */ "./src/assets/fbjsc/tankuang_head.png");
+            let dom = `
+            <div
+              style="
+              background: url(${bg}) top center/contain no-repeat, #000;
+              width: 339rem;
+              border-bottom: 2rem solid #00a2ff;">
+              <div
+                style="display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding-left: 25rem;
+                padding-right: 10rem;
+                height: 49rem;
+                color: #fff;
+                font-size: 18rem;
+                font-weight: 600;"
+              >
+                <span>${item.name}</span>
+                <span style="">
+                  ${this.sortType == "1" ? parseInt(item.value) : -parseInt(item.value)}%
+                </span>
+              </div>
+              <div
+                style="padding: 10rem;
+                gap: 5rem;
+                display: flex;
+                color: #fff;
+                flex-direction: column;"
+              >
+                <div
+                  style="display: flex;
+                  align-items: center;
+                  background: rgba(0, 170, 255, 0.3);
+                  height: 32rem;
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                设备编号：${params[1].value.slice(1)}</div>
+                <div
+                  style="display: flex;
+                  align-items: center;
+                  background: rgba(0, 170, 255, 0.3);
+                  height: 32rem;
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                设备类型：${params[3].value}</div>
+                <div
+                  style="display: flex;
+                  align-items: center;
+                  background: rgba(0, 170, 255, 0.3);
+                  height: 32rem;
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                  所属大队：${params[2].value}</div>
+              </div>
+            </div>
+            `;
+
+            /* dom = `
+             <div
+             style="
+              background: url(${bg}) top center/contain no-repeat, rgba(8, 12, 23, 0.78);width: 339rem;border-bottom: 2rem solid #00a2ff;
+             ">
+              ${item.name}
+              </div>
+            ` */
+            // return item.name + " : " + item.value
+            return dom;
           }
         },
         grid: {
@@ -1676,17 +2025,15 @@ __webpack_require__.r(__webpack_exports__);
           axisLabel: {
             fontSize: 12,
             interval: 0,
-            color: "rgba(255, 255, 255, 0.6)",
-            // 使用函数模板，函数参数分别为刻度数值（类目），刻度的索引
-            /* formatter: function (value) {
-              const length = value.length
-              if (length > 3) {
-                const start = Math.floor(length / 2)
-                const str = value.slice(0, start) + "\n" + value.slice(start, length)
-                return str
+            color: "#fff",
+            formatter: function (value) {
+              const length = value.length;
+              if (length > 5) {
+                const str = value.slice(0, 5) + "...";
+                return str;
               }
-              return value
-            }, */
+              return value;
+            },
             rotate: 45
           }
         },
@@ -1792,6 +2139,7 @@ __webpack_require__.r(__webpack_exports__);
           data: seriesData
         }, {
           type: "bar",
+          // show: false,
           label: {
             /* normal: {
               show: true,
@@ -1808,7 +2156,33 @@ __webpack_require__.r(__webpack_exports__);
             color: "transparent"
           },
           tooltip: {},
-          data: seriesData
+          data: seriesData1
+        }, {
+          type: "bar",
+          itemStyle: {
+            color: "transparent"
+          },
+          tooltip: {},
+          data: seriesData3
+        }, {
+          type: "bar",
+          label: {
+            /* normal: {
+              show: true,
+              position: "top",
+              formatter: e => {
+                return e.value
+              },
+              fontSize: 16,
+              color: "#43C4F1",
+              offset: [0, -5],
+            }, */
+          },
+          itemStyle: {
+            color: "transparent"
+          },
+          tooltip: {},
+          data: seriesData2
         }]
       };
       if (!this._myChart4) {
@@ -1816,10 +2190,15 @@ __webpack_require__.r(__webpack_exports__);
       }
       this._myChart4.setOption(option);
     },
-    getChart5() {
-      let xaxisData = ["张三", "李四", "王五", "赵丽", "千奇", "昆八", "石九"];
-      let yaxisData = [90, 80, 100, 70, 65, 69, 80];
-      let yaxisData2 = Array(7).fill(0).map(() => parseInt(Math.random() * 100));
+    async getChart5() {
+      let res = await this.axiosRquest("zs_vio_handle_time_ol");
+      let res2 = await this.axiosRquest("zs_vio_handle_total_ol");
+      console.log("getChart5", res, res2);
+      this.threeChartNum = [res2[0].lrzs, res2[0].hdzs];
+      let xaxisData = res.map(e => e.sxr || "-");
+      let yaxisData = res.map(e => e.lrs || 0);
+      let yaxisData2 = res.map(e => e.hds || 0);
+      let yaxisData3 = res.map(e => parseInt(e.lrl * 100) + "%");
       const offsetX = 8;
       const offsetY = 4;
       // 绘制左侧面
@@ -1882,15 +2261,87 @@ __webpack_require__.r(__webpack_exports__);
           axisPointer: {
             type: "shadow"
           },
-          backgroundColor: "rgba(255,255,255,0.75)",
-          extraCssText: "box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.3);",
-          textStyle: {
-            fontSize: 14,
-            color: "#000"
-          },
-          formatter: (params, ticket, callback) => {
-            const item = params[1];
-            return item.name + " : " + item.value + " 个";
+          borderWidth: 0,
+          borderRadius: 0,
+          padding: 0,
+          position: ["-80%", "0%"],
+          formatter: function (params, ticket, callback) {
+            // console.log("params", params)
+            const item = params[0];
+            let bg = __webpack_require__(/*! @/assets/fbjsc/tankuang_head.png */ "./src/assets/fbjsc/tankuang_head.png");
+            let dom = `
+            <div
+              style="
+              background: url(${bg}) top center/contain no-repeat, #000;
+              width: 339rem;
+              border-bottom: 2rem solid #00a2ff;">
+              <div
+                style="display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding-left: 25rem;
+                padding-right: 10rem;
+                height: 49rem;
+                color: #fff;
+                font-size: 18rem;
+                font-weight: 600;"
+              >
+                <span>${item.name}</span>
+                <span style="">
+                  ${item.value + params[1].value}
+                </span>
+              </div>
+              <div
+                style="padding: 10rem;
+                gap: 5rem;
+                display: flex;
+                color: #fff;
+                flex-direction: column;"
+              >
+                <div
+                  style="display: flex;
+                  align-items: center;
+                  background: rgba(0, 170, 255, 0.3);
+                  height: 32rem;
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                  <span style="display: inline-block; width:8rem;height:8rem;border-radius:8rem;background:rgba(0, 188, 188, 1);margin-right:10rem;"></span>
+                  核对数：${params[0].value}</div>
+                <div
+                  style="display: flex;
+                  align-items: center;
+                  background: rgba(0, 170, 255, 0.3);
+                  height: 32rem;
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                  <span style="display: inline-block; width:8rem;height:8rem;border-radius:8rem;background:rgba(0, 114, 221, 1);margin-right:10rem;"></span>
+                  录入数：${params[1].value}</div>
+                <div
+                  style="display: flex;
+                  align-items: center;
+                  background: rgba(0, 170, 255, 0.3);
+                  height: 32rem;
+                  font-size: 16rem;
+                  font-weight: 400;
+                  padding-left: 10rem;">
+                  <span style="display: inline-block; width:8rem;height:8rem;border-radius:8rem;background:rgba(20, 210, 62, 1);margin-right:10rem;"></span>
+                  录入率：${params[4].value}</div>
+              </div>
+            </div>
+            `;
+
+            /* dom = `
+             <div
+             style="
+              background: url(${bg}) top center/contain no-repeat, rgba(8, 12, 23, 0.78);width: 339rem;border-bottom: 2rem solid #00a2ff;
+             ">
+              ${item.name}
+              </div>
+            ` */
+            // return item.name + " : " + item.value
+            return dom;
           }
         },
         grid: {
@@ -2088,6 +2539,12 @@ __webpack_require__.r(__webpack_exports__);
             color: "transparent"
           },
           data: yaxisData2
+        }, {
+          type: "bar",
+          itemStyle: {
+            color: "transparent"
+          },
+          data: yaxisData3
         }]
       };
       if (!this._myChart5) {
@@ -2106,13 +2563,14 @@ __webpack_require__.r(__webpack_exports__);
   mounted() {
     let change = () => {
       if (this._myChart3) {
-        this._myChart3.resize();
-        this._myChart4.resize();
-        this._myChart5.resize();
+        setTimeout(() => {
+          this._myChart3.resize();
+          this._myChart4.resize();
+          this._myChart5.resize();
+        }, 200);
       }
     };
-    change();
-    window.addEventListener("resize", change, false); // 固定写法
+    window.addEventListener("resize", change); // 固定写法
   }
 });
 
@@ -2150,50 +2608,92 @@ __webpack_require__.r(__webpack_exports__);
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
+  props: ["dataList"],
   data() {
     return {
-      kanbanList: [{
-        name: "设备总数",
-        num: "73712",
-        lastWeek: 10,
-        lastDay: -10
-      }, {
-        name: "运行设备数",
-        num: "73712",
-        lastWeek: 10,
-        lastDay: -10
-      }, {
-        name: "设备完好率",
-        num: "73712",
-        lastWeek: 10,
-        lastDay: -10
-      }, {
-        name: "采集数",
-        num: "73712",
-        lastWeek: 10,
-        lastDay: -10
-      }]
+      kanbanList: [
+        /* {
+          name: "设备总数",
+          num: "73712",
+          lastWeek: 10,
+          lastDay: -10,
+        },
+        {
+          name: "运行设备数",
+          num: "73712",
+          lastWeek: 10,
+          lastDay: -10,
+        },
+        {
+          name: "设备完好率",
+          num: "73712",
+          lastWeek: 10,
+          lastDay: -10,
+        },
+        {
+          name: "采集数",
+          num: "73712",
+          lastWeek: 10,
+          lastDay: -10,
+        }, */
+      ]
     };
   },
+  watch: {
+    dataList: {
+      handler(newVal) {
+        if (newVal.length > 0) {
+          this.kanbanList = [{
+            name: "设备总数",
+            num: newVal.find(e => e.tag == 1).cnt,
+            lastWeek: parseInt(newVal.find(e => e.tag == 1).rhb * 100),
+            lastDay: parseInt(newVal.find(e => e.tag == 1).ztb * 100)
+          }, {
+            name: "运行设备数",
+            num: newVal.find(e => e.tag == 2).cnt,
+            lastWeek: parseInt(newVal.find(e => e.tag == 2).rhb * 100),
+            lastDay: parseInt(newVal.find(e => e.tag == 2).ztb * 100)
+          }, {
+            name: "设备完好率",
+            num: parseInt(newVal.find(e => e.tag == 3).cnt * 100),
+            lastWeek: parseInt(newVal.find(e => e.tag == 3).rhb * 100),
+            lastDay: parseInt(newVal.find(e => e.tag == 3).ztb * 100)
+          }, {
+            name: "采集数",
+            num: newVal.find(e => e.tag == 4).cnt,
+            lastWeek: parseInt(newVal.find(e => e.tag == 4).rhb * 100),
+            lastDay: parseInt(newVal.find(e => e.tag == 4).ztb * 100)
+          }];
+          this.takeChange();
+        }
+      },
+      immediate: true
+    }
+  },
   methods: {
-    formatter(n = 0) {
+    formatter(n = 0, name) {
+      // console.log("formatter", n)
       const regex = /\d{1,3}(?=(\d{3})+(\.|$))/g; // 替换规则
       n = String(Math.round(n * Math.pow(10, 2))); // 乘100 四舍五入
       let integer = n.substr(0, n.length - 2).replace(regex, "$&,"); // 最后两位前的为整数
       // let decimal = n.substr(n.length - 2) // 最后两位为小数
-      const result = `${integer || 0}`;
+      let result = `${integer || 0}`;
       // const result = `${integer || 0}.${decimal}`
+      if (name == "设备完好率") {
+        result = result + "%";
+      }
       return result;
+    },
+    takeChange() {
+      this.$nextTick(() => {
+        this.kanbanList.forEach((e, i) => {
+          this.$refs["myNum" + i][0].reset("0", e.num);
+          this.$refs["myNum" + i][0].start();
+        });
+      });
     }
   },
-  created() {
-    this.$nextTick(() => {
-      this.kanbanList.forEach((e, i) => {
-        this.$refs["myNum" + i][0].reset("0", e.num);
-        this.$refs["myNum" + i][0].start();
-      });
-    });
-  }
+  created() {}
 });
 
 /***/ }),
@@ -2335,9 +2835,9 @@ var render = function () {
       _vm._v(" "),
       _c("Right"),
       _vm._v(" "),
-      _c("TopKanban"),
+      _c("TopKanban", { attrs: { dataList: _vm.dataList } }),
       _vm._v(" "),
-      _c("BottomKanban"),
+      _c("BottomKanban", { attrs: { dataList: _vm.dataList } }),
     ],
     1
   )
@@ -2516,7 +3016,9 @@ var render = function () {
                 mode: "manual",
                 from: "0",
                 to: "0",
-                formatter: _vm.formatter,
+                formatter: function (n) {
+                  return _vm.formatter(n, item.name)
+                },
                 duration: "3000",
                 easing: "easeOutQuad",
               },
@@ -2617,36 +3119,78 @@ var render = function () {
         "div",
         { staticClass: "get_out_car" },
         _vm._l(_vm.carList, function (item, i) {
-          return _c("div", { key: i, staticClass: "car_item" }, [
-            _c("div", { staticClass: "num" }, [_vm._v(_vm._s(item.num))]),
-            _vm._v(" "),
-            _c("div", { staticClass: "name" }, [_vm._v(_vm._s(item.name))]),
-            _vm._v(" "),
-            _c("div", { staticClass: "plateId" }, [
-              _vm._v(_vm._s(item.plateId)),
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "dialog_point" }, [
-              _c("div", { staticClass: "dialog_title" }, [
-                _c("span", [_vm._v("浙LDA2778")]),
-                _vm._v(" "),
-                _c("span", { staticClass: "pages" }, [
-                  _c("div", {
-                    staticClass: "page_item",
-                    style: { background: "#FDE701" },
-                  }),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "page_item" }),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "page_item" }),
-                  _vm._v(" "),
-                  _c("div", { staticClass: "page_item" }),
-                ]),
+          return _c(
+            "div",
+            {
+              key: i,
+              staticClass: "car_item",
+              on: {
+                mouseenter: function ($event) {
+                  return _vm.cardChange(item.children[0])
+                },
+              },
+            },
+            [
+              _c("div", { staticClass: "num" }, [_vm._v(_vm._s(item.num))]),
+              _vm._v(" "),
+              _c("div", { staticClass: "name" }, [_vm._v(_vm._s(item.name))]),
+              _vm._v(" "),
+              _c("div", { staticClass: "plateId" }, [
+                _vm._v(_vm._s(item.plateId)),
               ]),
               _vm._v(" "),
-              _vm._m(1, true),
-            ]),
-          ])
+              _c("div", { staticClass: "dialog_point" }, [
+                _c("div", { staticClass: "dialog_title" }, [
+                  _c("span", [_vm._v(_vm._s(item.plateId))]),
+                  _vm._v(" "),
+                  _c(
+                    "span",
+                    { staticClass: "pages" },
+                    _vm._l(item.children, function (child) {
+                      return _c("div", {
+                        key: child.in_rk,
+                        staticClass: "page_item",
+                        style: {
+                          background:
+                            child.in_rk == _vm.currentCard.in_rk
+                              ? "#FDE701"
+                              : "#0091ff",
+                        },
+                        on: {
+                          click: function ($event) {
+                            return _vm.cardChange(child)
+                          },
+                        },
+                      })
+                    }),
+                    0
+                  ),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "dialog_content" }, [
+                  _c("div", { staticClass: "content_item" }, [
+                    _vm._v("所有人：" + _vm._s(_vm.currentCard.belong)),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "content_item" }, [
+                    _vm._v("电话：" + _vm._s(_vm.currentCard.phone)),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "content_item" }, [
+                    _vm._v("违法行为：" + _vm._s(_vm.currentCard.against)),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "content_item" }, [
+                    _vm._v("违法地点：" + _vm._s(_vm.currentCard.addr)),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "content_item" }, [
+                    _vm._v("违法时间：" + _vm._s(_vm.currentCard.time)),
+                  ]),
+                ]),
+              ]),
+            ]
+          )
         }),
         0
       ),
@@ -2687,152 +3231,45 @@ var render = function () {
         ]),
       ]),
       _vm._v(" "),
-      _c("div", { staticClass: "select_tabs" }, [
-        _c(
-          "div",
-          {
-            class: { tab_item: true, tab_sel: _vm.selectThree == "1" },
-            on: {
-              click: function ($event) {
-                return _vm.sortChange("selectThree", "1")
+      _c(
+        "div",
+        { staticClass: "select_tabs" },
+        _vm._l(_vm.cardThree, function (item) {
+          return _c(
+            "div",
+            {
+              key: item.xh,
+              class: { tab_item: true, tab_sel: _vm.selectThree == item.xh },
+              on: {
+                click: function ($event) {
+                  return _vm.sortChange("selectThree", item.xh)
+                },
               },
             },
-          },
-          [
-            _c("span", { staticClass: "label" }, [_vm._v("全部")]),
-            _vm._v(" "),
-            _c("animate-number", {
-              ref: "myNum1",
-              staticClass: "num",
-              attrs: {
-                mode: "manual",
-                from: "0",
-                to: "0",
-                formatter: _vm.formatter,
-                duration: "3000",
-                easing: "easeOutQuad",
-              },
-            }),
-          ],
-          1
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            class: { tab_item: true, tab_sel: _vm.selectThree == "2" },
-            on: {
-              click: function ($event) {
-                return _vm.sortChange("selectThree", "2")
-              },
-            },
-          },
-          [
-            _c("span", { staticClass: "label" }, [_vm._v("定海")]),
-            _vm._v(" "),
-            _c("animate-number", {
-              ref: "myNum2",
-              staticClass: "num",
-              attrs: {
-                mode: "manual",
-                from: "0",
-                to: "0",
-                formatter: _vm.formatter,
-                duration: "3000",
-                easing: "easeOutQuad",
-              },
-            }),
-          ],
-          1
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            class: { tab_item: true, tab_sel: _vm.selectThree == "3" },
-            on: {
-              click: function ($event) {
-                return _vm.sortChange("selectThree", "3")
-              },
-            },
-          },
-          [
-            _c("span", { staticClass: "label" }, [_vm._v("普陀")]),
-            _vm._v(" "),
-            _c("animate-number", {
-              ref: "myNum3",
-              staticClass: "num",
-              attrs: {
-                mode: "manual",
-                from: "0",
-                to: "0",
-                formatter: _vm.formatter,
-                duration: "3000",
-                easing: "easeOutQuad",
-              },
-            }),
-          ],
-          1
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            class: { tab_item: true, tab_sel: _vm.selectThree == "4" },
-            on: {
-              click: function ($event) {
-                return _vm.sortChange("selectThree", "4")
-              },
-            },
-          },
-          [
-            _c("span", { staticClass: "label" }, [_vm._v("普陀山")]),
-            _vm._v(" "),
-            _c("animate-number", {
-              ref: "myNum4",
-              staticClass: "num",
-              attrs: {
-                mode: "manual",
-                from: "0",
-                to: "0",
-                formatter: _vm.formatter,
-                duration: "3000",
-                easing: "easeOutQuad",
-              },
-            }),
-          ],
-          1
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            class: { tab_item: true, tab_sel: _vm.selectThree == "5" },
-            on: {
-              click: function ($event) {
-                return _vm.sortChange("selectThree", "5")
-              },
-            },
-          },
-          [
-            _c("span", { staticClass: "label" }, [_vm._v("新城")]),
-            _vm._v(" "),
-            _c("animate-number", {
-              ref: "myNum5",
-              staticClass: "num",
-              attrs: {
-                mode: "manual",
-                from: "0",
-                to: "0",
-                formatter: _vm.formatter,
-                duration: "3000",
-                easing: "easeOutQuad",
-              },
-            }),
-          ],
-          1
-        ),
-      ]),
+            [
+              _c("span", { staticClass: "label" }, [
+                _vm._v(_vm._s(item.xzqhmc)),
+              ]),
+              _vm._v(" "),
+              _c("animate-number", {
+                ref: "myNum" + item.xh,
+                refInFor: true,
+                staticClass: "num",
+                attrs: {
+                  mode: "manual",
+                  from: "0",
+                  to: "0",
+                  formatter: _vm.formatter,
+                  duration: "3000",
+                  easing: "easeOutQuad",
+                },
+              }),
+            ],
+            1
+          )
+        }),
+        0
+      ),
       _vm._v(" "),
       _c("div", { staticClass: "left_three_chart" }),
     ]),
@@ -2847,28 +3284,6 @@ var staticRenderFns = [
       _c("span", { staticClass: "title_label" }, [_vm._v("多次违法车辆 TOP9")]),
       _vm._v(" "),
       _c("div", { staticClass: "sort_btns" }),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "dialog_content" }, [
-      _c("div", { staticClass: "content_item" }, [
-        _vm._v("事故地址：事故地址信息"),
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "content_item" }, [
-        _vm._v("事故时间：2023-11-01 12:22:30"),
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "content_item" }, [
-        _vm._v("事故当事人：王先生"),
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "content_item" }, [
-        _vm._v("事故责任车辆信息：浙LDA2778"),
-      ]),
     ])
   },
 ]
@@ -2903,7 +3318,7 @@ var render = function () {
         _c(
           "div",
           { staticClass: "right_chart_legend" },
-          _vm._l(_vm.pieLegend, function (item, i) {
+          _vm._l(_vm.threeDdata, function (item, i) {
             return _c("div", { key: i, staticClass: "legend_item" }, [
               _c("div", { staticClass: "label" }, [
                 _c("div", {
@@ -2979,31 +3394,13 @@ var render = function () {
       _vm._m(1),
       _vm._v(" "),
       _c("div", { staticClass: "filter_bts" }, [
-        _c(
-          "div",
-          {
-            class: { filter_item: true, filter_active: _vm.filterType == "1" },
-            on: {
-              click: function ($event) {
-                return _vm.sortChange("filterType", "1")
-              },
-            },
-          },
-          [_vm._v("违法核对总数：1427")]
-        ),
+        _c("div", { staticClass: "filter_item filter_active" }, [
+          _vm._v("违法录入总数：" + _vm._s(_vm.threeChartNum[0])),
+        ]),
         _vm._v(" "),
-        _c(
-          "div",
-          {
-            class: { filter_item: true, filter_active: _vm.filterType == "2" },
-            on: {
-              click: function ($event) {
-                return _vm.sortChange("filterType", "2")
-              },
-            },
-          },
-          [_vm._v("违法录入总数：759")]
-        ),
+        _c("div", { staticClass: "filter_item" }, [
+          _vm._v("违法核对总数：" + _vm._s(_vm.threeChartNum[1])),
+        ]),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "right_three_chart" }),
@@ -3078,7 +3475,9 @@ var render = function () {
                 mode: "manual",
                 from: "0",
                 to: "0",
-                formatter: _vm.formatter,
+                formatter: function (n) {
+                  return _vm.formatter(n, item.name)
+                },
                 duration: "3000",
                 easing: "easeOutQuad",
               },
@@ -3315,6 +3714,39 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./src/assets/fbjsc/1.png":
+/*!********************************!*\
+  !*** ./src/assets/fbjsc/1.png ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAW/SURBVHgB1VZLbFRlFD7nv/Nk2k6HdqaUEGaoGCMsXJiYuDCMLlyZqEtX4J6ko3tFV+woRJcmhZjgwkXFBIlxQdEEIkahgKKCTHm1dehjhmmn87r3eP7Hnbl3OkxJXfEn/9z5H+ec73zncS/AszzmfvpyvHD56/Pz5yYzsMUh4H+MeqP+FiBk12D1Tdji6AkgPzU5uDTzbW7lytRgt/P+xOCNamUVLCt8udv53MXTuflLvdnpCWC5fP+dxbv5ifXHpSOdZw9+nDwUDEdyg8kUiWBgKj814QN569xnWcuyJuprlNsygH/uXD9dWvj3/Xg8kbt39vPJK5O5jNy/+dXRjFOtHkMEIAAkcjKPa5XzrtzMqY8PQrU+VZqbm57P3z7aywbCU4zKzJn8o3uzmYd//T67tlo6Mbx7bLw/OZIObothfMco3L8+Aw6rKi8WTq4Vi8WhkdHx+NAwohU4tPft8VOwVQbc4Thwhh/k2JQBByd4I20FA/D3r79AeXkJCg8fABFBs9E8ZDedHP9FQKSG41zYTPdTAaCm8w1zjZJyl3ZEgak9Y/Dzd2chtXsPb5K6Kyll28TPCy+++8HsZroDG4zNX8qyliM8D7T2HAdXCg9c9WrK3/S+/VCt1KB/aDsUFxbaOhjC9kw6SwsX5V8CiUcg54j1IaZeueq158sBWrmUgbrImxPSv9JfQTd++B5LhQUIR7dB//AQhPgZCIc5Gg406nVo1Orq2azWmLEG7Mu+AdGBAb93CrvzOiZfne7OQCMw6YGELRA8X3jtADy6cxtWOeaRvn4IRiJq2rYNVq0GwagNtco6OAwsMbIDovGurYO9FLKkp72Y2meLvy2zxwl46sH0Ark6SCcIeVww9PtHEZMvJ7ozAJhQSrraMsrIrIWrHP3OKHkvMOwsdh81/ipAS28Ji70RMvnUnnPrD2VR7oEwk9gS8j15H92p5ZybV1HWrsof4T3T597hZ4CTjcFLL1F5svSI9diA21PGM2H8J1XnhnK1YajmbBeEo2l0lhYBG3XEXaZEVeEgQcfoYEB6aUkGgDirIdrHyyBQucjdyD0XRkzgvbMn8dqxw3CXn1JGydqEVFrmZOfemEgScWWACLje42YMGAelrgBRbR0hNgAYjfHNkEbPntr1Cv35xUdYmdcVG0qkDHuoQGJqlyKDa5OXATAtjHRNYS8GTIwkA+USwsCQEsPYoJFE6SlV5mexwa/hWHqfEovtfK6dI3KGY5r22AD34waYXEGTD/RkAMqIoZjpB4etNxqGXqOcFQXiSdh/+DgJocWjo2M6cZURizAUJmDDxPIYDIG774auRwgsXTLcXKRx7BvgvsF7gbDvWnRYUkwqBJGRDAQVQ6QTV8pbbKgvDhiOAq2vAdpN4hDq/g3UKwTGewlECksgnIQq44Uw4dHPysJdsKtrEBnaYUrNajEkdWCAk7fZ5GcYlHFT2jocmwFgr5H5k8Kq86AkymOAldRXCkqkb+wl8PcCoavF5ioIhEyZinZ4hdUzBG4fkImkkyq0jcNhIzNBbf4Iy/lrKqdjO583XpnOp25wzQYjmr0wA7eMGfS17m4ATILIe02dU25VqFJCU0o8Qsk9mMq+B9Gde02ZCTBfCqQ+jxRbqNfoek24gXTvgtYLrpemlTo65k6Tn8F2r1edDfVVf21reE5TA2i9S4X3HDGawu4MgPGYjPeO0S7Ceu2mD7oAVNPWgmQ8VAnLTYscNJ9HRq9p1x2NqEsZYtuSZRnV5jWLLZzmY8X7BiT3TO8J0dpQwORdsfH17A+IENPtjPaWle6AZoJbCa091Yat9tsUzR2QsRfYesPqbnn1yQBsOqWbieUB4atv9BvwTOwA3p7ULl+1PuEjHToGNcqfMGMH+X66RbE+0crcBOQPVUXzxi8en0hbAxV5/SmG+o73BNAGsp7duMvVsPFDussdMPfMfbKL3K9nOb2Knbf/A8aAQhCNqz7HAAAAAElFTkSuQmCC"
+
+/***/ }),
+
+/***/ "./src/assets/fbjsc/2.png":
+/*!********************************!*\
+  !*** ./src/assets/fbjsc/2.png ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAbKSURBVHgBzVfZbxtFGP/N7Nq7juPEIS2h6YFDS0NAUBoQEodEq1bwAA/0Ad6gLQjxCIg/gMBDkThUhARPSIUXQIhLgIQQSKHiqABBOCpK0zRH48ZpQ2LHR+y9PHwzu+PYbd1KfYFR1js7x3f8vt/3zQT4jxvDZbZDX+QyWzelRm3LwKlSbfue7T0FXEYzcZltpRSkJ05VMjGTg/lmmoYuywDebuKLI/nM0Rn34JFj1cyF5odv7C30dlkFyzSmbfvCysdO1p4cm3IewEVaWwTmFmo7qm79Kca49G7/ufPlsv9xZn0yvbTsds+drR6ioT3N86+/n73578nSq1bM+I0+P2mnpy0C33938sPJU5U9Sdve9/7XpdEXDuUyeu7Q5wsHhcA2QIDezA/EA6+8kz2o5w++O7vjqiviH1dK7vTE1Mp+XKRdkoTf/uGNZudX7j56osBmcuWRzPpObOizRuJxA9u2dqFU8fDniQoqVQfzS95Iseziuo3JZzevtxnn/K09u9Zc1IBLk1DgsBBih2DUA0Y8zwdjtji7WGNHfg9gxRlOzJbRvyYO3wtGPL+uNpFvAnXx9qXEn2fA2JRIw8I+knFTneANXJHBPJPi6IcAo4cMYkPXdOLDLydhcIbbbl6HQsmT4wpSeoEbjGUGex/5JSv2RqIPcwPfbF/HptsaMJYTGVI0SsozJEmYJM2wmRR2XrDsuIlbru/GzOkiUh0xMsBXxskmX3aHKbfsN7gkCg0x7BV1zJCOnc1GtBhgSOVQyrVCBXwdDgLPQdxstWLXHVdjseAie6YaLqe1CeKGHwTgMQ6uZWi7GMkmDtOzU8toSBzLi7RZQ14PCGi0weZzZfzw8xxWqgIbrupGwjbhui4tCmBSIQLjCAJOIefIl2pIWgJ33dkP2zbRIi9yyRO4RqPQMOAYwU/7J6MwNpqEU8ZUNsepw/MDUiaQoBJsxbioOQHz6Ntx68KyDZgUe1me0eRAs7dSFBcYGIoMaAmBjLSETaC1ae4lbM4SUenQwhMU68Sq/NW5KHzsHO7oUOnWUog4DzdI4vCmt+P6kJ7Kvn7kH3FTNI/p9fLJFx353TKn51t0tnxEAjUSf00XWbHi4rWPTsDxglDBqhLZV0Zrwcoo6sv3B4dnMZWrYOZMGc0y5WM36WyEgA4U1IMGY1XLU1XLl1zsvqUPMZNpIYoSpRWfvTc6jfHZokL26QeH0N+bUJx3/brYPdzHFpdr7M+pZWy5r1NEyDMVEvsCBkQINJgyOV9GOmliueLj9EIVW/qTymOZ0xKFhw98z+YWq429v44v4bMDO0RnwmSuG7Cj00Vc25/EruE+/DG5zLZt7hYNTtTacyCEl0aTlEKFsoe+njgyfR3oS1uKi3LN8dkiC6hMDl/bg69e2oktG1IoVX06C6rKiXRnDLcP9YCAoDPClz6JKDwqdG0RYFHRoGqI3D81DG1MoUAcGNzUGWZCtGaQFH5+4G6FyPxSjU1kSyDPKQS2MlDKWk99CgWhGMNiyWXlqi+6OkwlJo72CMCIELDjXBFvkWq8TVVNM1pKkHygqshOni6xx1/5Se194v7NSlkjKwwmcksOHF+IBaqWSUphg52flqskRIiTtL9S80HWYm13HB1UXEihiBBgOv/Hs0U89vJPkox45qFB7LtnQMOopMSpIA1tTNJ+k1n0Xlx2JUKqRiBoh0BkvVTuEHxFEh4EdXQQGhoZacR4tiQefSlUPrL3Bjx67wCa6wGPUo6qIspVT8lZm46H9YC1VtoWA4wotx2vrrzftNaGQdiv1BpFSOSI+ftf/JFJoVs3dGKh4OCNTycwt7iiDVQwy/VVN5DkxborLEVGyY+2aSjrAB1iKk87LI6Kw5Cn20530kCcOKAz4OfjS8oj2cazZXomVH/38JVKeURC5vkC63osOhnrwvUFW9ul+KG8Dy7EAR2CsIKDxQiOlM2xvFIXKugq+mC3Dqbx5jO3hht0Tad9129KaeWqSaLmKwF6UzGmDwDOmJJttzMgOnSUlBSRT6ZRVwendBKIihAG+pLqidjcqHCR6tBMGqIbNVuTikHWC4vCmIjz8GRslwXAKslE1JckihlcXQfVFG84rE87JVDZps9aFhpjUeaQbkgkfRl6FpVx2lNvdrrZgLIrlmhzj4huD3TdVvIMI1Sq94iwpLac2uLcS5sIN1AS6QxS2+hnustmAw2nWzbV8bwiUuRVXCJghv2oBjA9r/qsMcY4WtJQH8GEhDqG1XoeIvsc2iEgW9UV+2h0L3W3STQa1xgoLUL35Y2Z64tHk9ctUkUjXgUyQP6H9Fwixr7B/6n9CxAiyZCkPTMFAAAAAElFTkSuQmCC"
+
+/***/ }),
+
+/***/ "./src/assets/fbjsc/3.png":
+/*!********************************!*\
+  !*** ./src/assets/fbjsc/3.png ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAa5SURBVHgBzVfda1zVFv+tfc6ZOTNJk5kkbVqS20xbRW+8XCsX7+WK2lYE8a0VQZ+0BR98s+AfYPwA9UEqiCgqVkWw4EMFHwQ/SBWt+IFfL2orbVLbxuZz0kwnM+drufY+Z86caT4KfdEdMvvM3nvttdbv99trnwH+4ka4yjZ1+HClOLJ53M7n4U0v3lTet6+Kq2g2rrI16tVSMOlVlGNDWaokQ1cVgFprYuroO5XGN58fWv7yg8pq85tv2VktbtlcdTZ0T7huaVXn9ePjj1z66rO9WKetiYA/M7970Q8OkmXr7A5cPh9c9I/2jmwtNRcWeusXpg/L0L7s/OlXXtxZPXXqeSuX+0G+vreWnzUR+OT4N0eWzkzsy5d798+8d2T89EtPV1pzfxx56xBzdKN+ZgZFQbh38uXnD6XOX3phd9dA39Fm05tYnJg6gHXaFUVYP/7xeG1qetf8iZN06dzUWPfICLoGB8ZIxDdw/XXwazUs/HoCnvT16bmxQPqe7SOPdQ8NE1n0xqa9968bwBVFyMyfyv9u/RiBx8LGso6bG/MLNPvjT1COg9rvZ5Evl8GhPxaGvrYBEZiY37zS/isC4O/HSwiC/fL4b9mJggiVBCaSpj/1Kipv34Yzn4wLiQobR69Ho9qpQ1JEA0P9D/C3Hz6IyAx9Csc5RjftmVgzAHFeQRiOi5OKkMNaIrals2kz1XoScaF8wz9RO3cedrEoh7CaWUNwco4O9oBEwlAsQySBhJPiY082iE4EGONyqCsZT6RV5kc+vDCC5p31H8fLh/57M4QKXJqaSg3sQgFhJGst+aKsOJp4b93rvfWJ2XN5QjH0pBYywSBGAbQ4M4/ff/rFSL6vMgI7n4O3VIPfaMKypRDZli5GAouFxuycMd+6cxS2m8OKRsSCxPYWClkESrKBTi97MjTp6B0cQO+dtyL0fLENEUUMa2gQds7hwPOJPU/mPLZyNmhkC+kAE3PWekmSyezpYhUKXL2eEpHF6zTWra8WsWVZZLXw19xKsLY4hZRjp6tIGSdtl2YPagfA6Gh21j/YSgxUawPTs+9BlEzk5JAKQM+rOAhTzjiBV2csU1G9BlXsbq83c4mdHaVuOyuh3tAIR0k2CsHsBYqaDdS/PiZnPNSiYkOTXtPu43FjJ6kqm7V94+fvES7OI5ibRrqn7pXCOhREWRjBzWWEzTpy14zKSid2EEOPqLFMi18dQ/PCWah8kfp23Q271GcyZBFJbscoRcuXKJg+B3vzcDt7jQivRoFBwEofg+osqFBEJEHwUhV2/yCbbA3kis+++iwF1fl0fePMSWw9+CSb4+Z7FM79Aau8EbkdNyCYOU/24DAbxxqAiFehQKNiYFUmEJV3EXkNqG45HH2bQF29ZGC0bK5PnCR9EvLX/gtDjz4Dq7cPOphgsWpsqdAFe3h7jKLWj6bWUKBiulxcmYKodhH2xi0aaqj+LWJIrXjJ3XYdhg8+xfrsNyd/I8216inDKvWTSUKv7OmTIEW5rqAoVEggTPkC4bJjeLkIkQpFSq1waXRAcuGIuJJ5JY+OFKM8Nc+coqnXn5MKWcDG+x4GSVHS4tX/JJmGy0siiJC5UQPyLrXsswioFRrQ11jgG/41/Kp/UDZ2OD4hCYRJoJIdK4FfBxmcn4idqwRq2yFbI+d2kyU9N+rJvNVRCTo1kGRPbpdwEAp/zZgRJ5/M2SLKBi19dxzLp0/A3bqDSrfdZcz9hbnWkUTKtyAVBZ4kJPsUe5I9rHUqoTI3IEl9FdH1QLk9ooU52cAjyrk6co68JmbefY2UIFS+8x5c/OIjY53/RyV2kNZAEX0YQMk+HBQkIV9ozXcW5RUUJAWIHFduM1sQkJcPQcNUwKSQyHFE8X93iLDqmHv/bQQLsyjc+H90/ef2FgWGIn0aNYWaUf0qQ253G5nVEUhEaC4Q+ZAATCD+snm9Mdwml9Omex9C/eZd8M9PIjdUQbFyLZKXlXadlmCiQBLId5mk2NQwKynVWCUAV6IKGK26rnIFAyE5RalsgTbOxKnQravjNaPtCtfuDVXMQlthgy6Log1Jxs4lzsVBiDUQsKx4EzIMxttJbSdO1J15fYidcec1F19IxlpoM9CL57i+xPZxEG77IHTAwYuz8xJ7ORUSRy1ttKhB5n7nTvNOaDv3IKQ3J/MElTdtS9HsMIroCePMSgqGZccFyBQXfdMZIlvz1B5LxlV6DNOiBcuJb0qkto9nXa74XcAXF/bL6IMyJT88BI2UViTvCS30o9bNSO0lyVz2u2GEq9L/IP3jtKF8DH+n9ifji7B4oawmkwAAAABJRU5ErkJggg=="
+
+/***/ }),
+
 /***/ "./src/assets/fbjsc/Footers.png":
 /*!**************************************!*\
   !*** ./src/assets/fbjsc/Footers.png ***!
@@ -3337,28 +3769,6 @@ module.exports = __webpack_require__.p + "img/Header.f0ae29ac.png";
 
 /***/ }),
 
-/***/ "./src/assets/fbjsc/Lift.png":
-/*!***********************************!*\
-  !*** ./src/assets/fbjsc/Lift.png ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAQICAYAAAA5qzriAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMiSURBVHgB7d2xbhpBFIXh2cXYjbFkucKVKyq7cpU02SauyAP4BfJqeYHIhdMQGcWioKKjoyJFkoJNBQtkLtmVUoB0boSlRf4/ycwWvh7bDbOH2bnJ09PTx+CQBqejJEk+BwAAgJpIlG8aDAYX8/n8bVEUz9LyZ7FYnMSh3Ww2j6WC9XrdqUZ1gdWpRqmgWoTZ6F7CSQXn5+c/7KfPZrOfAQCALZKYOtx7Co7iV8tb0AsAAAA14UkdbuI99dCTOlgu0FJTh7aNy+XySs0Ebu0lTdNrtaBnLzE5eVRjit82xuRkLqcO5Sx5AABgC0sdMk+BhQgdb8E4AAAA1ISUOvT7/ZblAnmeT9RbfPtgJjs7O7uQChqNxrGNcZZTqSCGB3flZSYVxHhiVF4O1SBkYmNMH6bqH21pwzhGLvMAAMAWljrcegosRHAXTAMAAEBNSKnDw8PDiQUI9uyAdANu3xzv2rty6vAvNRPoVqM6Q/XRz1jd6zCuRnWDh6UNU1IHADhUZAIAAOCVIRPYhUwAALB3Sb/fv/QUHFVveHJB4DE8AABwaCx1sGcg7NqTOtzb2urFUod35eV7dYbNIQqr1eq7mjoMN79Omo48qQNLPQDATkn1dqqy1MF1OOR/taT4FAAAAGpCPabh0nKBoii+eJY/LbklRVwiXdsYZ7lVZ6g+XDpVc43Hcqav7iWc9F8ytvqczWZsjgAAbJXQCBMAALwuNMJU0AgTALAXljp88BTYExZtb8EwAAAA1ISnJUVHPhMh/G1JYedlaY0w0zS9qEapYLlcvqlGqWC1Wj2XM3xTu2RswoP4h//ytKQYBh7LAIADlay7XWcmkKbOTKDR6AUAAICa8OxEuLGTCzw7EWyvQEvdibBZU8Vb/Cv1BnxzQne8xb9WC3r2UhTFo7p1YXOuQ7PZnMs7EcpZyAQAAFvZToTMU2AbCzregnEAAACoCc9OhHae5xPPToRMbkkRP/Y/tjHOoh2iEMODu/IyU/c6jMrLoRqETGyM6cPUsxNhTEsKAMAuljq4Q4TMW0AjTAAAUBs0wtyFRpgAgL17+UaY7rfdPypkdgLnli7iAAAAAElFTkSuQmCC"
-
-/***/ }),
-
-/***/ "./src/assets/fbjsc/Right.png":
-/*!************************************!*\
-  !*** ./src/assets/fbjsc/Right.png ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAQICAYAAAA5qzriAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKkSURBVHgB7d0xb9pAGMZx22CyxEiICaZMTGTK1C5laaZ8gXyBfsKKgS5UoEYMTGxsTHRoO9idjG16r2tLHRrpuaqJEun/k8LrgTcXsuB7OO7C1Wr1IfAQBZ66YRh+DAAAAF6IUHnSZrMZ5nn+tiiKB+n253Q6XbgyiuO4JzWcz+dJW9UbrElbpYb2Jsyq9y2c1DAYDL7Zb0/T9HsAAMBfhC51uPdp6LqfxLdhGQAAALwQPqnDtZtTb31SB8sFEjV1GFkty/JKzQRu7CGKoqnasLQHl5ws1Jjip1WXnORy6tCMkgUAAAAAAEBKHdbrdWK5QJZlB3WKbx/MzPr9/lBq6HQ6PatulEupwYUHt83lTGpw8cSuudyqQcjBqksfjuqLtrRh7yKXPAAAAAAAAFLqMJ/PLyxAsO8OSBNwe7Kbtd/JqcOf1Ezgrq3qCPu2qmsd9m1VF3hY2nAkdQAAAAAAvApkAo8hEwAAAAAA4BlY6mDfgbBrn9Th3jWNnyx1eNdcvldHqDdRqKrqq5o6bOs/J4p2PqkDOy4AAAAAAPCP1G0axpYLFEXxySd1SOQjKVwmMLXqRrlRRxg39VLNNRbNSJ+9kxPpv2QszEnTlMURAAAAAABwEKaGgzABAAAAAPDncyTFRN4TIfh9JIUdVZmoB0YM2yo1lGX5pq1SQ1VVD80IX9RTMurwwL3wHz5HUmwDvpYBAAAAAHgNfFYiXNvOBT4rEWytQKKuRBhZdVP8K3UCbomDTfGnasPSHoqiWKhLF+p9HeI4zuWVCM0oZAIAAAAAAPitRBhlWXbwWYkwk4+kcB/796y6UbRNFFx4cNtcztS1DrvmcqsGIQerLn04+qxE2HMkBQAAAAAANQ7CfAwHYQIA/rvQtk/2aei2b3gq77fdX9/kTTAQlHY+AAAAAElFTkSuQmCC"
-
-/***/ }),
-
 /***/ "./src/assets/fbjsc/bg.png":
 /*!*********************************!*\
   !*** ./src/assets/fbjsc/bg.png ***!
@@ -3366,7 +3776,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAQICAYAAAA5
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "img/bg.cba5c333.png";
+module.exports = __webpack_require__.p + "img/bg.ed61e777.png";
 
 /***/ }),
 
@@ -3422,17 +3832,6 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAAAoCAYAAACh
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "img/icon.2fa434cd.png";
-
-/***/ }),
-
-/***/ "./src/assets/fbjsc/map.png":
-/*!**********************************!*\
-  !*** ./src/assets/fbjsc/map.png ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "img/map.1a301526.png";
 
 /***/ }),
 
@@ -3598,6 +3997,35 @@ var add = __webpack_require__(/*! ../../node_modules/vue-style-loader/lib/addSty
 var update = add("51c1ddf4", content, false, {"sourceMap":true,"shadowMode":false});
 // Hot Module Replacement
 if(false) {}
+
+/***/ }),
+
+/***/ "./src/axios.js":
+/*!**********************!*\
+  !*** ./src/axios.js ***!
+  \**********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! axios */ "./node_modules/axios/index.js");
+/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_0__);
+
+axios__WEBPACK_IMPORTED_MODULE_0___default.a.interceptors.response.use(function (response) {
+  if (response.data.data) {
+    return JSON.parse(response.data.data);
+  } else {
+    console.log("--------", response);
+    return Promise.reject(null);
+  }
+}, function (error) {
+  if (axios__WEBPACK_IMPORTED_MODULE_0___default.a.isCancel(error)) {
+    return Promise.reject(error);
+  }
+  return Promise.reject(error);
+});
+/* harmony default export */ __webpack_exports__["default"] = (axios__WEBPACK_IMPORTED_MODULE_0___default.a);
 
 /***/ }),
 
